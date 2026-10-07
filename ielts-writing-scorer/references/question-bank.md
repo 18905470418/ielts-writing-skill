@@ -9,7 +9,7 @@
 
 1. 每条的「隐含限定」是 TR 的第一证据：未回应限定词时 TR 封顶 6.5（参见 `band-rules.md` L1-TR-6.3 / 65.3 / 75.3）。
 2. 「常见审题失误」列出该题真实低档样本的覆盖缺口；反馈时对照用户作文逐项检查。
-3. 「双边观点池」给出可展开维度与 L5 观点库入口；引用时须带 L5 编号。
+3. 「双边观点池」给出可展开维度与 L5 观点库入口；内部检索时保留 L5 编号，最终报告只写观点角度，不显示编号。
 4. 运行时遇到库中未收录的题目：按同一格式现场生成（标注 `source: runtime-generated` 与日期）并追加。
 
 ## QB-001｜Some children spend hours every day on their smartphones. Why is this the case? Do you think this is a positive or a negative ...

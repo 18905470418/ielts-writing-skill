@@ -16,4 +16,4 @@
 | 媒体与广告 | 25 | 5/20 | 89% | [viewpoint-bank/media.md](viewpoint-bank/media.md) |
 | 全球化与工作 | 26 | 6/20 | 54% | [viewpoint-bank/globalization-work.md](viewpoint-bank/globalization-work.md) |
 
-> 使用纪律：引用条目须带编号与来源 id；库中无该主题时明确报告「暂未收录」，禁止编造。
+> 使用纪律：内部检索条目时保留编号与来源 id；最终报告只呈现观点本身，不显示编号与来源 id。库中无该主题时改用通用表达，禁止编造。

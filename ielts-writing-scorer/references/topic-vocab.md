@@ -17,4 +17,4 @@
 | 全球化与工作 | 49 | 61% | 0 | [topic-vocab/globalization-work.md](topic-vocab/globalization-work.md) |
 | 通用（跨主题） | 1 | — | 0 | [topic-vocab/generic.md](topic-vocab/generic.md) |
 
-> 使用纪律：例句须结合用户当前题目重写；B 级/低频条目反馈时标注不确定性。
+> 使用纪律：例句须结合用户当前题目重写；B 级/低频条目反馈时标注不确定性。内部检索时保留 L6 编号与来源 id，最终报告只呈现词伙本身，不显示编号与来源 id。
