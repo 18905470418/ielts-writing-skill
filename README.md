@@ -59,14 +59,14 @@
 
 提交 Task 2 作文并要求打分、批改、提分诊断、高分范文或写作练习时触发。建议把题目和作文一起提交；没有题目时 TR 无法评分，Skill 会先要求补充题目，不做硬评。讲解和反馈用中文，英文只出现在原句、修正句、范文与词伙中。批改结果写入一个 Markdown 文件（默认在用户当前工作目录，文件名「雅思写作批改-<主题>-<日期>.md」），文件内不含表格；对话里只给文件位置与简短导语。
 
-示例：
+示例（简短的中文评测提示词，可整段复制）：
 
 ```text
-题目：Some people believe that university education should be free for everyone. To what extent do you agree or disagree?
+请用雅思写作 Skill 批改下面这篇 Task 2 作文，按 TR、CC、LR、GRA 打分，把完整报告写成 Markdown 文件（不要表格），并告诉我最优先修改的一处。
 
-作文：<粘贴你的 Task 2 作文>
+题目：<粘贴题目>
 
-请打分，并告诉我最值得优先修改的地方。
+作文：<粘贴作文>
 ```
 
 ## 知识资产
