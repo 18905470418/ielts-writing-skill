@@ -1,0 +1,2529 @@
+{
+ "education": [
+  {
+   "gram": "practical skills",
+   "function": "观点表达",
+   "gloss": "实用技能",
+   "example": "One major advantage of vocational programmes is that they equip trainees with practical skills that directly reflect the demand of the labour market.",
+   "sources": [
+    {
+     "id": "B8-ADV-009",
+     "band": 8.0
+    }
+   ],
+   "docs": 10,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "higher education",
+   "function": "观点表达",
+   "gloss": "高等教育",
+   "example": "Furthermore, education pathways are increasingly flexible, allowing individuals to pursue higher education later in their lives if necessary.",
+   "sources": [
+    {
+     "id": "B8-ADV-009",
+     "band": 8.0
+    }
+   ],
+   "docs": 7,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "academic subjects",
+   "function": "观点表达",
+   "gloss": "学科课程",
+   "example": "While academic subjects undeniably equip students with essential analytical capabilities, I contend that art and music education develops distinct cognitive and emotional competencies that ...",
+   "sources": [
+    {
+     "id": "B8-DIS-002",
+     "band": 8.0
+    }
+   ],
+   "docs": 6,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "educational institutions",
+   "function": "观点表达",
+   "gloss": "教育机构",
+   "example": "Educational institutions should integrate structured digital literacy programmes into the curriculum, equipping students not merely with technological skills but with the critical awareness ...",
+   "sources": [
+    {
+     "id": "B8-REP-029",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "communication skills",
+   "function": "观点表达",
+   "gloss": "沟通能力",
+   "example": "In addition, international graduates often possess strong communication skills, foreign-language proficiency, and global professional networks, all of which significantly enhance their ...",
+   "sources": [
+    {
+     "id": "B8-ADV-030",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "university education",
+   "function": "观点表达",
+   "gloss": "大学教育",
+   "example": "On the one hand, university education offers clear long-term benefits.",
+   "sources": [
+    {
+     "id": "B8-DIS-033",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "formal education",
+   "function": "观点表达",
+   "gloss": "正规教育",
+   "example": "The appropriate age for children to commence formal education remains a contentious issue in educational policy.",
+   "sources": [
+    {
+     "id": "B8-DIS-001",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "tuition fees",
+   "function": "观点表达",
+   "gloss": "学费",
+   "example": "The plight of international cohorts in South Korea serves as a poignant paradigm; upon relocating, many are confronted with a cost of living and tuition fees that are astronomically ...",
+   "sources": [
+    {
+     "id": "B8-ADV-021",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "life skills",
+   "function": "观点表达",
+   "gloss": "生活技能",
+   "example": "By managing their own accommodation, finances, and daily routines, students can cultivate essential life skills, including budgeting, time management, and problem-solving.",
+   "sources": [
+    {
+     "id": "B8-ADV-022",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "academic performance",
+   "function": "观点表达",
+   "gloss": "学业表现",
+   "example": "While moving out of family home has many advantages such as independence and improved academic performance, it also comes with some serious disadvantages such as the lack of social support ...",
+   "sources": [
+    {
+     "id": "B8-ADV-022",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "university degree",
+   "function": "观点表达",
+   "gloss": "大学学位",
+   "example": "The number of young people opting for work-based training rather than pursuing a university degree has increased in several countries in recent years.",
+   "sources": [
+    {
+     "id": "B8-ADV-009",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "education systems",
+   "function": "观点表达",
+   "gloss": "教育体系",
+   "example": "Rather than adhering to a rigid age requirement, education systems should offer flexible entry points and diverse learning approaches that accommodate varying developmental readiness.",
+   "sources": [
+    {
+     "id": "B8-DIS-001",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "vocational programmes",
+   "function": "观点表达",
+   "gloss": "职业培训课程",
+   "example": "One major advantage of vocational programmes is that they equip trainees with practical skills that directly reflect the demand of the labour market.",
+   "sources": [
+    {
+     "id": "B8-ADV-009",
+     "band": 8.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "hands-on experience",
+   "function": "观点表达",
+   "gloss": "实操经验",
+   "example": "Unlike university students who often spend several years studying theoretical knowledge, they gain hands-on experience while learning their profession.",
+   "sources": [
+    {
+     "id": "B8-ADV-009",
+     "band": 8.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "wide range of subjects",
+   "function": "观点表达",
+   "gloss": "广泛的科目范围",
+   "example": "Most teenagers change their minds about the future, so studying a wide range of subjects keeps most college majors open to them.",
+   "sources": [
+    {
+     "id": "B8-DIS-015",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "academic qualifications",
+   "function": "观点表达",
+   "gloss": "学历资格",
+   "example": "After leaving high school, some young people decide to attend college or university because they believe academic qualifications will improve their career prospects.",
+   "sources": [
+    {
+     "id": "B8-DIS-033",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "school curriculum",
+   "function": "观点表达",
+   "gloss": "学校课程体系",
+   "example": "Since the current school curriculum has no provisions for students to learn about parenting skills, some people have suggested it needs to change in order to help students acquire skills ...",
+   "sources": [
+    {
+     "id": "B8-OP-078",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  }
+ ],
+ "technology": [
+  {
+   "gram": "mobile phones",
+   "function": "观点表达",
+   "gloss": "手机",
+   "example": "In conclusion, I largely disagree that the growing use of computers and mobile phones necessarily harms young people's reading and writing abilities.",
+   "sources": [
+    {
+     "id": "B8-OP-055",
+     "band": 8.0
+    }
+   ],
+   "docs": 9,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "modern technology",
+   "function": "观点表达",
+   "gloss": "现代科技",
+   "example": "In conclusion, people research their family history primarily to gain a better understanding of their identity and heritage, a process that has become easier due to modern technology.",
+   "sources": [
+    {
+     "id": "B8-ADV-011",
+     "band": 8.0
+    }
+   ],
+   "docs": 8,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "technological advancements",
+   "function": "观点表达",
+   "gloss": "技术进步",
+   "example": "There are, however, some drawbacks to online communication, in particular the possibility that the lack of contact brought by technological advancements could potentially weaken human bonds.",
+   "sources": [
+    {
+     "id": "B8-ADV-015",
+     "band": 8.0
+    }
+   ],
+   "docs": 6,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "artificial intelligence",
+   "function": "观点表达",
+   "gloss": "人工智能",
+   "example": "This problem has become more evident with the growing availability of artificial intelligence tools.",
+   "sources": [
+    {
+     "id": "B8-OP-055",
+     "band": 8.0
+    }
+   ],
+   "docs": 6,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "digital devices",
+   "function": "观点表达",
+   "gloss": "数字设备",
+   "example": "One major benefit of digital devices is that they give students easy access to a vast amount of written material.",
+   "sources": [
+    {
+     "id": "B8-OP-055",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "digital tools",
+   "function": "观点表达",
+   "gloss": "数字工具",
+   "example": "When used deliberately, digital tools extend and deepen human connection in ways that previous generations could not have imagined.",
+   "sources": [
+    {
+     "id": "B8-DIS-003",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "digital communication",
+   "function": "观点表达",
+   "gloss": "数字通信",
+   "example": "This is because digital communication relies heavily on text and superficial updates, which can lead to superficial relationships and widespread emotional detachment.",
+   "sources": [
+    {
+     "id": "B8-OP-063",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "online platforms",
+   "function": "观点表达",
+   "gloss": "网络平台",
+   "example": "Nowadays, even though there are plenty of online platforms have been developed for medical education, most of the sites have not been written by professional healthcare providers.",
+   "sources": [
+    {
+     "id": "B8-ADV-036",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "screen time",
+   "function": "观点表达",
+   "gloss": "屏幕使用时间",
+   "example": "To sum up, modern technology can be a friend or a foe for young children, depending on the choices adults in their lives make, regulating the amount of screen time and its purpose.",
+   "sources": [
+    {
+     "id": "B8-OP-057",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "technological developments",
+   "function": "观点表达",
+   "gloss": "技术发展",
+   "example": "This predicament, however, would be mitigated by the extra free time technological developments create for us.",
+   "sources": [
+    {
+     "id": "B8-ADV-015",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "technology companies",
+   "function": "观点表达",
+   "gloss": "科技公司",
+   "example": "The vast majority of people allow technology companies to collect personal info to enhance their experience for using software which develops ability by customer data.",
+   "sources": [
+    {
+     "id": "B85-ADV-022",
+     "band": 8.5
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "digital platforms",
+   "function": "观点表达",
+   "gloss": "数字平台",
+   "example": "For millions of people, digital platforms have enabled the maintenance of geographically dispersed relationships that would otherwise have atrophied.",
+   "sources": [
+    {
+     "id": "B8-DIS-003",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "online stores",
+   "function": "观点表达",
+   "gloss": "线上商店",
+   "example": "One major advantage is that online stores often offer more affordable products, which can positively affect households' financial situation.",
+   "sources": [
+    {
+     "id": "B8-ADV-004",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "information online",
+   "function": "观点表达",
+   "gloss": "线上信息",
+   "example": "Not everyone is convinced that access to such information online is safe and helpful.",
+   "sources": [
+    {
+     "id": "B8-ADV-036",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "use of computers",
+   "function": "观点表达",
+   "gloss": "电脑的使用",
+   "example": "The widespread use of computers and smartphones has raised concerns about their impact on young people's reading and writing abilities.",
+   "sources": [
+    {
+     "id": "B8-OP-055",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "new technologies",
+   "function": "观点表达",
+   "gloss": "新兴技术",
+   "example": "For instance, a cozy restaurant where traditional, home-brewed beer is served, offers another experience to people who are bored with branded beers that have the same flavor and come out of ...",
+   "sources": [
+    {
+     "id": "B8-OP-084",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  }
+ ],
+ "environment": [
+  {
+   "gram": "global warming",
+   "function": "观点表达",
+   "gloss": "全球变暖",
+   "example": "Many machines, vehicles and power plants rely on burning oil, gas or coal, which releases harmful emissions into the atmosphere and contributes to global warming.",
+   "sources": [
+    {
+     "id": "B8-REP-005",
+     "band": 8.0
+    }
+   ],
+   "docs": 10,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "environmental issues",
+   "function": "观点表达",
+   "gloss": "环境问题",
+   "example": "Lack of awareness is probably the foremost reason why the vast majority of individuals appears to be unmindful of the current environmental issues.",
+   "sources": [
+    {
+     "id": "B8-OP-060",
+     "band": 8.0
+    }
+   ],
+   "docs": 8,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "climate change",
+   "function": "观点表达",
+   "gloss": "气候变化",
+   "example": "Therefore, funding wildlife conservation is, in essence, a highly cost-effective method of combating climate change and preventing the collapse of ecosystems on which human agriculture and ...",
+   "sources": [
+    {
+     "id": "B8-OP-027",
+     "band": 8.0
+    }
+   ],
+   "docs": 8,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "fossil fuels",
+   "function": "观点表达",
+   "gloss": "化石燃料",
+   "example": "One of the most serious problems nowadays is environmental degradation, which is mainly caused by the excessive use of fossil fuels and mass manufacturing.",
+   "sources": [
+    {
+     "id": "B8-REP-005",
+     "band": 8.0
+    }
+   ],
+   "docs": 7,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "natural environment",
+   "function": "观点表达",
+   "gloss": "自然环境",
+   "example": "For instance, if a new road is built because of the increasing number of private vehicles, some parts of the natural environment must be destroyed.",
+   "sources": [
+    {
+     "id": "B8-ADV-003",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "natural resources",
+   "function": "观点表达",
+   "gloss": "自然资源",
+   "example": "It is commonly believed that preservation of natural resources is imperative, yet most people seem to exert no effort in doing so.",
+   "sources": [
+    {
+     "id": "B8-OP-060",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "renewable energy",
+   "function": "观点表达",
+   "gloss": "可再生能源",
+   "example": "Therefore, investing in renewable energy, reducing carbon emissions, and conserving natural habitats are essential actions to ensure that the planet remains a viable home for those who ...",
+   "sources": [
+    {
+     "id": "B8-OP-029",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "air quality",
+   "function": "观点表达",
+   "gloss": "空气质量",
+   "example": "One major disadvantage is that the number of cars on the streets increases, which can negatively affect air quality due to higher levels of emissions released by the cars.",
+   "sources": [
+    {
+     "id": "B8-ADV-003",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "environmental degradation",
+   "function": "原因结果",
+   "gloss": "环境退化",
+   "example": "Environmental degradation through pollution and resource depletion represents perhaps the defining challenge of our era, driven by structural economic incentives that prioritise short-term ...",
+   "sources": [
+    {
+     "id": "B8-REP-001",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "renewable energy sources",
+   "function": "观点表达",
+   "gloss": "可再生能源来源",
+   "example": "Meanwhile, now that humans are living in an era of machinery, the exhaustion of non-renewable energy sources particularly fossil fuels and oil can accelerate a series of industrial setbacks ...",
+   "sources": [
+    {
+     "id": "B9-DIS-023",
+     "band": 9.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "habitat destruction",
+   "function": "观点表达",
+   "gloss": "栖息地破坏",
+   "example": "In conclusion, although this issue has both advantages and disadvantages, I believe that its cons outweigh the pros because they have more widespread and long-lasting impacts, particularly ...",
+   "sources": [
+    {
+     "id": "B8-ADV-003",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "environmentally friendly",
+   "function": "观点表达",
+   "gloss": "环境友好的",
+   "example": "Furthermore, state investment in sustainable public transportation systems can promote a shift towards environmentally friendly travel.",
+   "sources": [
+    {
+     "id": "B8-DIS-025",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "environmental protection",
+   "function": "观点表达",
+   "gloss": "环境保护",
+   "example": "Governments should increase, rather than diminish, financial commitments to environmental protection to ensure a sustainable future.",
+   "sources": [
+    {
+     "id": "B8-OP-027",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "greenhouse gas emissions",
+   "function": "原因结果",
+   "gloss": "温室气体排放",
+   "example": "On the other hand, it is a well-known fact that enhancing people’s awareness about the harmful effects of greenhouse gas emissions and encouraging them to use renewable resources such as ...",
+   "sources": [
+    {
+     "id": "B85-DIS-027",
+     "band": 8.5
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "carbon emissions",
+   "function": "原因结果",
+   "gloss": "碳排放",
+   "example": "Therefore, investing in renewable energy, reducing carbon emissions, and conserving natural habitats are essential actions to ensure that the planet remains a viable home for those who ...",
+   "sources": [
+    {
+     "id": "B8-OP-029",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "conservation efforts",
+   "function": "观点表达",
+   "gloss": "保护行动",
+   "example": "By concentrating funding and scientific expertise on these species, conservation efforts may produce more immediate and measurable results.",
+   "sources": [
+    {
+     "id": "B8-DIS-018",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "natural habitats",
+   "function": "观点表达",
+   "gloss": "自然栖息地",
+   "example": "Therefore, investing in renewable energy, reducing carbon emissions, and conserving natural habitats are essential actions to ensure that the planet remains a viable home for those who ...",
+   "sources": [
+    {
+     "id": "B8-OP-029",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  }
+ ],
+ "government": [
+  {
+   "gram": "public services",
+   "function": "观点表达",
+   "gloss": "公共服务",
+   "example": "In addition, the government receives more tax revenue from successful local companies, and this money can be invested in public services such as education and healthcare.",
+   "sources": [
+    {
+     "id": "B8-OP-050",
+     "band": 8.0
+    }
+   ],
+   "docs": 0,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "tax revenue",
+   "function": "观点表达",
+   "gloss": "税收收入",
+   "example": "In addition, the government receives more tax revenue from successful local companies, and this money can be invested in public services such as education and healthcare.",
+   "sources": [
+    {
+     "id": "B8-OP-050",
+     "band": 8.0
+    }
+   ],
+   "docs": 0,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "infrastructure spending",
+   "function": "观点表达",
+   "gloss": "基础设施支出",
+   "example": "The question of how governments should allocate infrastructure spending is among the most consequential in contemporary urban policy.",
+   "sources": [
+    {
+     "id": "B8-OP-005",
+     "band": 8.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "government-funded",
+   "function": "观点表达",
+   "gloss": "政府资助的",
+   "example": "Although privately funded healthcare can offer greater choice and quicker treatment, government-funded systems are generally more equitable and protect people from financial hardship.",
+   "sources": [
+    {
+     "id": "B8-ADV-008",
+     "band": 8.0
+    }
+   ],
+   "docs": 0,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "minimum income",
+   "function": "观点表达",
+   "gloss": "最低收入保障",
+   "example": "Therefore, governments should guarantee a minimum income, while individuals should save extra for a more comfortable lifestyle.",
+   "sources": [
+    {
+     "id": "B8-OP-026",
+     "band": 8.0
+    }
+   ],
+   "docs": 0,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "public money",
+   "function": "观点表达",
+   "gloss": "公共资金",
+   "example": "While these programmes may lead to technological breakthroughs and international prestige, I firmly believe that public money should be prioritised for essential sectors like schooling and ...",
+   "sources": [
+    {
+     "id": "B85-OP-082",
+     "band": 8.5
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "public transportation",
+   "function": "观点表达",
+   "gloss": "公共交通运输",
+   "example": "In recent years, public transportation has become significantly more expensive.",
+   "sources": [
+    {
+     "id": "B8-REP-030",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "means of transport",
+   "function": "观点表达",
+   "gloss": "交通方式",
+   "example": "To illustrate, India, where millions of people rely on the railway system daily is the most affordable and accessible means of transport, not only for individuals but also for businesses ...",
+   "sources": [
+    {
+     "id": "B85-OP-011",
+     "band": 8.5
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "taxpayers",
+   "function": "观点表达",
+   "gloss": "纳税人",
+   "example": "It also reduces pressure on taxpayers, especially in countries where the number of elderly citizens is rising.",
+   "sources": [
+    {
+     "id": "B8-OP-026",
+     "band": 8.0
+    }
+   ],
+   "docs": 0,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "public healthcare",
+   "function": "观点表达",
+   "gloss": "公共医疗",
+   "example": "This improvement in public health not only enhances individual quality of life but also eases the burden on public healthcare systems, as a healthier population requires less medical ...",
+   "sources": [
+    {
+     "id": "B8-OP-054",
+     "band": 8.0
+    }
+   ],
+   "docs": 0,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "regulations",
+   "function": "观点表达",
+   "gloss": "法规/监管规定",
+   "example": "From one perspective, authorities can mitigate the problem at its source by implementing regulations that control the amount of sugar added to products during manufacturing, or by imposing ...",
+   "sources": [
+    {
+     "id": "B8-DIS-005",
+     "band": 8.0
+    }
+   ],
+   "docs": 0,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "public facilities",
+   "function": "观点表达",
+   "gloss": "公共设施",
+   "example": "Tax revenue serves as a valuable resource for developing sophisticated public facilities.",
+   "sources": [
+    {
+     "id": "B9-TQ-008",
+     "band": 9.0
+    }
+   ],
+   "docs": 0,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "government regulations",
+   "function": "观点表达",
+   "gloss": "政府监管",
+   "example": "For example, government regulations could limit the amount of sugar or fats allowed in food products, especially those marketed to children, and impose taxes on unhealthy snacks like chips ...",
+   "sources": [
+    {
+     "id": "B8-DIS-022",
+     "band": 8.0
+    }
+   ],
+   "docs": 0,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "government policies",
+   "function": "观点表达",
+   "gloss": "政府政策",
+   "example": "I believe that both inflation and less-than-ideal government policies are key contributors to this problem.",
+   "sources": [
+    {
+     "id": "B8-REP-030",
+     "band": 8.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "public transport system",
+   "function": "观点表达",
+   "gloss": "公共交通系统",
+   "example": "For instance, since the introduction of video technology in the public transport system, terrorist threats, such as bombings, have almost disappeared in China.",
+   "sources": [
+    {
+     "id": "B85-ADV-005",
+     "band": 8.5
+    }
+   ],
+   "docs": 0,
+   "tier": "B",
+   "supplement_75": false
+  }
+ ],
+ "social": [
+  {
+   "gram": "rural areas",
+   "function": "观点表达",
+   "gloss": "农村地区",
+   "example": "Cities concentrate employment, particularly in the service and knowledge economies, at a density that rural areas structurally cannot replicate.",
+   "sources": [
+    {
+     "id": "B8-ADV-001",
+     "band": 8.0
+    }
+   ],
+   "docs": 9,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "urban areas",
+   "function": "观点表达",
+   "gloss": "城市地区",
+   "example": "Rising population in urban areas leaves governments with no choice but to build more houses to meet the demand.",
+   "sources": [
+    {
+     "id": "B8-OP-053",
+     "band": 8.0
+    }
+   ],
+   "docs": 7,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "senior citizens",
+   "function": "观点表达",
+   "gloss": "老年人",
+   "example": "Senior citizens should have a supply of lower dwellings available in quieter locations.",
+   "sources": [
+    {
+     "id": "B8-OP-053",
+     "band": 8.0
+    }
+   ],
+   "docs": 6,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "society as a whole",
+   "function": "观点表达",
+   "gloss": "整个社会",
+   "example": "Living alone helps one to develop maturity, which can be seen as a positive impact on individuals and the society as a whole.",
+   "sources": [
+    {
+     "id": "B8-ADV-025",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "community service",
+   "function": "观点表达",
+   "gloss": "社区服务",
+   "example": "Firstly, community service inculcates a sense of responsibility towards the society, something that is needed to shape a good society.",
+   "sources": [
+    {
+     "id": "B8-OP-064",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "ageing population",
+   "function": "观点表达",
+   "gloss": "人口老龄化",
+   "example": "In other words, an ageing population will mean a greater tax burden of working adults.",
+   "sources": [
+    {
+     "id": "B8-REP-009",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "family members",
+   "function": "观点表达",
+   "gloss": "家庭成员",
+   "example": "Many people cannot accumulate sufficient savings because they work in low-paid jobs, suffer illness, care for family members or experience unemployment.",
+   "sources": [
+    {
+     "id": "B8-OP-030",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "younger generations",
+   "function": "观点表达",
+   "gloss": "年轻一代",
+   "example": "On the negative side, reduced handwriting practice may weaken people's ability to write neatly and fluently by hand, particularly among younger generations.",
+   "sources": [
+    {
+     "id": "B8-ADV-006",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "rural communities",
+   "function": "观点表达",
+   "gloss": "农村社区",
+   "example": "Rural communities lose their most economically active members, accelerating demographic ageing and eroding the tax base that supports local services.",
+   "sources": [
+    {
+     "id": "B8-ADV-001",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "elderly citizens",
+   "function": "观点表达",
+   "gloss": "老年公民",
+   "example": "It also reduces pressure on taxpayers, especially in countries where the number of elderly citizens is rising.",
+   "sources": [
+    {
+     "id": "B8-OP-026",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "elderly people",
+   "function": "观点表达",
+   "gloss": "老年人",
+   "example": "When elderly people can afford housing, food, and healthcare, families and charities face less pressure.",
+   "sources": [
+    {
+     "id": "B8-OP-026",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "city centre",
+   "function": "观点表达",
+   "gloss": "市中心",
+   "example": "In my opinion, high rises are more suitable for younger residents and should be built in the areas where young population is prevalent, closer to the city centre and employment ...",
+   "sources": [
+    {
+     "id": "B8-OP-053",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "family and friends",
+   "function": "观点表达",
+   "gloss": "家人与朋友",
+   "example": "However, such relocations are likely to cause a strain on personal relationships, as physical distance makes it difficult to maintain close ties with family and friends.",
+   "sources": [
+    {
+     "id": "B8-ADV-026",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "living standards",
+   "function": "观点表达",
+   "gloss": "生活水平",
+   "example": "A primary benefit is the improvement in living standards.",
+   "sources": [
+    {
+     "id": "B85-ADV-028",
+     "band": 8.5
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "working adults",
+   "function": "观点表达",
+   "gloss": "在职成年人",
+   "example": "The proportion of younger, working adults will be smaller, and governments will therefore receive less money in taxes in relation to the size of the population.",
+   "sources": [
+    {
+     "id": "B8-REP-009",
+     "band": 8.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  }
+ ],
+ "crime": [
+  {
+   "gram": "criminal activities",
+   "function": "观点表达",
+   "gloss": "犯罪活动",
+   "example": "For example, a statistical report from the Canadian National Crime Prevention Crime revealed that individuals from families with a lack of order and discipline were 1.5 times more at risk ...",
+   "sources": [
+    {
+     "id": "B85-OP-005",
+     "band": 8.5
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "criminal behaviour",
+   "function": "观点表达",
+   "gloss": "犯罪行为",
+   "example": "I fully agree with this view, as I believe education targets the root causes of criminal behaviour more effectively than punishment does.",
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "crime prevention",
+   "function": "观点表达",
+   "gloss": "犯罪预防",
+   "example": "Some think that crime prevention can be one possible application of new technologies, by allowing to deter offenders or solve crimes in a faster and easier way.",
+   "sources": [
+    {
+     "id": "B8-OP-010",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "criminal record",
+   "function": "观点表达",
+   "gloss": "犯罪记录",
+   "example": "Schools can teach teenagers about violence, fraud and property offences, allowing them to understand how a criminal record can damage future study and employment.",
+   "sources": [
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "committing crimes",
+   "function": "观点表达",
+   "gloss": "实施犯罪",
+   "example": "Statistically, many of them tend to have a lower level of education, and for that reason they are likely to stick to the old ways of committing crimes, whereas the minority of highly ...",
+   "sources": [
+    {
+     "id": "B8-OP-010",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "law enforcement",
+   "function": "观点表达",
+   "gloss": "执法机关",
+   "example": "Law enforcement workforce, on the other hand, has a much better grip on modern technology.",
+   "sources": [
+    {
+     "id": "B8-OP-010",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "reducing crime",
+   "function": "观点表达",
+   "gloss": "减少犯罪",
+   "example": "Consequently, a combination of economic opportunity and social support represents the most effective strategy for reducing crime.",
+   "sources": [
+    {
+     "id": "B8-REP-003",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "crime rates",
+   "function": "原因结果",
+   "gloss": "犯罪率",
+   "example": "Not everyone is optimistic about the prospects of the use of new technologies in crime prevention, and those who subscribe to the more pessimistic view say that advanced technologies can be ...",
+   "sources": [
+    {
+     "id": "B8-OP-010",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "potential offenders",
+   "function": "观点表达",
+   "gloss": "潜在犯罪者",
+   "example": "The possibility of execution may also make potential offenders think twice before carrying out violent acts, since they know the consequences could be irreversible.",
+   "sources": [
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "criminal activity",
+   "function": "观点表达",
+   "gloss": "犯罪行为",
+   "example": "In this modern era, the steady rise in criminal activity has become a matter of serious concern in many countries.",
+   "sources": [
+    {
+     "id": "B8-REP-003",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "former offenders",
+   "function": "观点表达",
+   "gloss": "前科人员",
+   "example": "Former offenders who continue to associate with criminals may find themselves under considerable pressure to return to illegal activities.",
+   "sources": [
+    {
+     "id": "B8-REP-013",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "prison system",
+   "function": "观点表达",
+   "gloss": "监狱体系",
+   "example": "Even within the prison system, educational programs have been shown to lower reoffending rates.",
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "reoffending rates",
+   "function": "原因结果",
+   "gloss": "再犯率",
+   "example": "Even within the prison system, educational programs have been shown to lower reoffending rates.",
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "commit crimes",
+   "function": "观点表达",
+   "gloss": "犯罪",
+   "example": "There are those who believe that the parents of children who commit crimes should be punished, while others disagree.",
+   "sources": [
+    {
+     "id": "B8-DIS-034",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "return to crime",
+   "function": "观点表达",
+   "gloss": "重新犯罪",
+   "example": "Without access to education or job training, ex-offenders may struggle to find work and return to crime simply to survive.",
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  }
+ ],
+ "culture": [
+  {
+   "gram": "museums and art galleries",
+   "function": "观点表达",
+   "gloss": "博物馆与美术馆",
+   "example": "The cultural value of engaging with museums and art galleries is unquestionable; they exert a great deal of influence on our perception of the world.",
+   "sources": [
+    {
+     "id": "B8-OP-028",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "universal language",
+   "function": "观点表达",
+   "gloss": "通用语言",
+   "example": "This is mainly because music is a universal language that crosses cultural boundaries.",
+   "sources": [
+    {
+     "id": "B8-OP-040",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "different cultures",
+   "function": "观点表达",
+   "gloss": "不同文化",
+   "example": "It is widely believed that music is an incredibly powerful tool to bridge the gap between people from different cultures and generations.",
+   "sources": [
+    {
+     "id": "B8-OP-040",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "historical records",
+   "function": "观点表达",
+   "gloss": "历史记录",
+   "example": "Furthermore, the advent of technology has facilitated easy access to historical records and archives, enabling people to embark on comprehensive research journeys from the comfort of their ...",
+   "sources": [
+    {
+     "id": "B85-OP-018",
+     "band": 8.5
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "cultural heritage",
+   "function": "观点表达",
+   "gloss": "文化遗产",
+   "example": "Additionally, the government can benefit from increased revenue, which can then be allocated to the preservation and protection of domestic cultural heritage, creating a virtuous cycle of ...",
+   "sources": [
+    {
+     "id": "B85-OP-010",
+     "band": 8.5
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "language learner",
+   "function": "观点表达",
+   "gloss": "语言学习者",
+   "example": "All this makes a book a more effective tool for a language learner compared to TV.",
+   "sources": [
+    {
+     "id": "B8-OP-024",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "local traditions",
+   "function": "观点表达",
+   "gloss": "地方传统",
+   "example": "Moreover, museums could host temporary displays, workshops, festivals, and storytelling events connected to local traditions.",
+   "sources": [
+    {
+     "id": "B8-REP-008",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "foreign language",
+   "function": "观点表达",
+   "gloss": "外语",
+   "example": "Language learners might encounter several challenges such as unfamiliar accents or grammar structures in the learning process of a foreign language.",
+   "sources": [
+    {
+     "id": "B8-TQ-005",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "language skills",
+   "function": "观点表达",
+   "gloss": "语言能力",
+   "example": "Some people subscribe to the belief that reading helps enhance language skills and creativity, whereas watching television does very little for these abilities.",
+   "sources": [
+    {
+     "id": "B8-OP-024",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "art galleries",
+   "function": "观点表达",
+   "gloss": "美术馆",
+   "example": "The cultural value of engaging with museums and art galleries is unquestionable; they exert a great deal of influence on our perception of the world.",
+   "sources": [
+    {
+     "id": "B8-OP-028",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "cultural identity",
+   "function": "观点表达",
+   "gloss": "文化认同",
+   "example": "Equally significant is the potential loss of cultural identity that independent cafés embody.",
+   "sources": [
+    {
+     "id": "B8-OP-020",
+     "band": 8.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "traditional crafts",
+   "function": "观点表达",
+   "gloss": "传统手工艺",
+   "example": "Traditional crafts rarely disappear because people stop admiring them.",
+   "sources": [
+    {
+     "id": "B9-TQ-005",
+     "band": 9.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "cultural value",
+   "function": "观点表达",
+   "gloss": "文化价值",
+   "example": "The cultural value of engaging with museums and art galleries is unquestionable; they exert a great deal of influence on our perception of the world.",
+   "sources": [
+    {
+     "id": "B8-OP-028",
+     "band": 8.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "museum authorities",
+   "function": "观点表达",
+   "gloss": "博物馆管理机构",
+   "example": "To solve this issue, governments and museum authorities should make cultural attractions more appealing to local communities.",
+   "sources": [
+    {
+     "id": "B8-REP-008",
+     "band": 8.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "cultural boundaries",
+   "function": "观点表达",
+   "gloss": "文化边界",
+   "example": "This is mainly because music is a universal language that crosses cultural boundaries.",
+   "sources": [
+    {
+     "id": "B8-OP-040",
+     "band": 8.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "historic buildings",
+   "function": "观点表达",
+   "gloss": "历史建筑",
+   "example": "Whether cities should preserve historic buildings or demolish them to make space for modern developments is a topic of considerable debate.",
+   "sources": [
+    {
+     "id": "B9-OP-071",
+     "band": 9.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  }
+ ],
+ "health": [
+  {
+   "gram": "physical activity",
+   "function": "观点表达",
+   "gloss": "体育活动",
+   "example": "Lack of time is the most common reason people cite for not engaging in any form of physical activity.",
+   "sources": [
+    {
+     "id": "B8-REP-004",
+     "band": 8.0
+    }
+   ],
+   "docs": 8,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "public health",
+   "function": "观点表达",
+   "gloss": "公共健康",
+   "example": "Furthermore, when people can consult a doctor early, diseases are more likely to be detected and treated before they become severe, which may reduce long-term public health costs.",
+   "sources": [
+    {
+     "id": "B8-ADV-008",
+     "band": 8.0
+    }
+   ],
+   "docs": 8,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "healthy lifestyle",
+   "function": "观点表达",
+   "gloss": "健康生活方式",
+   "example": "Since they are the primary beneficiaries of a healthy lifestyle, they have a strong incentive to make these choices, which can lower their risk of diabetes, obesity, and other diseases.",
+   "sources": [
+    {
+     "id": "B8-DIS-005",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "health problems",
+   "function": "观点表达",
+   "gloss": "健康问题",
+   "example": "Around the world, many working people are experiencing health problems due to a lack of physical activity during both working hours and leisure time.",
+   "sources": [
+    {
+     "id": "B8-REP-018",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "healthier lifestyles",
+   "function": "观点表达",
+   "gloss": "更健康的生活方式",
+   "example": "Secondly, companies could organise sports events, fitness programmes, or wellness initiatives to motivate staff to adopt healthier lifestyles.",
+   "sources": [
+    {
+     "id": "B8-REP-018",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "public health costs",
+   "function": "原因结果",
+   "gloss": "公共健康成本",
+   "example": "Furthermore, when people can consult a doctor early, diseases are more likely to be detected and treated before they become severe, which may reduce long-term public health costs.",
+   "sources": [
+    {
+     "id": "B8-ADV-008",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "childhood obesity",
+   "function": "观点表达",
+   "gloss": "儿童肥胖",
+   "example": "In conclusion, the rise in childhood obesity is mainly caused by parents' busy work schedules and the strong influence of social media advertising.",
+   "sources": [
+    {
+     "id": "B8-REP-028",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "regular exercise",
+   "function": "观点表达",
+   "gloss": "规律锻炼",
+   "example": "Schools can help by increasing sports lessons, organising active breaks, and teaching children why regular exercise is essential for long-term health.",
+   "sources": [
+    {
+     "id": "B8-REP-012",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "dietary habits",
+   "function": "观点表达",
+   "gloss": "饮食习惯",
+   "example": "In contrast, people can choose to avoid such items and closely monitor their dietary habits.",
+   "sources": [
+    {
+     "id": "B8-DIS-005",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "heart disease",
+   "function": "观点表达",
+   "gloss": "心脏病",
+   "example": "Physical exercise helps reduce the risk of diseases such as obesity, heart disease, and diabetes.",
+   "sources": [
+    {
+     "id": "B8-DIS-031",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "healthy food",
+   "function": "观点表达",
+   "gloss": "健康食品",
+   "example": "This approach would also benefit those who lack the knowledge about healthy food, necessary to make informed decisions.",
+   "sources": [
+    {
+     "id": "B8-DIS-022",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "healthy diet",
+   "function": "观点表达",
+   "gloss": "健康饮食",
+   "example": "While some people believe that the government should regulate nutrition to improve public wellness, others argue that it should be people’s decision whether to pursue a healthy diet or not.",
+   "sources": [
+    {
+     "id": "B8-DIS-042",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "mental health",
+   "function": "观点表达",
+   "gloss": "心理健康",
+   "example": "Moreover, sports can provide relief from stress and anxiety and contribute to better mental health.",
+   "sources": [
+    {
+     "id": "B8-DIS-031",
+     "band": 8.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "sedentary lifestyle",
+   "function": "观点表达",
+   "gloss": "久坐生活方式",
+   "example": "This sedentary lifestyle means that they burn fewer calories and gradually gain weight.",
+   "sources": [
+    {
+     "id": "B8-REP-012",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "nutrition",
+   "function": "观点表达",
+   "gloss": "营养",
+   "example": "This has led to a debate as to whether governments should establish nutrition and food choice laws for the betterment of public health or if it solely falls on individuals to make wise ...",
+   "sources": [
+    {
+     "id": "B8-DIS-022",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "obesity-related illnesses",
+   "function": "观点表达",
+   "gloss": "肥胖相关疾病",
+   "example": "Physical education programs, combined with sports and active breaks, ensure that students receive sufficient exercise, reducing the risk of obesity-related illnesses.",
+   "sources": [
+    {
+     "id": "B9-OP-020",
+     "band": 9.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  }
+ ],
+ "media": [
+  {
+   "gram": "social media",
+   "function": "观点表达",
+   "gloss": "社交媒体",
+   "example": "The arrival and spread of social media platforms has caused a gradual decline in print media subscriptions and their circulation, since readers tend to favor the internet and social media ...",
+   "sources": [
+    {
+     "id": "B8-REP-023",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "social media platforms",
+   "function": "观点表达",
+   "gloss": "社交媒体平台",
+   "example": "The arrival and spread of social media platforms has caused a gradual decline in print media subscriptions and their circulation, since readers tend to favor the internet and social media ...",
+   "sources": [
+    {
+     "id": "B8-REP-023",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "print media",
+   "function": "观点表达",
+   "gloss": "纸质媒体",
+   "example": "The arrival and spread of social media platforms has caused a gradual decline in print media subscriptions and their circulation, since readers tend to favor the internet and social media ...",
+   "sources": [
+    {
+     "id": "B8-REP-023",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "streaming platforms",
+   "function": "观点表达",
+   "gloss": "流媒体平台",
+   "example": "A clear illustration can be seen in an excess of entertainment content from different streaming platforms such as Disney+ and Netflix that overwhelm watchers.",
+   "sources": [
+    {
+     "id": "B9-OP-085",
+     "band": 9.0
+    }
+   ],
+   "docs": 0,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "celebrity endorsement",
+   "function": "观点表达",
+   "gloss": "名人代言",
+   "example": "There is concern that focusing on celebrity endorsement may create a superficial understanding of complex matters, leading to tokenistic gestures and short-term solutions rather than ...",
+   "sources": [
+    {
+     "id": "B9-DIS-015",
+     "band": 9.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "advertising campaign",
+   "function": "观点表达",
+   "gloss": "广告宣传活动",
+   "example": "Additionally, with an advertising campaign, they can show people which problems their products solve or how customers effectively benefit from them.",
+   "sources": [
+    {
+     "id": "B8-ADV-014",
+     "band": 8.0
+    }
+   ],
+   "docs": 2,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "completion rates",
+   "function": "原因结果",
+   "gloss": "完播率",
+   "example": "A handful of platforms measuring success by the same completion rates and the same retention curves is functionally one buyer with several logos.",
+   "sources": [
+    {
+     "id": "B9-ADV-001",
+     "band": 9.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "retention curves",
+   "function": "观点表达",
+   "gloss": "留存曲线",
+   "example": "A handful of platforms measuring success by the same completion rates and the same retention curves is functionally one buyer with several logos.",
+   "sources": [
+    {
+     "id": "B9-ADV-001",
+     "band": 9.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "behavioural data",
+   "function": "观点表达",
+   "gloss": "行为数据",
+   "example": "Against that, platforms commission from behavioural data, and data is necessarily a record of what has already happened.",
+   "sources": [
+    {
+     "id": "B9-ADV-033",
+     "band": 9.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "front page",
+   "function": "观点表达",
+   "gloss": "报纸头版",
+   "example": "In print those were roughly the same thing: the front page reached the readership, so a front-page correction reached it again.",
+   "sources": [
+    {
+     "id": "B9-OP-060",
+     "band": 9.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "public interest",
+   "function": "观点表达",
+   "gloss": "公共利益",
+   "example": "An actor's illness, a footballer's divorce and photographs of a singer's children on the way to school inform the public of nothing that affects it; they are interesting to the public ...",
+   "sources": [
+    {
+     "id": "B9-DIS-014",
+     "band": 9.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "target young children",
+   "function": "措施建议",
+   "gloss": "以低龄儿童为目标",
+   "example": "Additionally, commercials for fast food often target young children through offering inducements, such as the toys in the happy meal at McDonalds for example.",
+   "sources": [
+    {
+     "id": "B9-OP-059",
+     "band": 9.0
+    }
+   ],
+   "docs": 0,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "viewers",
+   "function": "观点表达",
+   "gloss": "观众",
+   "example": "Viewers also have the option to pause, rewind, or replay parts of the show as desired, which would not be possible in a live setting.",
+   "sources": [
+    {
+     "id": "B8-OP-022",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "readership",
+   "function": "观点表达",
+   "gloss": "读者群体",
+   "example": "In print those were roughly the same thing: the front page reached the readership, so a front-page correction reached it again.",
+   "sources": [
+    {
+     "id": "B9-OP-060",
+     "band": 9.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "media coverage",
+   "function": "观点表达",
+   "gloss": "媒体报道",
+   "example": "For instance, media coverage of Donald Trump's previous crime allegations during the United States elections completely overshadowed his past political achievements.",
+   "sources": [
+    {
+     "id": "B85-TQ-005",
+     "band": 8.5
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  },
+  {
+   "gram": "news reports",
+   "function": "观点表达",
+   "gloss": "新闻报道",
+   "example": "Through documentaries and news reports, viewers can grasp subjects that might otherwise seem distant or complex.",
+   "sources": [
+    {
+     "id": "B85-OP-057",
+     "band": 8.5
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  }
+ ],
+ "globalization-work": [
+  {
+   "gram": "working hours",
+   "function": "观点表达",
+   "gloss": "工作时长",
+   "example": "Without a physical separation between workplace and home, many remote workers report difficulty switching off, leading to longer working hours and increased rates of burnout.",
+   "sources": [
+    {
+     "id": "B8-ADV-002",
+     "band": 8.0
+    }
+   ],
+   "docs": 7,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "work-life balance",
+   "function": "观点表达",
+   "gloss": "工作与生活平衡",
+   "example": "This essay will discuss the main problems caused by poor work-life balance and argue that greater workplace flexibility is the most effective solution.",
+   "sources": [
+    {
+     "id": "B8-REP-017",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "job satisfaction",
+   "function": "观点表达",
+   "gloss": "工作满意度",
+   "example": "For example, parents may use the time saved from travelling to care for their children; as a result, they may experience less stress and greater job satisfaction.",
+   "sources": [
+    {
+     "id": "B8-DIS-014",
+     "band": 8.0
+    }
+   ],
+   "docs": 5,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "job opportunities",
+   "function": "观点表达",
+   "gloss": "就业机会",
+   "example": "This not only expands access to better job opportunities but also helps workers maintain a more stable personal life.",
+   "sources": [
+    {
+     "id": "B8-ADV-005",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "economic growth",
+   "function": "原因结果",
+   "gloss": "经济增长",
+   "example": "It supports economic growth, creates more employment opportunities, provides faster delivery, and offers more convenient customer service.",
+   "sources": [
+    {
+     "id": "B8-OP-050",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "remote working",
+   "function": "观点表达",
+   "gloss": "远程办公",
+   "example": "The rapid normalisation of remote working — accelerated by the global pandemic of 2020 — has prompted genuine debate about whether it represents a net improvement in how people work.",
+   "sources": [
+    {
+     "id": "B8-ADV-002",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "changing jobs",
+   "function": "观点表达",
+   "gloss": "换工作",
+   "example": "In such cases, changing jobs can be a sensible way to find work that is more suitable.",
+   "sources": [
+    {
+     "id": "B8-OP-031",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "working life",
+   "function": "观点表达",
+   "gloss": "职业生涯",
+   "example": "Some people believe that those who choose a career early and remain in the same field are more likely to enjoy a satisfying working life than people who change jobs often.",
+   "sources": [
+    {
+     "id": "B8-OP-031",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "job market",
+   "function": "观点表达",
+   "gloss": "就业市场",
+   "example": "For example, the job market in Saudi Arabia has become increasingly competitive over the past decade, making it difficult for some people to find suitable positions quickly.",
+   "sources": [
+    {
+     "id": "B8-ADV-028",
+     "band": 8.0
+    }
+   ],
+   "docs": 4,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "international companies",
+   "function": "观点表达",
+   "gloss": "跨国公司",
+   "example": "On the one hand, there are two main reasons why people think that the growth of international companies is a negative trend.",
+   "sources": [
+    {
+     "id": "B85-ADV-032",
+     "band": 8.5
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "unemployment benefits",
+   "function": "观点表达",
+   "gloss": "失业救济",
+   "example": "In addition, while staff are guaranteed welfare including health insurance, paid time off, and unemployment benefits, those who choose to set up their own businesses often struggle to do ...",
+   "sources": [
+    {
+     "id": "B9-ADV-025",
+     "band": 9.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "economic development",
+   "function": "观点表达",
+   "gloss": "经济发展",
+   "example": "On the one hand, buying local goods helps promote economic development.",
+   "sources": [
+    {
+     "id": "B8-OP-050",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "local businesses",
+   "function": "观点表达",
+   "gloss": "本地企业",
+   "example": "When people choose local brands instead of imported products, local businesses can increase their sales and expand their operations.",
+   "sources": [
+    {
+     "id": "B8-OP-050",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "paid employment",
+   "function": "观点表达",
+   "gloss": "有偿就业",
+   "example": "To conclude, a child’s paid employment experience would lead to a negative impact on their health and active learning.",
+   "sources": [
+    {
+     "id": "B8-OP-017",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "career paths",
+   "function": "观点表达",
+   "gloss": "职业路径",
+   "example": "Therefore, people may choose to pursue their dreams and follow career paths according to their passions and interests now, to avoid having regrets later in life.",
+   "sources": [
+    {
+     "id": "B8-DIS-045",
+     "band": 8.0
+    }
+   ],
+   "docs": 3,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "career development",
+   "function": "观点表达",
+   "gloss": "职业发展",
+   "example": "Purposeful career development, whether stable or flexible, is the key.",
+   "sources": [
+    {
+     "id": "B8-OP-031",
+     "band": 8.0
+    }
+   ],
+   "docs": 1,
+   "tier": "B",
+   "supplement_75": false
+  }
+ ],
+ "generic": [
+  {
+   "gram": "long term",
+   "function": "观点表达",
+   "gloss": "长期",
+   "example": "In conclusion, although financial aid can solve the problem of poverty to some extent, I firmly assert that providing poorer nations with quality education and modern technology is a more ...",
+   "sources": [
+    {
+     "id": "B85-OP-003",
+     "band": 8.5
+    }
+   ],
+   "docs": 7,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "well-being",
+   "function": "观点表达",
+   "gloss": "幸福感/福祉",
+   "example": "Although self-care may be appropriate for minor ailments, I believe that avoiding professional medical advice is a negative development because it can pose significant risks to people's ...",
+   "sources": [
+    {
+     "id": "B8-ADV-031",
+     "band": 8.0
+    }
+   ],
+   "docs": 47,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "hard work",
+   "function": "观点表达",
+   "gloss": "努力工作",
+   "example": "This kind of behaviour is dangerous because it is normalizing materialism and teaching teens that costly possessions will bring them happiness instead of focusing on what really matters in ...",
+   "sources": [
+    {
+     "id": "B8-OP-039",
+     "band": 8.0
+    }
+   ],
+   "docs": 8,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "public awareness",
+   "function": "观点表达",
+   "gloss": "公众意识",
+   "example": "This problem stems mainly from inadequate infrastructure and limited public awareness, both of which can be addressed through effective government policies and education.",
+   "sources": [
+    {
+     "id": "B8-REP-011",
+     "band": 8.0
+    }
+   ],
+   "docs": 7,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "public transport",
+   "function": "观点表达",
+   "gloss": "公共交通",
+   "example": "When many people live close together, it becomes easier and more economical to provide public transport, schools, hospitals, shops, and recreational facilities.",
+   "sources": [
+    {
+     "id": "B8-OP-061",
+     "band": 8.0
+    }
+   ],
+   "docs": 16,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "young people",
+   "function": "观点表达",
+   "gloss": "年轻人",
+   "example": "Compounding this is the concentration of universities, hospitals, and cultural infrastructure in urban centres — amenities that exert a powerful gravitational pull on ambitious young people.",
+   "sources": [
+    {
+     "id": "B8-ADV-001",
+     "band": 8.0
+    }
+   ],
+   "docs": 52,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "quality of life",
+   "function": "观点表达",
+   "gloss": "生活质量",
+   "example": "Moreover, it assists in improving every aspect of the country’s quality of life.",
+   "sources": [
+    {
+     "id": "B9-DIS-024",
+     "band": 9.0
+    }
+   ],
+   "docs": 14,
+   "tier": "A",
+   "supplement_75": false
+  },
+  {
+   "gram": "financial burden",
+   "function": "观点表达",
+   "gloss": "经济负担",
+   "example": "The financial burden of housing, meals, and other expenses doesn’t apply to students who are living with family and relying on parental support.",
+   "sources": [
+    {
+     "id": "B8-ADV-022",
+     "band": 8.0
+    }
+   ],
+   "docs": 13,
+   "tier": "A",
+   "supplement_75": false
+  }
+ ]
+}

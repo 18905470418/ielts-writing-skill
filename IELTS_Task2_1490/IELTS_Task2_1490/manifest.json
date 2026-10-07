@@ -1,0 +1,74 @@
+{
+  "counts": {
+    "6.0": 200,
+    "6.5": 200,
+    "7.0": 200,
+    "7.5": 200,
+    "8.0": 200,
+    "8.5": 200,
+    "9.0": 200
+  },
+  "total": 1400,
+  "extras": {
+    "6.0": 11,
+    "6.5": 14,
+    "7.0": 10,
+    "7.5": 17,
+    "8.0": 12,
+    "8.5": 16,
+    "9.0": 10
+  },
+  "extras_total": 90,
+  "grand_total": 1490,
+  "by_source": {
+    "6.0": {
+      "IELTS-Blog": 21,
+      "IELTS International": 2,
+      "writing9.com": 177
+    },
+    "6.5": {
+      "CD IELTS Prep": 57,
+      "IELTS Writing Correction Service": 4,
+      "writing9.com": 139
+    },
+    "7.0": {
+      "IELTS-Blog": 18,
+      "IELTS International": 3,
+      "Band Nine": 1,
+      "writing9.com": 178
+    },
+    "7.5": {
+      "CD IELTS Prep": 57,
+      "IELTS International": 2,
+      "IELTS Writing Correction Service": 4,
+      "AllThingsIELTS": 2,
+      "writing9.com": 135
+    },
+    "8.0": {
+      "IELTS-Blog": 102,
+      "IELTS International": 3,
+      "AllThingsIELTS": 1,
+      "IELTS Prep Studio": 5,
+      "writing9.com": 89
+    },
+    "8.5": {
+      "AllThingsIELTS": 1,
+      "writing9.com": 199
+    },
+    "9.0": {
+      "IELTS-Blog": 52,
+      "CD IELTS Prep": 57,
+      "IELTS Writing Correction Service": 4,
+      "writing9.com": 87
+    }
+  },
+  "available": {
+    "7.5": 217,
+    "8.5": 216,
+    "8.0": 212,
+    "7.0": 210,
+    "9.0": 211,
+    "6.5": 214,
+    "6.0": 212
+  }
+}

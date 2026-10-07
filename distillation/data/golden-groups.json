@@ -1,0 +1,2163 @@
+[
+ {
+  "size": 7,
+  "bands": [
+   6.0,
+   7.0,
+   8.5,
+   9.0
+  ],
+  "task_types": [
+   "two-part"
+  ],
+  "ids": [
+   "B6-ADV-027",
+   "B7-ADV-024",
+   "B7-ADV-037",
+   "B85-ADV-033",
+   "B9-ADV-031",
+   "B9-ADV-032",
+   "B9-ADV-035"
+  ],
+  "question": "Some children spend hours every day on their smartphones. Why is this the case? Do you think this is a positive or a negative development?",
+  "members": [
+   {
+    "id": "B6-ADV-027",
+    "band": 6.0,
+    "task": "two-part",
+    "topic": "technology",
+    "source": "writing9.com",
+    "coverage": 0.333
+   },
+   {
+    "id": "B7-ADV-024",
+    "band": 7.0,
+    "task": "two-part",
+    "topic": "technology",
+    "source": "writing9.com",
+    "coverage": 0.75
+   },
+   {
+    "id": "B7-ADV-037",
+    "band": 7.0,
+    "task": "two-part",
+    "topic": "technology",
+    "source": "writing9.com",
+    "coverage": 0.417
+   },
+   {
+    "id": "B85-ADV-033",
+    "band": 8.5,
+    "task": "two-part",
+    "topic": "technology",
+    "source": "writing9.com",
+    "coverage": 0.833
+   },
+   {
+    "id": "B9-ADV-031",
+    "band": 9.0,
+    "task": "two-part",
+    "topic": "technology",
+    "source": "writing9.com",
+    "coverage": 0.417
+   },
+   {
+    "id": "B9-ADV-032",
+    "band": 9.0,
+    "task": "two-part",
+    "topic": "technology",
+    "source": "writing9.com",
+    "coverage": 0.667
+   },
+   {
+    "id": "B9-ADV-035",
+    "band": 9.0,
+    "task": "two-part",
+    "topic": "technology",
+    "source": "writing9.com",
+    "coverage": 0.833
+   }
+  ]
+ },
+ {
+  "size": 5,
+  "bands": [
+   6.0,
+   8.0,
+   8.5,
+   9.0
+  ],
+  "task_types": [
+   "two-part"
+  ],
+  "ids": [
+   "B6-ADV-015",
+   "B8-ADV-013",
+   "B8-ADV-014",
+   "B85-ADV-017",
+   "B9-ADV-020"
+  ],
+  "question": "In their advertising, businesses nowadays usually emphasize that their products are new in some ways. Why is this? Do you think it is a positive or negative development?",
+  "members": [
+   {
+    "id": "B6-ADV-015",
+    "band": 6.0,
+    "task": "two-part",
+    "topic": "media",
+    "source": "writing9.com",
+    "coverage": 1.0
+   },
+   {
+    "id": "B8-ADV-013",
+    "band": 8.0,
+    "task": "two-part",
+    "topic": "media",
+    "source": "writing9.com",
+    "coverage": 0.786
+   },
+   {
+    "id": "B8-ADV-014",
+    "band": 8.0,
+    "task": "two-part",
+    "topic": "media",
+    "source": "writing9.com",
+    "coverage": 0.714
+   },
+   {
+    "id": "B85-ADV-017",
+    "band": 8.5,
+    "task": "two-part",
+    "topic": "media",
+    "source": "writing9.com",
+    "coverage": 0.643
+   },
+   {
+    "id": "B9-ADV-020",
+    "band": 9.0,
+    "task": "two-part",
+    "topic": "media",
+    "source": "writing9.com",
+    "coverage": 0.5
+   }
+  ]
+ },
+ {
+  "size": 4,
+  "bands": [
+   6.0,
+   6.5,
+   7.0,
+   8.5
+  ],
+  "task_types": [
+   "two-part"
+  ],
+  "ids": [
+   "B6-OP-026",
+   "B65-OP-016",
+   "B7-OP-029",
+   "B85-OP-019"
+  ],
+  "question": "in some countries, owning a home rather than renting one is very important for people. why might this be the case? what do you think this is a positive or negative situation?",
+  "members": [
+   {
+    "id": "B6-OP-026",
+    "band": 6.0,
+    "task": "two-part",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.75
+   },
+   {
+    "id": "B65-OP-016",
+    "band": 6.5,
+    "task": "two-part",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.667
+   },
+   {
+    "id": "B7-OP-029",
+    "band": 7.0,
+    "task": "two-part",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.167
+   },
+   {
+    "id": "B85-OP-019",
+    "band": 8.5,
+    "task": "two-part",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.667
+   }
+  ]
+ },
+ {
+  "size": 4,
+  "bands": [
+   6.0,
+   7.0,
+   7.5,
+   8.0
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B6-OP-068",
+   "B7-OP-075",
+   "B75-OP-060",
+   "B8-OP-061"
+  ],
+  "question": "The best way to provide enough homes in large cities is to build tall apartment blocks. To what extend do you agree or disagree with this statement?",
+  "members": [
+   {
+    "id": "B6-OP-068",
+    "band": 6.0,
+    "task": "opinion",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.667
+   },
+   {
+    "id": "B7-OP-075",
+    "band": 7.0,
+    "task": "opinion",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.5
+   },
+   {
+    "id": "B75-OP-060",
+    "band": 7.5,
+    "task": "opinion",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.611
+   },
+   {
+    "id": "B8-OP-061",
+    "band": 8.0,
+    "task": "opinion",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.722
+   }
+  ]
+ },
+ {
+  "size": 4,
+  "bands": [
+   6.0,
+   7.0,
+   7.5,
+   8.5
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B6-OP-076",
+   "B7-OP-077",
+   "B75-OP-063",
+   "B85-OP-083"
+  ],
+  "question": "The most important aim of science should be to improve people's lives. To what extent do you agree or disagree with this statement",
+  "members": [
+   {
+    "id": "B6-OP-076",
+    "band": 6.0,
+    "task": "opinion",
+    "topic": "technology",
+    "source": "writing9.com",
+    "coverage": 0.5
+   },
+   {
+    "id": "B7-OP-077",
+    "band": 7.0,
+    "task": "opinion",
+    "topic": "technology",
+    "source": "writing9.com",
+    "coverage": 0.75
+   },
+   {
+    "id": "B75-OP-063",
+    "band": 7.5,
+    "task": "opinion",
+    "topic": "technology",
+    "source": "writing9.com",
+    "coverage": 0.818
+   },
+   {
+    "id": "B85-OP-083",
+    "band": 8.5,
+    "task": "opinion",
+    "topic": "technology",
+    "source": "writing9.com",
+    "coverage": 0.583
+   }
+  ]
+ },
+ {
+  "size": 7,
+  "bands": [
+   6.0,
+   6.5,
+   8.5
+  ],
+  "task_types": [
+   "discussion"
+  ],
+  "ids": [
+   "B6-DIS-015",
+   "B6-DIS-016",
+   "B65-DIS-026",
+   "B85-DIS-013",
+   "B85-DIS-016",
+   "B85-DIS-017",
+   "B85-DIS-034"
+  ],
+  "question": "Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situations. Discuss both these views and give your own opinion.",
+  "members": [
+   {
+    "id": "B6-DIS-015",
+    "band": 6.0,
+    "task": "discussion",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.455
+   },
+   {
+    "id": "B6-DIS-016",
+    "band": 6.0,
+    "task": "discussion",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.545
+   },
+   {
+    "id": "B65-DIS-026",
+    "band": 6.5,
+    "task": "discussion",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.762
+   },
+   {
+    "id": "B85-DIS-013",
+    "band": 8.5,
+    "task": "discussion",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.35
+   },
+   {
+    "id": "B85-DIS-016",
+    "band": 8.5,
+    "task": "discussion",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.476
+   },
+   {
+    "id": "B85-DIS-017",
+    "band": 8.5,
+    "task": "discussion",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.429
+   },
+   {
+    "id": "B85-DIS-034",
+    "band": 8.5,
+    "task": "discussion",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.619
+   }
+  ]
+ },
+ {
+  "size": 4,
+  "bands": [
+   6.0,
+   7.5,
+   8.0
+  ],
+  "task_types": [
+   "report"
+  ],
+  "ids": [
+   "B6-REP-011",
+   "B6-REP-014",
+   "B75-REP-017",
+   "B8-REP-012"
+  ],
+  "question": "Many children today are overweight. This is a serious health issue. Give reasons for child obesity today and give solutions to help this problem",
+  "members": [
+   {
+    "id": "B6-REP-011",
+    "band": 6.0,
+    "task": "report",
+    "topic": "health",
+    "source": "writing9.com",
+    "coverage": 0.812
+   },
+   {
+    "id": "B6-REP-014",
+    "band": 6.0,
+    "task": "report",
+    "topic": "health",
+    "source": "writing9.com",
+    "coverage": 0.75
+   },
+   {
+    "id": "B75-REP-017",
+    "band": 7.5,
+    "task": "report",
+    "topic": "health",
+    "source": "writing9.com",
+    "coverage": 0.812
+   },
+   {
+    "id": "B8-REP-012",
+    "band": 8.0,
+    "task": "report",
+    "topic": "health",
+    "source": "writing9.com",
+    "coverage": 0.438
+   }
+  ]
+ },
+ {
+  "size": 4,
+  "bands": [
+   6.0,
+   6.5,
+   8.0
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B6-TQ-002",
+   "B6-TQ-003",
+   "B65-TQ-010",
+   "B8-TQ-010"
+  ],
+  "question": "The best way to reduce the number of traffic accidents is to raise the age limit for younger drivers and lower the age limit for elderly ones. Do you agree or disagree?",
+  "members": [
+   {
+    "id": "B6-TQ-002",
+    "band": 6.0,
+    "task": "opinion",
+    "topic": "social",
+    "source": "ielts-blog.com",
+    "coverage": 0.625
+   },
+   {
+    "id": "B6-TQ-003",
+    "band": 6.0,
+    "task": "opinion",
+    "topic": "social",
+    "source": "ielts-blog.com",
+    "coverage": 0.647
+   },
+   {
+    "id": "B65-TQ-010",
+    "band": 6.5,
+    "task": "opinion",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.556
+   },
+   {
+    "id": "B8-TQ-010",
+    "band": 8.0,
+    "task": "opinion",
+    "topic": "social",
+    "source": "ielts-blog.com",
+    "coverage": 0.529
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.0,
+   6.5,
+   7.5
+  ],
+  "task_types": [
+   "adv-disadv"
+  ],
+  "ids": [
+   "B6-ADV-001",
+   "B65-ADV-006",
+   "B75-ADV-005"
+  ],
+  "question": "All university undergraduate courses should include a period of time spent studying abroad or doing a work placement. Do you think the advantages of this would outweigh the disadvantages?",
+  "members": [
+   {
+    "id": "B6-ADV-001",
+    "band": 6.0,
+    "task": "adv-disadv",
+    "topic": "education",
+    "source": "writing9.com",
+    "coverage": 0.833
+   },
+   {
+    "id": "B65-ADV-006",
+    "band": 6.5,
+    "task": "adv-disadv",
+    "topic": "education",
+    "source": "writing9.com",
+    "coverage": 0.722
+   },
+   {
+    "id": "B75-ADV-005",
+    "band": 7.5,
+    "task": "adv-disadv",
+    "topic": "education",
+    "source": "writing9.com",
+    "coverage": 0.722
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.0,
+   7.0,
+   8.0
+  ],
+  "task_types": [
+   "adv-disadv"
+  ],
+  "ids": [
+   "B6-ADV-010",
+   "B7-ADV-010",
+   "B8-ADV-008"
+  ],
+  "question": "In some countries, the government pays for health care. In others, the individual must pay for their own health care. Discuss the advantages and disadvantages of each system.",
+  "members": [
+   {
+    "id": "B6-ADV-010",
+    "band": 6.0,
+    "task": "adv-disadv",
+    "topic": "health",
+    "source": "writing9.com",
+    "coverage": 0.667
+   },
+   {
+    "id": "B7-ADV-010",
+    "band": 7.0,
+    "task": "adv-disadv",
+    "topic": "health",
+    "source": "writing9.com",
+    "coverage": 0.8
+   },
+   {
+    "id": "B8-ADV-008",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "topic": "health",
+    "source": "writing9.com",
+    "coverage": 0.533
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.0,
+   8.0,
+   8.5
+  ],
+  "task_types": [
+   "discussion"
+  ],
+  "ids": [
+   "B6-DIS-012",
+   "B8-DIS-013",
+   "B85-DIS-014"
+  ],
+  "question": "Some people believe that allowing children to make their own choices on everyday matters (such as foood, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion.",
+  "members": [
+   {
+    "id": "B6-DIS-012",
+    "band": 6.0,
+    "task": "discussion",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.406
+   },
+   {
+    "id": "B8-DIS-013",
+    "band": 8.0,
+    "task": "discussion",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.406
+   },
+   {
+    "id": "B85-DIS-014",
+    "band": 8.5,
+    "task": "discussion",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.5
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.0,
+   7.0,
+   7.5
+  ],
+  "task_types": [
+   "discussion"
+  ],
+  "ids": [
+   "B6-DIS-028",
+   "B7-DIS-005",
+   "B75-DIS-038"
+  ],
+  "question": "Some people think that all university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as those related to science and technology. Discuss both these views and give your own opinion",
+  "members": [
+   {
+    "id": "B6-DIS-028",
+    "band": 6.0,
+    "task": "discussion",
+    "topic": "education",
+    "source": "writing9.com",
+    "coverage": 0.739
+   },
+   {
+    "id": "B7-DIS-005",
+    "band": 7.0,
+    "task": "discussion",
+    "topic": "education",
+    "source": "ielts.international",
+    "coverage": 0.391
+   },
+   {
+    "id": "B75-DIS-038",
+    "band": 7.5,
+    "task": "discussion",
+    "topic": "education",
+    "source": "writing9.com",
+    "coverage": 0.696
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.0,
+   6.5,
+   7.0
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B6-OP-040",
+   "B65-OP-048",
+   "B7-OP-048"
+  ],
+  "question": "Promotions to a higher level should be made from within the company rather than appointing a new person from outside. Do you agree or disagree?",
+  "members": [
+   {
+    "id": "B6-OP-040",
+    "band": 6.0,
+    "task": "opinion",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.667
+   },
+   {
+    "id": "B65-OP-048",
+    "band": 6.5,
+    "task": "opinion",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.667
+   },
+   {
+    "id": "B7-OP-048",
+    "band": 7.0,
+    "task": "opinion",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.667
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "adv-disadv"
+  ],
+  "ids": [
+   "B65-ADV-001",
+   "B75-ADV-001",
+   "B9-ADV-001"
+  ],
+  "question": "A small number of global streaming companies now decide which films and television series are made. Do you think this is a positive or a negative development?",
+  "members": [
+   {
+    "id": "B65-ADV-001",
+    "band": 6.5,
+    "task": "adv-disadv",
+    "topic": "media",
+    "source": "cdieltsprep.com",
+    "coverage": 0.778
+   },
+   {
+    "id": "B75-ADV-001",
+    "band": 7.5,
+    "task": "adv-disadv",
+    "topic": "media",
+    "source": "cdieltsprep.com",
+    "coverage": 0.722
+   },
+   {
+    "id": "B9-ADV-001",
+    "band": 9.0,
+    "task": "adv-disadv",
+    "topic": "media",
+    "source": "cdieltsprep.com",
+    "coverage": 0.556
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   8.5
+  ],
+  "task_types": [
+   "adv-disadv"
+  ],
+  "ids": [
+   "B65-ADV-002",
+   "B75-ADV-022",
+   "B85-ADV-006"
+  ],
+  "question": "In many countries around the world, rural people are moving to cities, so the population in the countryside is decreasing. Do you think this is a positive or a negative development?",
+  "members": [
+   {
+    "id": "B65-ADV-002",
+    "band": 6.5,
+    "task": "adv-disadv",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.625
+   },
+   {
+    "id": "B75-ADV-022",
+    "band": 7.5,
+    "task": "adv-disadv",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.562
+   },
+   {
+    "id": "B85-ADV-006",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.5
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "adv-disadv"
+  ],
+  "ids": [
+   "B65-ADV-010",
+   "B75-ADV-012",
+   "B9-ADV-008"
+  ],
+  "question": "In many countries, companies are employing fewer permanent staff and are using more short-term contractors and gig workers. Do you think this is a positive or a negative development?",
+  "members": [
+   {
+    "id": "B65-ADV-010",
+    "band": 6.5,
+    "task": "adv-disadv",
+    "topic": "globalization-work",
+    "source": "cdieltsprep.com",
+    "coverage": 0.5
+   },
+   {
+    "id": "B75-ADV-012",
+    "band": 7.5,
+    "task": "adv-disadv",
+    "topic": "globalization-work",
+    "source": "cdieltsprep.com",
+    "coverage": 0.45
+   },
+   {
+    "id": "B9-ADV-008",
+    "band": 9.0,
+    "task": "adv-disadv",
+    "topic": "globalization-work",
+    "source": "cdieltsprep.com",
+    "coverage": 0.4
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "adv-disadv"
+  ],
+  "ids": [
+   "B65-ADV-012",
+   "B75-ADV-015",
+   "B9-ADV-011"
+  ],
+  "question": "In many countries, services that were once run by the state, such as prisons, railways and rubbish collection, are now operated by private companies under government contracts. Do you think this is a positive or a negative development?",
+  "members": [
+   {
+    "id": "B65-ADV-012",
+    "band": 6.5,
+    "task": "adv-disadv",
+    "topic": "crime",
+    "source": "cdieltsprep.com",
+    "coverage": 0.708
+   },
+   {
+    "id": "B75-ADV-015",
+    "band": 7.5,
+    "task": "adv-disadv",
+    "topic": "crime",
+    "source": "cdieltsprep.com",
+    "coverage": 0.625
+   },
+   {
+    "id": "B9-ADV-011",
+    "band": 9.0,
+    "task": "adv-disadv",
+    "topic": "crime",
+    "source": "cdieltsprep.com",
+    "coverage": 0.792
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "adv-disadv"
+  ],
+  "ids": [
+   "B65-ADV-024",
+   "B75-ADV-024",
+   "B9-ADV-023"
+  ],
+  "question": "Many developing countries have built their economies around large-scale international tourism. Do the advantages of this approach outweigh the disadvantages?",
+  "members": [
+   {
+    "id": "B65-ADV-024",
+    "band": 6.5,
+    "task": "adv-disadv",
+    "topic": "globalization-work",
+    "source": "cdieltsprep.com",
+    "coverage": 0.529
+   },
+   {
+    "id": "B75-ADV-024",
+    "band": 7.5,
+    "task": "adv-disadv",
+    "topic": "globalization-work",
+    "source": "cdieltsprep.com",
+    "coverage": 0.647
+   },
+   {
+    "id": "B9-ADV-023",
+    "band": 9.0,
+    "task": "adv-disadv",
+    "topic": "globalization-work",
+    "source": "cdieltsprep.com",
+    "coverage": 0.353
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "adv-disadv"
+  ],
+  "ids": [
+   "B65-ADV-030",
+   "B75-ADV-029",
+   "B9-ADV-027"
+  ],
+  "question": "Some cities have made all public transport free to use, paying for it through taxation instead of fares. Do you think this is a positive or negative development?",
+  "members": [
+   {
+    "id": "B65-ADV-030",
+    "band": 6.5,
+    "task": "adv-disadv",
+    "topic": "government",
+    "source": "cdieltsprep.com",
+    "coverage": 0.588
+   },
+   {
+    "id": "B75-ADV-029",
+    "band": 7.5,
+    "task": "adv-disadv",
+    "topic": "government",
+    "source": "cdieltsprep.com",
+    "coverage": 0.765
+   },
+   {
+    "id": "B9-ADV-027",
+    "band": 9.0,
+    "task": "adv-disadv",
+    "topic": "government",
+    "source": "cdieltsprep.com",
+    "coverage": 0.647
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "adv-disadv"
+  ],
+  "ids": [
+   "B65-ADV-031",
+   "B75-ADV-030",
+   "B9-ADV-028"
+  ],
+  "question": "Some countries are considering reducing the standard working week from five days to four, with no reduction in pay. Do the advantages of this change outweigh the disadvantages?",
+  "members": [
+   {
+    "id": "B65-ADV-031",
+    "band": 6.5,
+    "task": "adv-disadv",
+    "topic": "globalization-work",
+    "source": "cdieltsprep.com",
+    "coverage": 0.625
+   },
+   {
+    "id": "B75-ADV-030",
+    "band": 7.5,
+    "task": "adv-disadv",
+    "topic": "globalization-work",
+    "source": "cdieltsprep.com",
+    "coverage": 0.688
+   },
+   {
+    "id": "B9-ADV-028",
+    "band": 9.0,
+    "task": "adv-disadv",
+    "topic": "globalization-work",
+    "source": "cdieltsprep.com",
+    "coverage": 0.562
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "adv-disadv"
+  ],
+  "ids": [
+   "B65-ADV-033",
+   "B75-ADV-031",
+   "B9-ADV-029"
+  ],
+  "question": "Some governments are moving ministries and other public bodies out of the capital city to smaller towns and regions. Do the advantages of this policy outweigh the disadvantages?",
+  "members": [
+   {
+    "id": "B65-ADV-033",
+    "band": 6.5,
+    "task": "adv-disadv",
+    "topic": "government",
+    "source": "cdieltsprep.com",
+    "coverage": 0.81
+   },
+   {
+    "id": "B75-ADV-031",
+    "band": 7.5,
+    "task": "adv-disadv",
+    "topic": "government",
+    "source": "cdieltsprep.com",
+    "coverage": 0.857
+   },
+   {
+    "id": "B9-ADV-029",
+    "band": 9.0,
+    "task": "adv-disadv",
+    "topic": "government",
+    "source": "cdieltsprep.com",
+    "coverage": 0.667
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "discussion"
+  ],
+  "ids": [
+   "B65-DIS-002",
+   "B75-DIS-003",
+   "B9-DIS-002"
+  ],
+  "question": "Many people argue that individuals are responsible for addressing environmental problems, while others believe that governments and large corporations bear the primary responsibility. Discuss both views and give your own opinion.",
+  "members": [
+   {
+    "id": "B65-DIS-002",
+    "band": 6.5,
+    "task": "discussion",
+    "topic": "environment",
+    "source": "ieltswritingcorrectionservice.com",
+    "coverage": 0.792
+   },
+   {
+    "id": "B75-DIS-003",
+    "band": 7.5,
+    "task": "discussion",
+    "topic": "environment",
+    "source": "ieltswritingcorrectionservice.com",
+    "coverage": 0.458
+   },
+   {
+    "id": "B9-DIS-002",
+    "band": 9.0,
+    "task": "discussion",
+    "topic": "environment",
+    "source": "ieltswritingcorrectionservice.com",
+    "coverage": 0.458
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "discussion"
+  ],
+  "ids": [
+   "B65-DIS-004",
+   "B75-DIS-005",
+   "B9-DIS-004"
+  ],
+  "question": "Some people believe that the introduction of artificial intelligence and automation will lead to widespread unemployment and social problems, while others argue that technology has always created more jobs than it has destroyed. Discuss both views and give your own opinion.",
+  "members": [
+   {
+    "id": "B65-DIS-004",
+    "band": 6.5,
+    "task": "discussion",
+    "topic": "technology",
+    "source": "ieltswritingcorrectionservice.com",
+    "coverage": 0.783
+   },
+   {
+    "id": "B75-DIS-005",
+    "band": 7.5,
+    "task": "discussion",
+    "topic": "technology",
+    "source": "ieltswritingcorrectionservice.com",
+    "coverage": 0.435
+   },
+   {
+    "id": "B9-DIS-004",
+    "band": 9.0,
+    "task": "discussion",
+    "topic": "technology",
+    "source": "ieltswritingcorrectionservice.com",
+    "coverage": 0.348
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "discussion"
+  ],
+  "ids": [
+   "B65-DIS-007",
+   "B75-DIS-010",
+   "B9-DIS-009"
+  ],
+  "question": "In some areas, libraries, parks and community centres that were once run by paid council staff are now managed by local volunteers. Some people believe this is the best way to keep such services open, while others argue that local government should pay professionals to run them. Discuss both views and give your own opinion.",
+  "members": [
+   {
+    "id": "B65-DIS-007",
+    "band": 6.5,
+    "task": "discussion",
+    "topic": "social",
+    "source": "cdieltsprep.com",
+    "coverage": 0.811
+   },
+   {
+    "id": "B75-DIS-010",
+    "band": 7.5,
+    "task": "discussion",
+    "topic": "social",
+    "source": "cdieltsprep.com",
+    "coverage": 0.784
+   },
+   {
+    "id": "B9-DIS-009",
+    "band": 9.0,
+    "task": "discussion",
+    "topic": "social",
+    "source": "cdieltsprep.com",
+    "coverage": 0.405
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "discussion"
+  ],
+  "ids": [
+   "B65-DIS-013",
+   "B75-DIS-016",
+   "B9-DIS-012"
+  ],
+  "question": "Many major museums hold objects that were removed from other countries in the past. Some people believe these objects should be returned to their countries of origin, while others argue they are better preserved and more widely seen where they are. Discuss both views and give your own opinion.",
+  "members": [
+   {
+    "id": "B65-DIS-013",
+    "band": 6.5,
+    "task": "discussion",
+    "topic": "culture",
+    "source": "cdieltsprep.com",
+    "coverage": 0.56
+   },
+   {
+    "id": "B75-DIS-016",
+    "band": 7.5,
+    "task": "discussion",
+    "topic": "culture",
+    "source": "cdieltsprep.com",
+    "coverage": 0.56
+   },
+   {
+    "id": "B9-DIS-012",
+    "band": 9.0,
+    "task": "discussion",
+    "topic": "culture",
+    "source": "cdieltsprep.com",
+    "coverage": 0.28
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "discussion"
+  ],
+  "ids": [
+   "B65-DIS-019",
+   "B75-DIS-019",
+   "B9-DIS-018"
+  ],
+  "question": "Some schools teach children of all abilities together in the same class, while others divide students into groups according to how well they perform. Discuss both approaches and give your own opinion.",
+  "members": [
+   {
+    "id": "B65-DIS-019",
+    "band": 6.5,
+    "task": "discussion",
+    "topic": "education",
+    "source": "cdieltsprep.com",
+    "coverage": 0.565
+   },
+   {
+    "id": "B75-DIS-019",
+    "band": 7.5,
+    "task": "discussion",
+    "topic": "education",
+    "source": "cdieltsprep.com",
+    "coverage": 0.522
+   },
+   {
+    "id": "B9-DIS-018",
+    "band": 9.0,
+    "task": "discussion",
+    "topic": "education",
+    "source": "cdieltsprep.com",
+    "coverage": 0.478
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B65-OP-020",
+   "B75-OP-019",
+   "B9-OP-060"
+  ],
+  "question": "News organisations sometimes publish stories that later turn out to be false. Some people believe that the law should require corrections to be given the same prominence as the original story. To what extent do you agree or disagree?",
+  "members": [
+   {
+    "id": "B65-OP-020",
+    "band": 6.5,
+    "task": "opinion",
+    "topic": "media",
+    "source": "cdieltsprep.com",
+    "coverage": 0.727
+   },
+   {
+    "id": "B75-OP-019",
+    "band": 7.5,
+    "task": "opinion",
+    "topic": "media",
+    "source": "cdieltsprep.com",
+    "coverage": 0.591
+   },
+   {
+    "id": "B9-OP-060",
+    "band": 9.0,
+    "task": "opinion",
+    "topic": "media",
+    "source": "cdieltsprep.com",
+    "coverage": 0.545
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B65-OP-023",
+   "B75-OP-024",
+   "B9-OP-068"
+  ],
+  "question": "Some governments now fund university places only in subjects that lead directly to employment. To what extent do you agree or disagree?",
+  "members": [
+   {
+    "id": "B65-OP-023",
+    "band": 6.5,
+    "task": "opinion",
+    "topic": "education",
+    "source": "cdieltsprep.com",
+    "coverage": 0.533
+   },
+   {
+    "id": "B75-OP-024",
+    "band": 7.5,
+    "task": "opinion",
+    "topic": "education",
+    "source": "cdieltsprep.com",
+    "coverage": 0.467
+   },
+   {
+    "id": "B9-OP-068",
+    "band": 9.0,
+    "task": "opinion",
+    "topic": "education",
+    "source": "cdieltsprep.com",
+    "coverage": 0.333
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B65-OP-025",
+   "B75-OP-025",
+   "B9-OP-070"
+  ],
+  "question": "Some people argue that offenders who have committed non-violent crimes should serve their sentences in the community rather than in prison. To what extent do you agree or disagree?",
+  "members": [
+   {
+    "id": "B65-OP-025",
+    "band": 6.5,
+    "task": "opinion",
+    "topic": "crime",
+    "source": "cdieltsprep.com",
+    "coverage": 0.588
+   },
+   {
+    "id": "B75-OP-025",
+    "band": 7.5,
+    "task": "opinion",
+    "topic": "crime",
+    "source": "cdieltsprep.com",
+    "coverage": 0.647
+   },
+   {
+    "id": "B9-OP-070",
+    "band": 9.0,
+    "task": "opinion",
+    "topic": "crime",
+    "source": "cdieltsprep.com",
+    "coverage": 0.353
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B65-OP-029",
+   "B75-OP-028",
+   "B9-OP-075"
+  ],
+  "question": "Some people believe that individual efforts to live more sustainably achieve nothing while governments fail to regulate polluting industries. To what extent do you agree or disagree?",
+  "members": [
+   {
+    "id": "B65-OP-029",
+    "band": 6.5,
+    "task": "opinion",
+    "topic": "environment",
+    "source": "cdieltsprep.com",
+    "coverage": 0.368
+   },
+   {
+    "id": "B75-OP-028",
+    "band": 7.5,
+    "task": "opinion",
+    "topic": "environment",
+    "source": "cdieltsprep.com",
+    "coverage": 0.421
+   },
+   {
+    "id": "B9-OP-075",
+    "band": 9.0,
+    "task": "opinion",
+    "topic": "environment",
+    "source": "cdieltsprep.com",
+    "coverage": 0.421
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B65-OP-030",
+   "B75-OP-029",
+   "B9-OP-078"
+  ],
+  "question": "Some people believe that private cars should be banned from the centres of large cities. To what extent do you agree or disagree?",
+  "members": [
+   {
+    "id": "B65-OP-030",
+    "band": 6.5,
+    "task": "opinion",
+    "topic": "social",
+    "source": "cdieltsprep.com",
+    "coverage": 0.615
+   },
+   {
+    "id": "B75-OP-029",
+    "band": 7.5,
+    "task": "opinion",
+    "topic": "social",
+    "source": "cdieltsprep.com",
+    "coverage": 0.615
+   },
+   {
+    "id": "B9-OP-078",
+    "band": 9.0,
+    "task": "opinion",
+    "topic": "social",
+    "source": "cdieltsprep.com",
+    "coverage": 0.385
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.0,
+   9.0
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B65-OP-033",
+   "B7-OP-038",
+   "B9-OP-050"
+  ],
+  "question": "Many manufactured food and drink products contain high levels of sugar, which causes many health problems. Sugary products should be made more expensive to encourage people to consume less sugar. Do you agree or disagree?",
+  "members": [
+   {
+    "id": "B65-OP-033",
+    "band": 6.5,
+    "task": "opinion",
+    "topic": "health",
+    "source": "writing9.com",
+    "coverage": 0.696
+   },
+   {
+    "id": "B7-OP-038",
+    "band": 7.0,
+    "task": "opinion",
+    "topic": "health",
+    "source": "writing9.com",
+    "coverage": 0.826
+   },
+   {
+    "id": "B9-OP-050",
+    "band": 9.0,
+    "task": "opinion",
+    "topic": "health",
+    "source": "writing9.com",
+    "coverage": 0.522
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B65-OP-035",
+   "B75-OP-034",
+   "B9-OP-084"
+  ],
+  "question": "Some people think that children should not be allowed to own a smartphone until they start secondary school. To what extent do you agree or disagree?",
+  "members": [
+   {
+    "id": "B65-OP-035",
+    "band": 6.5,
+    "task": "opinion",
+    "topic": "technology",
+    "source": "cdieltsprep.com",
+    "coverage": 0.636
+   },
+   {
+    "id": "B75-OP-034",
+    "band": 7.5,
+    "task": "opinion",
+    "topic": "technology",
+    "source": "cdieltsprep.com",
+    "coverage": 0.455
+   },
+   {
+    "id": "B9-OP-084",
+    "band": 9.0,
+    "task": "opinion",
+    "topic": "technology",
+    "source": "cdieltsprep.com",
+    "coverage": 0.364
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.0,
+   8.0
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B65-OP-054",
+   "B7-OP-050",
+   "B8-OP-035"
+  ],
+  "question": "Some people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+  "members": [
+   {
+    "id": "B65-OP-054",
+    "band": 6.5,
+    "task": "opinion",
+    "topic": "education",
+    "source": "writing9.com",
+    "coverage": 0.552
+   },
+   {
+    "id": "B7-OP-050",
+    "band": 7.0,
+    "task": "opinion",
+    "topic": "education",
+    "source": "writing9.com",
+    "coverage": 0.483
+   },
+   {
+    "id": "B8-OP-035",
+    "band": 8.0,
+    "task": "opinion",
+    "topic": "education",
+    "source": "writing9.com",
+    "coverage": 0.483
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "report"
+  ],
+  "ids": [
+   "B65-REP-001",
+   "B75-REP-002",
+   "B9-REP-002"
+  ],
+  "question": "Fraud committed over the internet has increased significantly in recent years. Why has this type of crime become so common? What can individuals do to protect themselves?",
+  "members": [
+   {
+    "id": "B65-REP-001",
+    "band": 6.5,
+    "task": "report",
+    "topic": "crime",
+    "source": "cdieltsprep.com",
+    "coverage": 0.529
+   },
+   {
+    "id": "B75-REP-002",
+    "band": 7.5,
+    "task": "report",
+    "topic": "crime",
+    "source": "cdieltsprep.com",
+    "coverage": 0.471
+   },
+   {
+    "id": "B9-REP-002",
+    "band": 9.0,
+    "task": "report",
+    "topic": "crime",
+    "source": "cdieltsprep.com",
+    "coverage": 0.294
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "report"
+  ],
+  "ids": [
+   "B65-REP-002",
+   "B75-REP-003",
+   "B9-REP-003"
+  ],
+  "question": "In many communities, local charities and clubs are finding it increasingly difficult to recruit volunteers. Why is this happening? What could be done to encourage more people to give their time?",
+  "members": [
+   {
+    "id": "B65-REP-002",
+    "band": 6.5,
+    "task": "report",
+    "topic": "social",
+    "source": "cdieltsprep.com",
+    "coverage": 0.722
+   },
+   {
+    "id": "B75-REP-003",
+    "band": 7.5,
+    "task": "report",
+    "topic": "social",
+    "source": "cdieltsprep.com",
+    "coverage": 0.5
+   },
+   {
+    "id": "B9-REP-003",
+    "band": 9.0,
+    "task": "report",
+    "topic": "social",
+    "source": "cdieltsprep.com",
+    "coverage": 0.556
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "report"
+  ],
+  "ids": [
+   "B65-REP-005",
+   "B75-REP-004",
+   "B9-REP-004"
+  ],
+  "question": "In many countries, a high proportion of young people who are released from prison commit further offences within a short period. What are the reasons for this, and how could the situation be improved?",
+  "members": [
+   {
+    "id": "B65-REP-005",
+    "band": 6.5,
+    "task": "report",
+    "topic": "crime",
+    "source": "cdieltsprep.com",
+    "coverage": 0.389
+   },
+   {
+    "id": "B75-REP-004",
+    "band": 7.5,
+    "task": "report",
+    "topic": "crime",
+    "source": "cdieltsprep.com",
+    "coverage": 0.5
+   },
+   {
+    "id": "B9-REP-004",
+    "band": 9.0,
+    "task": "report",
+    "topic": "crime",
+    "source": "cdieltsprep.com",
+    "coverage": 0.222
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "report"
+  ],
+  "ids": [
+   "B65-REP-009",
+   "B75-REP-008",
+   "B9-REP-008"
+  ],
+  "question": "In many large cities, ordinary working people can no longer afford to live near the places where they work. Why has this happened, and what can be done about it?",
+  "members": [
+   {
+    "id": "B65-REP-009",
+    "band": 6.5,
+    "task": "report",
+    "topic": "globalization-work",
+    "source": "cdieltsprep.com",
+    "coverage": 0.5
+   },
+   {
+    "id": "B75-REP-008",
+    "band": 7.5,
+    "task": "report",
+    "topic": "globalization-work",
+    "source": "cdieltsprep.com",
+    "coverage": 0.429
+   },
+   {
+    "id": "B9-REP-008",
+    "band": 9.0,
+    "task": "report",
+    "topic": "globalization-work",
+    "source": "cdieltsprep.com",
+    "coverage": 0.571
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "report"
+  ],
+  "ids": [
+   "B65-REP-010",
+   "B75-REP-009",
+   "B9-REP-009"
+  ],
+  "question": "In many societies, a growing number of older people live alone and have little regular contact with others. What are the causes of this isolation, and what could be done to reduce it?",
+  "members": [
+   {
+    "id": "B65-REP-010",
+    "band": 6.5,
+    "task": "report",
+    "topic": "social",
+    "source": "cdieltsprep.com",
+    "coverage": 0.4
+   },
+   {
+    "id": "B75-REP-009",
+    "band": 7.5,
+    "task": "report",
+    "topic": "social",
+    "source": "cdieltsprep.com",
+    "coverage": 0.733
+   },
+   {
+    "id": "B9-REP-009",
+    "band": 9.0,
+    "task": "report",
+    "topic": "social",
+    "source": "cdieltsprep.com",
+    "coverage": 0.4
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "report"
+  ],
+  "ids": [
+   "B65-REP-012",
+   "B75-REP-012",
+   "B9-REP-015"
+  ],
+  "question": "Many countries invest heavily in training doctors, engineers and other skilled professionals, only for large numbers of them to emigrate soon after qualifying. Why does this happen, and what measures could reduce it?",
+  "members": [
+   {
+    "id": "B65-REP-012",
+    "band": 6.5,
+    "task": "report",
+    "topic": "health",
+    "source": "cdieltsprep.com",
+    "coverage": 0.435
+   },
+   {
+    "id": "B75-REP-012",
+    "band": 7.5,
+    "task": "report",
+    "topic": "health",
+    "source": "cdieltsprep.com",
+    "coverage": 0.348
+   },
+   {
+    "id": "B9-REP-015",
+    "band": 9.0,
+    "task": "report",
+    "topic": "health",
+    "source": "cdieltsprep.com",
+    "coverage": 0.478
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "report"
+  ],
+  "ids": [
+   "B65-REP-015",
+   "B75-REP-016",
+   "B9-REP-019"
+  ],
+  "question": "People in many countries now depend heavily on their smartphones. Why has this happened? What effects does this dependence have on individuals and on society?",
+  "members": [
+   {
+    "id": "B65-REP-015",
+    "band": 6.5,
+    "task": "report",
+    "topic": "technology",
+    "source": "cdieltsprep.com",
+    "coverage": 0.6
+   },
+   {
+    "id": "B75-REP-016",
+    "band": 7.5,
+    "task": "report",
+    "topic": "technology",
+    "source": "cdieltsprep.com",
+    "coverage": 0.6
+   },
+   {
+    "id": "B9-REP-019",
+    "band": 9.0,
+    "task": "report",
+    "topic": "technology",
+    "source": "cdieltsprep.com",
+    "coverage": 0.467
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "two-part"
+  ],
+  "ids": [
+   "B65-TQ-003",
+   "B75-TQ-003",
+   "B9-TQ-002"
+  ],
+  "question": "Large quantities of plastic waste end up in the world's oceans every year. What do you think are the main reasons for this, and what could be done to address the situation?",
+  "members": [
+   {
+    "id": "B65-TQ-003",
+    "band": 6.5,
+    "task": "two-part",
+    "topic": "environment",
+    "source": "cdieltsprep.com",
+    "coverage": 0.389
+   },
+   {
+    "id": "B75-TQ-003",
+    "band": 7.5,
+    "task": "two-part",
+    "topic": "environment",
+    "source": "cdieltsprep.com",
+    "coverage": 0.333
+   },
+   {
+    "id": "B9-TQ-002",
+    "band": 9.0,
+    "task": "two-part",
+    "topic": "environment",
+    "source": "cdieltsprep.com",
+    "coverage": 0.222
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   6.5,
+   7.5,
+   9.0
+  ],
+  "task_types": [
+   "two-part"
+  ],
+  "ids": [
+   "B65-TQ-007",
+   "B75-TQ-010",
+   "B9-TQ-005"
+  ],
+  "question": "Traditional crafts such as weaving, pottery and woodcarving are dying out in many parts of the world. Why is this happening? Do you think it is important to keep these skills alive?",
+  "members": [
+   {
+    "id": "B65-TQ-007",
+    "band": 6.5,
+    "task": "two-part",
+    "topic": "culture",
+    "source": "cdieltsprep.com",
+    "coverage": 0.471
+   },
+   {
+    "id": "B75-TQ-010",
+    "band": 7.5,
+    "task": "two-part",
+    "topic": "culture",
+    "source": "cdieltsprep.com",
+    "coverage": 0.706
+   },
+   {
+    "id": "B9-TQ-005",
+    "band": 9.0,
+    "task": "two-part",
+    "topic": "culture",
+    "source": "cdieltsprep.com",
+    "coverage": 0.471
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   7.0,
+   8.5,
+   9.0
+  ],
+  "task_types": [
+   "adv-disadv"
+  ],
+  "ids": [
+   "B7-ADV-020",
+   "B85-ADV-031",
+   "B9-ADV-025"
+  ],
+  "question": "Nowadays many people choose to be self-employed, rather than to work for a company or organisation. Why might this be the case? What could be the disadvantages of being self-employed?",
+  "members": [
+   {
+    "id": "B7-ADV-020",
+    "band": 7.0,
+    "task": "adv-disadv",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.5
+   },
+   {
+    "id": "B85-ADV-031",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.417
+   },
+   {
+    "id": "B9-ADV-025",
+    "band": 9.0,
+    "task": "adv-disadv",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.333
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   7.0,
+   8.0,
+   8.5
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B7-OP-026",
+   "B8-OP-005",
+   "B85-OP-013"
+  ],
+  "question": "Governments should spend money on railways rather than roads. To what extent do you agree or disagree with this statement?",
+  "members": [
+   {
+    "id": "B7-OP-026",
+    "band": 7.0,
+    "task": "opinion",
+    "topic": "government",
+    "source": "writing9.com",
+    "coverage": 0.75
+   },
+   {
+    "id": "B8-OP-005",
+    "band": 8.0,
+    "task": "opinion",
+    "topic": "government",
+    "source": "ieltsprepstudio.com",
+    "coverage": 0.545
+   },
+   {
+    "id": "B85-OP-013",
+    "band": 8.5,
+    "task": "opinion",
+    "topic": "government",
+    "source": "writing9.com",
+    "coverage": 0.636
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   7.5,
+   8.0,
+   8.5
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B75-OP-051",
+   "B8-OP-064",
+   "B85-OP-056"
+  ],
+  "question": "Some people believe that unpaid community service should be a compulsory part of high school programmers (for example working for a charity, improving the neighborhood or teaching sports to younger children). To what extent do you agree or disagree).",
+  "members": [
+   {
+    "id": "B75-OP-051",
+    "band": 7.5,
+    "task": "opinion",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.667
+   },
+   {
+    "id": "B8-OP-064",
+    "band": 8.0,
+    "task": "opinion",
+    "topic": "social",
+    "source": "ielts-blog.com",
+    "coverage": 0.417
+   },
+   {
+    "id": "B85-OP-056",
+    "band": 8.5,
+    "task": "opinion",
+    "topic": "social",
+    "source": "writing9.com",
+    "coverage": 0.417
+   }
+  ]
+ },
+ {
+  "size": 3,
+  "bands": [
+   8.0,
+   8.5,
+   9.0
+  ],
+  "task_types": [
+   "opinion"
+  ],
+  "ids": [
+   "B8-OP-031",
+   "B85-OP-049",
+   "B9-OP-063"
+  ],
+  "question": "People who decide on a career path early in their lives and keep to it are more likely to have a satisfying working life than those who change jobs frequently. To what extent do you agree or disagree?",
+  "members": [
+   {
+    "id": "B8-OP-031",
+    "band": 8.0,
+    "task": "opinion",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.667
+   },
+   {
+    "id": "B85-OP-049",
+    "band": 8.5,
+    "task": "opinion",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.611
+   },
+   {
+    "id": "B9-OP-063",
+    "band": 9.0,
+    "task": "opinion",
+    "topic": "globalization-work",
+    "source": "writing9.com",
+    "coverage": 0.611
+   }
+  ]
+ }
+]

@@ -1,0 +1,11 @@
+{
+  "band": "9.0",
+  "band_raw": "Band 9",
+  "prompt": "Employers are now able to record everything their staff do on company computers. Some people believe that employers should be free to do this. Do you agree or disagree?",
+  "essay": "The question assumes that monitoring is one thing, and it is not. A log of which files left the network and a transcript of what an employee typed to their doctor are produced by the same software and are not remotely the same act. I disagree that employers should be free to do all of it, and the reason is that the useful monitoring and the intrusive monitoring are entirely separable. Employers simply rarely bother to separate them.\n\nWhere the purpose is the system, the case is strong. A company is answerable for what leaves its network and cannot investigate a breach it has no record of, and regulated industries are required to retain communications precisely so that misconduct can be reconstructed afterwards. This kind of monitoring watches the machine, produces evidence only when something has gone wrong, and can be described to staff in a paragraph without anyone objecting to it.\n\nWhere the purpose is the person, it stops working on its own terms. Keystroke capture and screen recording are sold as productivity tools, but what they measure is the appearance of work, and anyone subject to them learns within a fortnight to produce the appearance. What the employer gains is a dataset that resembles information. What it loses is the discretion of people who have stopped exercising judgement, because judgement is not what is being counted. Surveillance of this kind does not fail because it is unfair. It fails because it is ineffective.\n\nThe test I would apply is whether an employer can say, before installing anything, what decision the data will inform. Monitoring that answers a real question, such as whether a file left or whether an instruction was given, passes it easily. Monitoring that exists because the software offered it does not, and no amount of ownership of the hardware converts that into a reason.",
+  "source_url": "https://www.cdieltsprep.com/writing-samples/employers-monitoring-staff-computer-use",
+  "source_name": "CD IELTS Prep",
+  "question_type": "Opinion (agree or disagree)",
+  "topic": "Technology",
+  "title": "Whether employers should monitor everything staff do"
+}

@@ -1,0 +1,1962 @@
+{
+ "6.0|opinion": [
+  {
+   "id": "B6-OP-003",
+   "band": 6.0,
+   "topic": "technology",
+   "source": "ielts.international",
+   "reliability": "A-examiner",
+   "typicality": 0.874,
+   "word_count": 200
+  },
+  {
+   "id": "B6-OP-014",
+   "band": 6.0,
+   "topic": "globalization-work",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 0.961,
+   "word_count": 292
+  },
+  {
+   "id": "B6-OP-019",
+   "band": 6.0,
+   "topic": "social",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.136,
+   "word_count": 271
+  },
+  {
+   "id": "B6-OP-001",
+   "band": 6.0,
+   "topic": "health",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.148,
+   "word_count": 277
+  },
+  {
+   "id": "B6-OP-005",
+   "band": 6.0,
+   "topic": "globalization-work",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.191,
+   "word_count": 216
+  },
+  {
+   "id": "B6-OP-025",
+   "band": 6.0,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.259,
+   "word_count": 287
+  }
+ ],
+ "6.0|discussion": [
+  {
+   "id": "B6-DIS-025",
+   "band": 6.0,
+   "topic": "media",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.369,
+   "word_count": 302
+  },
+  {
+   "id": "B6-DIS-024",
+   "band": 6.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.422,
+   "word_count": 269
+  },
+  {
+   "id": "B6-DIS-031",
+   "band": 6.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.447,
+   "word_count": 251
+  },
+  {
+   "id": "B6-DIS-010",
+   "band": 6.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.526,
+   "word_count": 302
+  },
+  {
+   "id": "B6-DIS-041",
+   "band": 6.0,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.53,
+   "word_count": 309
+  },
+  {
+   "id": "B6-DIS-003",
+   "band": 6.0,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.535,
+   "word_count": 278
+  }
+ ],
+ "6.0|adv-disadv": [
+  {
+   "id": "B6-ADV-003",
+   "band": 6.0,
+   "topic": "education",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.127,
+   "word_count": 285
+  },
+  {
+   "id": "B6-ADV-006",
+   "band": 6.0,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.289,
+   "word_count": 295
+  },
+  {
+   "id": "B6-ADV-031",
+   "band": 6.0,
+   "topic": "globalization-work",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.389,
+   "word_count": 289
+  },
+  {
+   "id": "B6-ADV-005",
+   "band": 6.0,
+   "topic": "technology",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.434,
+   "word_count": 330
+  },
+  {
+   "id": "B6-ADV-030",
+   "band": 6.0,
+   "topic": "globalization-work",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.46,
+   "word_count": 297
+  },
+  {
+   "id": "B6-ADV-021",
+   "band": 6.0,
+   "topic": "health",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.479,
+   "word_count": 295
+  }
+ ],
+ "6.0|report": [
+  {
+   "id": "B6-REP-001",
+   "band": 6.0,
+   "topic": "environment",
+   "source": "ielts.international",
+   "reliability": "A-examiner",
+   "typicality": 0.948,
+   "word_count": 205
+  },
+  {
+   "id": "B6-REP-005",
+   "band": 6.0,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.445,
+   "word_count": 314
+  },
+  {
+   "id": "B6-REP-003",
+   "band": 6.0,
+   "topic": "health",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.458,
+   "word_count": 297
+  },
+  {
+   "id": "B6-REP-002",
+   "band": 6.0,
+   "topic": "environment",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.467,
+   "word_count": 267
+  },
+  {
+   "id": "B6-REP-017",
+   "band": 6.0,
+   "topic": "globalization-work",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.468,
+   "word_count": 297
+  },
+  {
+   "id": "B6-REP-010",
+   "band": 6.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.492,
+   "word_count": 328
+  }
+ ],
+ "6.0|two-part": [
+  {
+   "id": "B6-TQ-005",
+   "band": 6.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.352,
+   "word_count": 275
+  },
+  {
+   "id": "B6-ADV-007",
+   "band": 6.0,
+   "topic": "technology",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.547,
+   "word_count": 243
+  },
+  {
+   "id": "B6-OP-026",
+   "band": 6.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.555,
+   "word_count": 305
+  },
+  {
+   "id": "B6-ADV-026",
+   "band": 6.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.633,
+   "word_count": 271
+  },
+  {
+   "id": "B6-TQ-006",
+   "band": 6.0,
+   "topic": "environment",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.649,
+   "word_count": 286
+  },
+  {
+   "id": "B6-ADV-008",
+   "band": 6.0,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.668,
+   "word_count": 318
+  }
+ ],
+ "6.5|opinion": [
+  {
+   "id": "B65-OP-020",
+   "band": 6.5,
+   "topic": "media",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.696,
+   "word_count": 259
+  },
+  {
+   "id": "B65-OP-017",
+   "band": 6.5,
+   "topic": "government",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.779,
+   "word_count": 257
+  },
+  {
+   "id": "B65-OP-038",
+   "band": 6.5,
+   "topic": "education",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.822,
+   "word_count": 265
+  },
+  {
+   "id": "B65-OP-030",
+   "band": 6.5,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.888,
+   "word_count": 269
+  },
+  {
+   "id": "B65-OP-027",
+   "band": 6.5,
+   "topic": "health",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.917,
+   "word_count": 266
+  },
+  {
+   "id": "B65-OP-034",
+   "band": 6.5,
+   "topic": "media",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.918,
+   "word_count": 259
+  }
+ ],
+ "6.5|discussion": [
+  {
+   "id": "B65-DIS-052",
+   "band": 6.5,
+   "topic": "education",
+   "source": "ieltswritingcorrectionservice.com",
+   "reliability": "A-examiner",
+   "typicality": 0.284,
+   "word_count": 269
+  },
+  {
+   "id": "B65-DIS-003",
+   "band": 6.5,
+   "topic": "environment",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.699,
+   "word_count": 261
+  },
+  {
+   "id": "B65-DIS-014",
+   "band": 6.5,
+   "topic": "media",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.705,
+   "word_count": 261
+  },
+  {
+   "id": "B65-DIS-013",
+   "band": 6.5,
+   "topic": "culture",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.705,
+   "word_count": 268
+  },
+  {
+   "id": "B65-DIS-016",
+   "band": 6.5,
+   "topic": "media",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.745,
+   "word_count": 288
+  },
+  {
+   "id": "B65-DIS-019",
+   "band": 6.5,
+   "topic": "education",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.799,
+   "word_count": 259
+  }
+ ],
+ "6.5|adv-disadv": [
+  {
+   "id": "B65-ADV-013",
+   "band": 6.5,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.593,
+   "word_count": 288
+  },
+  {
+   "id": "B65-ADV-031",
+   "band": 6.5,
+   "topic": "globalization-work",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.653,
+   "word_count": 268
+  },
+  {
+   "id": "B65-ADV-033",
+   "band": 6.5,
+   "topic": "government",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.75,
+   "word_count": 279
+  },
+  {
+   "id": "B65-ADV-012",
+   "band": 6.5,
+   "topic": "crime",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.787,
+   "word_count": 266
+  },
+  {
+   "id": "B65-ADV-030",
+   "band": 6.5,
+   "topic": "government",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.829,
+   "word_count": 290
+  },
+  {
+   "id": "B65-ADV-015",
+   "band": 6.5,
+   "topic": "technology",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.861,
+   "word_count": 264
+  }
+ ],
+ "6.5|report": [
+  {
+   "id": "B65-REP-014",
+   "band": 6.5,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.724,
+   "word_count": 289
+  },
+  {
+   "id": "B65-REP-009",
+   "band": 6.5,
+   "topic": "globalization-work",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.888,
+   "word_count": 279
+  },
+  {
+   "id": "B65-REP-008",
+   "band": 6.5,
+   "topic": "health",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.895,
+   "word_count": 257
+  },
+  {
+   "id": "B65-REP-006",
+   "band": 6.5,
+   "topic": "education",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.903,
+   "word_count": 258
+  },
+  {
+   "id": "B65-REP-002",
+   "band": 6.5,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.915,
+   "word_count": 274
+  },
+  {
+   "id": "B65-REP-012",
+   "band": 6.5,
+   "topic": "health",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.948,
+   "word_count": 265
+  }
+ ],
+ "6.5|two-part": [
+  {
+   "id": "B65-TQ-007",
+   "band": 6.5,
+   "topic": "culture",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.759,
+   "word_count": 270
+  },
+  {
+   "id": "B65-ADV-020",
+   "band": 6.5,
+   "topic": "globalization-work",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.857,
+   "word_count": 263
+  },
+  {
+   "id": "B65-TQ-003",
+   "band": 6.5,
+   "topic": "environment",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.863,
+   "word_count": 263
+  },
+  {
+   "id": "B65-TQ-004",
+   "band": 6.5,
+   "topic": "health",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.461,
+   "word_count": 297
+  },
+  {
+   "id": "B65-OP-044",
+   "band": 6.5,
+   "topic": "media",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.646,
+   "word_count": 313
+  },
+  {
+   "id": "B65-REP-018",
+   "band": 6.5,
+   "topic": "globalization-work",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.842,
+   "word_count": 260
+  }
+ ],
+ "7.0|opinion": [
+  {
+   "id": "B7-OP-007",
+   "band": 7.0,
+   "topic": "globalization-work",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.044,
+   "word_count": 289
+  },
+  {
+   "id": "B7-OP-021",
+   "band": 7.0,
+   "topic": "government",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.267,
+   "word_count": 240
+  },
+  {
+   "id": "B7-OP-015",
+   "band": 7.0,
+   "topic": "technology",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.335,
+   "word_count": 313
+  },
+  {
+   "id": "B7-OP-002",
+   "band": 7.0,
+   "topic": "media",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.355,
+   "word_count": 292
+  },
+  {
+   "id": "B7-OP-050",
+   "band": 7.0,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.396,
+   "word_count": 278
+  },
+  {
+   "id": "B7-OP-052",
+   "band": 7.0,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.422,
+   "word_count": 321
+  }
+ ],
+ "7.0|discussion": [
+  {
+   "id": "B7-DIS-005",
+   "band": 7.0,
+   "topic": "education",
+   "source": "ielts.international",
+   "reliability": "A-examiner",
+   "typicality": 1.03,
+   "word_count": 253
+  },
+  {
+   "id": "B7-DIS-002",
+   "band": 7.0,
+   "topic": "globalization-work",
+   "source": "ielts.international",
+   "reliability": "A-examiner",
+   "typicality": 1.14,
+   "word_count": 240
+  },
+  {
+   "id": "B7-DIS-033",
+   "band": 7.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.271,
+   "word_count": 277
+  },
+  {
+   "id": "B7-DIS-040",
+   "band": 7.0,
+   "topic": "globalization-work",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.309,
+   "word_count": 312
+  },
+  {
+   "id": "B7-DIS-006",
+   "band": 7.0,
+   "topic": "environment",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.421,
+   "word_count": 294
+  },
+  {
+   "id": "B7-DIS-028",
+   "band": 7.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.471,
+   "word_count": 293
+  }
+ ],
+ "7.0|adv-disadv": [
+  {
+   "id": "B7-ADV-035",
+   "band": 7.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.304,
+   "word_count": 294
+  },
+  {
+   "id": "B7-ADV-008",
+   "band": 7.0,
+   "topic": "government",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.403,
+   "word_count": 267
+  },
+  {
+   "id": "B7-ADV-010",
+   "band": 7.0,
+   "topic": "health",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.443,
+   "word_count": 305
+  },
+  {
+   "id": "B7-ADV-027",
+   "band": 7.0,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.477,
+   "word_count": 285
+  },
+  {
+   "id": "B7-ADV-012",
+   "band": 7.0,
+   "topic": "technology",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.499,
+   "word_count": 301
+  },
+  {
+   "id": "B7-ADV-011",
+   "band": 7.0,
+   "topic": "media",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.53,
+   "word_count": 285
+  }
+ ],
+ "7.0|report": [
+  {
+   "id": "B7-REP-008",
+   "band": 7.0,
+   "topic": "environment",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.422,
+   "word_count": 298
+  },
+  {
+   "id": "B7-REP-013",
+   "band": 7.0,
+   "topic": "media",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.564,
+   "word_count": 313
+  },
+  {
+   "id": "B7-REP-007",
+   "band": 7.0,
+   "topic": "globalization-work",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.598,
+   "word_count": 294
+  },
+  {
+   "id": "B7-REP-003",
+   "band": 7.0,
+   "topic": "globalization-work",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.708,
+   "word_count": 283
+  },
+  {
+   "id": "B7-REP-017",
+   "band": 7.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.752,
+   "word_count": 310
+  },
+  {
+   "id": "B7-REP-016",
+   "band": 7.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.755,
+   "word_count": 310
+  }
+ ],
+ "7.0|two-part": [
+  {
+   "id": "B7-ADV-024",
+   "band": 7.0,
+   "topic": "technology",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.563,
+   "word_count": 305
+  },
+  {
+   "id": "B7-ADV-036",
+   "band": 7.0,
+   "topic": "globalization-work",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.67,
+   "word_count": 353
+  },
+  {
+   "id": "B7-TQ-011",
+   "band": 7.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.779,
+   "word_count": 271
+  },
+  {
+   "id": "B7-TQ-008",
+   "band": 7.0,
+   "topic": "health",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.798,
+   "word_count": 305
+  },
+  {
+   "id": "B7-ADV-037",
+   "band": 7.0,
+   "topic": "technology",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.82,
+   "word_count": 279
+  },
+  {
+   "id": "B7-ADV-023",
+   "band": 7.0,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.863,
+   "word_count": 258
+  }
+ ],
+ "7.5|opinion": [
+  {
+   "id": "B75-OP-034",
+   "band": 7.5,
+   "topic": "technology",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.109,
+   "word_count": 290
+  },
+  {
+   "id": "B75-OP-019",
+   "band": 7.5,
+   "topic": "media",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.14,
+   "word_count": 284
+  },
+  {
+   "id": "B75-OP-028",
+   "band": 7.5,
+   "topic": "environment",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.153,
+   "word_count": 296
+  },
+  {
+   "id": "B75-OP-025",
+   "band": 7.5,
+   "topic": "crime",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.153,
+   "word_count": 290
+  },
+  {
+   "id": "B75-OP-005",
+   "band": 7.5,
+   "topic": "government",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.153,
+   "word_count": 288
+  },
+  {
+   "id": "B75-OP-024",
+   "band": 7.5,
+   "topic": "education",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.222,
+   "word_count": 263
+  }
+ ],
+ "7.5|discussion": [
+  {
+   "id": "B75-DIS-002",
+   "band": 7.5,
+   "topic": "crime",
+   "source": "ielts.international",
+   "reliability": "A-examiner",
+   "typicality": 0.707,
+   "word_count": 264
+  },
+  {
+   "id": "B75-DIS-004",
+   "band": 7.5,
+   "topic": "environment",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.827,
+   "word_count": 305
+  },
+  {
+   "id": "B75-DIS-010",
+   "band": 7.5,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.894,
+   "word_count": 318
+  },
+  {
+   "id": "B75-DIS-006",
+   "band": 7.5,
+   "topic": "culture",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.914,
+   "word_count": 294
+  },
+  {
+   "id": "B75-DIS-019",
+   "band": 7.5,
+   "topic": "education",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.937,
+   "word_count": 292
+  },
+  {
+   "id": "B75-DIS-013",
+   "band": 7.5,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.942,
+   "word_count": 290
+  }
+ ],
+ "7.5|adv-disadv": [
+  {
+   "id": "B75-ADV-030",
+   "band": 7.5,
+   "topic": "globalization-work",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.838,
+   "word_count": 307
+  },
+  {
+   "id": "B75-ADV-029",
+   "band": 7.5,
+   "topic": "government",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.853,
+   "word_count": 298
+  },
+  {
+   "id": "B75-ADV-031",
+   "band": 7.5,
+   "topic": "government",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.896,
+   "word_count": 305
+  },
+  {
+   "id": "B75-ADV-020",
+   "band": 7.5,
+   "topic": "globalization-work",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.926,
+   "word_count": 305
+  },
+  {
+   "id": "B75-ADV-016",
+   "band": 7.5,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.929,
+   "word_count": 300
+  },
+  {
+   "id": "B75-ADV-024",
+   "band": 7.5,
+   "topic": "globalization-work",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.994,
+   "word_count": 295
+  }
+ ],
+ "7.5|report": [
+  {
+   "id": "B75-REP-003",
+   "band": 7.5,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.928,
+   "word_count": 287
+  },
+  {
+   "id": "B75-REP-016",
+   "band": 7.5,
+   "topic": "technology",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.976,
+   "word_count": 291
+  },
+  {
+   "id": "B75-REP-014",
+   "band": 7.5,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.986,
+   "word_count": 329
+  },
+  {
+   "id": "B75-REP-012",
+   "band": 7.5,
+   "topic": "health",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.033,
+   "word_count": 272
+  },
+  {
+   "id": "B75-REP-009",
+   "band": 7.5,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.04,
+   "word_count": 272
+  },
+  {
+   "id": "B75-REP-004",
+   "band": 7.5,
+   "topic": "crime",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.172,
+   "word_count": 259
+  }
+ ],
+ "7.5|two-part": [
+  {
+   "id": "B75-TQ-010",
+   "band": 7.5,
+   "topic": "culture",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.006,
+   "word_count": 287
+  },
+  {
+   "id": "B75-TQ-011",
+   "band": 7.5,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.112,
+   "word_count": 269
+  },
+  {
+   "id": "B75-TQ-002",
+   "band": 7.5,
+   "topic": "government",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.159,
+   "word_count": 287
+  },
+  {
+   "id": "B75-ADV-002",
+   "band": 7.5,
+   "topic": "culture",
+   "source": "ielts.international",
+   "reliability": "A-examiner",
+   "typicality": 1.171,
+   "word_count": 262
+  },
+  {
+   "id": "B75-TQ-003",
+   "band": 7.5,
+   "topic": "environment",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.234,
+   "word_count": 283
+  },
+  {
+   "id": "B75-TQ-006",
+   "band": 7.5,
+   "topic": "environment",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.309,
+   "word_count": 291
+  }
+ ],
+ "8.0|opinion": [
+  {
+   "id": "B8-OP-034",
+   "band": 8.0,
+   "topic": "social",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 0.933,
+   "word_count": 314
+  },
+  {
+   "id": "B8-OP-004",
+   "band": 8.0,
+   "topic": "government",
+   "source": "ielts.international",
+   "reliability": "A-examiner",
+   "typicality": 0.953,
+   "word_count": 272
+  },
+  {
+   "id": "B8-OP-075",
+   "band": 8.0,
+   "topic": "environment",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 0.975,
+   "word_count": 311
+  },
+  {
+   "id": "B8-OP-036",
+   "band": 8.0,
+   "topic": "globalization-work",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.051,
+   "word_count": 306
+  },
+  {
+   "id": "B8-OP-086",
+   "band": 8.0,
+   "topic": "globalization-work",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.172,
+   "word_count": 280
+  },
+  {
+   "id": "B8-OP-032",
+   "band": 8.0,
+   "topic": "crime",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.195,
+   "word_count": 284
+  }
+ ],
+ "8.0|discussion": [
+  {
+   "id": "B8-DIS-002",
+   "band": 8.0,
+   "topic": "education",
+   "source": "ielts.international",
+   "reliability": "A-examiner",
+   "typicality": 0.956,
+   "word_count": 277
+  },
+  {
+   "id": "B8-DIS-012",
+   "band": 8.0,
+   "topic": "social",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.13,
+   "word_count": 290
+  },
+  {
+   "id": "B8-DIS-040",
+   "band": 8.0,
+   "topic": "health",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.145,
+   "word_count": 297
+  },
+  {
+   "id": "B8-DIS-025",
+   "band": 8.0,
+   "topic": "environment",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.149,
+   "word_count": 269
+  },
+  {
+   "id": "B8-DIS-042",
+   "band": 8.0,
+   "topic": "health",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.179,
+   "word_count": 336
+  },
+  {
+   "id": "B8-DIS-003",
+   "band": 8.0,
+   "topic": "technology",
+   "source": "ieltsprepstudio.com",
+   "reliability": "B-teacher",
+   "typicality": 1.258,
+   "word_count": 248
+  }
+ ],
+ "8.0|adv-disadv": [
+  {
+   "id": "B8-ADV-016",
+   "band": 8.0,
+   "topic": "culture",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.207,
+   "word_count": 289
+  },
+  {
+   "id": "B8-ADV-036",
+   "band": 8.0,
+   "topic": "technology",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.225,
+   "word_count": 320
+  },
+  {
+   "id": "B8-ADV-022",
+   "band": 8.0,
+   "topic": "education",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.321,
+   "word_count": 328
+  },
+  {
+   "id": "B8-ADV-007",
+   "band": 8.0,
+   "topic": "social",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.357,
+   "word_count": 326
+  },
+  {
+   "id": "B8-ADV-002",
+   "band": 8.0,
+   "topic": "globalization-work",
+   "source": "ieltsprepstudio.com",
+   "reliability": "B-teacher",
+   "typicality": 1.385,
+   "word_count": 237
+  },
+  {
+   "id": "B8-ADV-024",
+   "band": 8.0,
+   "topic": "health",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.418,
+   "word_count": 308
+  }
+ ],
+ "8.0|report": [
+  {
+   "id": "B8-REP-001",
+   "band": 8.0,
+   "topic": "environment",
+   "source": "ielts.international",
+   "reliability": "A-examiner",
+   "typicality": 0.868,
+   "word_count": 286
+  },
+  {
+   "id": "B8-REP-004",
+   "band": 8.0,
+   "topic": "health",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 0.993,
+   "word_count": 293
+  },
+  {
+   "id": "B8-REP-021",
+   "band": 8.0,
+   "topic": "health",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.123,
+   "word_count": 290
+  },
+  {
+   "id": "B8-REP-010",
+   "band": 8.0,
+   "topic": "social",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.225,
+   "word_count": 323
+  },
+  {
+   "id": "B8-REP-016",
+   "band": 8.0,
+   "topic": "globalization-work",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.261,
+   "word_count": 294
+  },
+  {
+   "id": "B8-REP-009",
+   "band": 8.0,
+   "topic": "social",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.27,
+   "word_count": 264
+  }
+ ],
+ "8.0|two-part": [
+  {
+   "id": "B8-ADV-023",
+   "band": 8.0,
+   "topic": "media",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.117,
+   "word_count": 301
+  },
+  {
+   "id": "B8-ADV-032",
+   "band": 8.0,
+   "topic": "globalization-work",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.243,
+   "word_count": 285
+  },
+  {
+   "id": "B8-TQ-012",
+   "band": 8.0,
+   "topic": "media",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.29,
+   "word_count": 282
+  },
+  {
+   "id": "B8-TQ-002",
+   "band": 8.0,
+   "topic": "environment",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.309,
+   "word_count": 279
+  },
+  {
+   "id": "B8-ADV-001",
+   "band": 8.0,
+   "topic": "social",
+   "source": "ieltsprepstudio.com",
+   "reliability": "B-teacher",
+   "typicality": 1.315,
+   "word_count": 260
+  },
+  {
+   "id": "B8-TQ-005",
+   "band": 8.0,
+   "topic": "culture",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.342,
+   "word_count": 289
+  }
+ ],
+ "8.5|opinion": [
+  {
+   "id": "B85-OP-069",
+   "band": 8.5,
+   "topic": "technology",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.266,
+   "word_count": 321
+  },
+  {
+   "id": "B85-OP-103",
+   "band": 8.5,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.277,
+   "word_count": 307
+  },
+  {
+   "id": "B85-OP-025",
+   "band": 8.5,
+   "topic": "crime",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.346,
+   "word_count": 305
+  },
+  {
+   "id": "B85-OP-049",
+   "band": 8.5,
+   "topic": "globalization-work",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.355,
+   "word_count": 264
+  },
+  {
+   "id": "B85-OP-084",
+   "band": 8.5,
+   "topic": "technology",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.395,
+   "word_count": 299
+  },
+  {
+   "id": "B85-OP-022",
+   "band": 8.5,
+   "topic": "media",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.405,
+   "word_count": 305
+  }
+ ],
+ "8.5|discussion": [
+  {
+   "id": "B85-DIS-010",
+   "band": 8.5,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.331,
+   "word_count": 319
+  },
+  {
+   "id": "B85-DIS-013",
+   "band": 8.5,
+   "topic": "globalization-work",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.346,
+   "word_count": 293
+  },
+  {
+   "id": "B85-DIS-012",
+   "band": 8.5,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.496,
+   "word_count": 282
+  },
+  {
+   "id": "B85-DIS-021",
+   "band": 8.5,
+   "topic": "media",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.549,
+   "word_count": 313
+  },
+  {
+   "id": "B85-DIS-009",
+   "band": 8.5,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.561,
+   "word_count": 367
+  },
+  {
+   "id": "B85-DIS-024",
+   "band": 8.5,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.563,
+   "word_count": 257
+  }
+ ],
+ "8.5|adv-disadv": [
+  {
+   "id": "B85-ADV-027",
+   "band": 8.5,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.225,
+   "word_count": 306
+  },
+  {
+   "id": "B85-ADV-013",
+   "band": 8.5,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.434,
+   "word_count": 320
+  },
+  {
+   "id": "B85-ADV-028",
+   "band": 8.5,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.465,
+   "word_count": 289
+  },
+  {
+   "id": "B85-ADV-005",
+   "band": 8.5,
+   "topic": "crime",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.477,
+   "word_count": 303
+  },
+  {
+   "id": "B85-REP-008",
+   "band": 8.5,
+   "topic": "culture",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.478,
+   "word_count": 311
+  },
+  {
+   "id": "B85-ADV-031",
+   "band": 8.5,
+   "topic": "globalization-work",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.49,
+   "word_count": 293
+  }
+ ],
+ "8.5|report": [
+  {
+   "id": "B85-REP-022",
+   "band": 8.5,
+   "topic": "health",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.344,
+   "word_count": 265
+  },
+  {
+   "id": "B85-REP-003",
+   "band": 8.5,
+   "topic": "environment",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.383,
+   "word_count": 315
+  },
+  {
+   "id": "B85-REP-002",
+   "band": 8.5,
+   "topic": "environment",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.46,
+   "word_count": 316
+  },
+  {
+   "id": "B85-REP-011",
+   "band": 8.5,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.47,
+   "word_count": 269
+  },
+  {
+   "id": "B85-REP-018",
+   "band": 8.5,
+   "topic": "health",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.473,
+   "word_count": 295
+  },
+  {
+   "id": "B85-REP-019",
+   "band": 8.5,
+   "topic": "technology",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.52,
+   "word_count": 333
+  }
+ ],
+ "8.5|two-part": [
+  {
+   "id": "B85-OP-073",
+   "band": 8.5,
+   "topic": "globalization-work",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.302,
+   "word_count": 284
+  },
+  {
+   "id": "B85-TQ-002",
+   "band": 8.5,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.398,
+   "word_count": 265
+  },
+  {
+   "id": "B85-TQ-007",
+   "band": 8.5,
+   "topic": "environment",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.458,
+   "word_count": 291
+  },
+  {
+   "id": "B85-TQ-006",
+   "band": 8.5,
+   "topic": "education",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.462,
+   "word_count": 289
+  },
+  {
+   "id": "B85-TQ-004",
+   "band": 8.5,
+   "topic": "social",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.512,
+   "word_count": 328
+  },
+  {
+   "id": "B85-ADV-017",
+   "band": 8.5,
+   "topic": "media",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.584,
+   "word_count": 251
+  }
+ ],
+ "9.0|opinion": [
+  {
+   "id": "B9-OP-060",
+   "band": 9.0,
+   "topic": "media",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.837,
+   "word_count": 325
+  },
+  {
+   "id": "B9-OP-070",
+   "band": 9.0,
+   "topic": "crime",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.927,
+   "word_count": 331
+  },
+  {
+   "id": "B9-OP-075",
+   "band": 9.0,
+   "topic": "environment",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.005,
+   "word_count": 315
+  },
+  {
+   "id": "B9-OP-082",
+   "band": 9.0,
+   "topic": "media",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.009,
+   "word_count": 325
+  },
+  {
+   "id": "B9-OP-026",
+   "band": 9.0,
+   "topic": "education",
+   "source": "ielts-blog.com",
+   "reliability": "C-blog",
+   "typicality": 1.027,
+   "word_count": 303
+  },
+  {
+   "id": "B9-OP-084",
+   "band": 9.0,
+   "topic": "technology",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.048,
+   "word_count": 334
+  }
+ ],
+ "9.0|discussion": [
+  {
+   "id": "B9-DIS-031",
+   "band": 9.0,
+   "topic": "education",
+   "source": "ieltswritingcorrectionservice.com",
+   "reliability": "A-examiner",
+   "typicality": 0.59,
+   "word_count": 304
+  },
+  {
+   "id": "B9-DIS-030",
+   "band": 9.0,
+   "topic": "technology",
+   "source": "ieltswritingcorrectionservice.com",
+   "reliability": "A-examiner",
+   "typicality": 0.719,
+   "word_count": 307
+  },
+  {
+   "id": "B9-DIS-009",
+   "band": 9.0,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.916,
+   "word_count": 345
+  },
+  {
+   "id": "B9-DIS-011",
+   "band": 9.0,
+   "topic": "globalization-work",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.934,
+   "word_count": 313
+  },
+  {
+   "id": "B9-DIS-018",
+   "band": 9.0,
+   "topic": "education",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.984,
+   "word_count": 336
+  },
+  {
+   "id": "B9-DIS-010",
+   "band": 9.0,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.035,
+   "word_count": 330
+  }
+ ],
+ "9.0|adv-disadv": [
+  {
+   "id": "B9-ADV-019",
+   "band": 9.0,
+   "topic": "globalization-work",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.849,
+   "word_count": 366
+  },
+  {
+   "id": "B9-ADV-015",
+   "band": 9.0,
+   "topic": "technology",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.893,
+   "word_count": 309
+  },
+  {
+   "id": "B9-ADV-008",
+   "band": 9.0,
+   "topic": "globalization-work",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.916,
+   "word_count": 313
+  },
+  {
+   "id": "B9-ADV-004",
+   "band": 9.0,
+   "topic": "education",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.966,
+   "word_count": 304
+  },
+  {
+   "id": "B9-ADV-009",
+   "band": 9.0,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.998,
+   "word_count": 334
+  },
+  {
+   "id": "B9-ADV-028",
+   "band": 9.0,
+   "topic": "globalization-work",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.003,
+   "word_count": 327
+  }
+ ],
+ "9.0|report": [
+  {
+   "id": "B9-REP-008",
+   "band": 9.0,
+   "topic": "globalization-work",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.611,
+   "word_count": 311
+  },
+  {
+   "id": "B9-REP-009",
+   "band": 9.0,
+   "topic": "social",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.951,
+   "word_count": 302
+  },
+  {
+   "id": "B9-REP-015",
+   "band": 9.0,
+   "topic": "health",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.996,
+   "word_count": 312
+  },
+  {
+   "id": "B9-REP-006",
+   "band": 9.0,
+   "topic": "education",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.005,
+   "word_count": 318
+  },
+  {
+   "id": "B9-REP-002",
+   "band": 9.0,
+   "topic": "crime",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.083,
+   "word_count": 334
+  },
+  {
+   "id": "B9-REP-012",
+   "band": 9.0,
+   "topic": "health",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.106,
+   "word_count": 347
+  }
+ ],
+ "9.0|two-part": [
+  {
+   "id": "B9-TQ-004",
+   "band": 9.0,
+   "topic": "environment",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.962,
+   "word_count": 308
+  },
+  {
+   "id": "B9-TQ-005",
+   "band": 9.0,
+   "topic": "culture",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 0.992,
+   "word_count": 368
+  },
+  {
+   "id": "B9-TQ-002",
+   "band": 9.0,
+   "topic": "environment",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.081,
+   "word_count": 299
+  },
+  {
+   "id": "B9-ADV-021",
+   "band": 9.0,
+   "topic": "globalization-work",
+   "source": "cdieltsprep.com",
+   "reliability": "B-teacher",
+   "typicality": 1.398,
+   "word_count": 311
+  },
+  {
+   "id": "B9-TQ-003",
+   "band": 9.0,
+   "topic": "crime",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.553,
+   "word_count": 368
+  },
+  {
+   "id": "B9-ADV-020",
+   "band": 9.0,
+   "topic": "media",
+   "source": "writing9.com",
+   "reliability": "D-auto",
+   "typicality": 1.609,
+   "word_count": 339
+  }
+ ]
+}

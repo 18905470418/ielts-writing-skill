@@ -1,0 +1,54 @@
+# L6 主题词库 · 媒体与广告（MEDIA）
+
+> 条目 47 条；例句均为来源样本原文（截断者以 ` ...` 结尾）。
+> A 级=8+ 出现 ≥3 篇；B 级仅薄主题（8+ 2 篇或 8+/7.5 合计 ≥3 篇）；「7.5 补充」为主要依赖 7.5 样本的条目。
+
+| 编号 | 词伙 | 功能 | 释义 | 原文语境例句（节选） | 来源样本（id·分数） | 出现篇数 |
+|---|---|---|---|---|---|---|
+| L6-MEDIA-001 | streaming platforms | 观点表达 | 流媒体平台 | A clear illustration can be seen in an excess of entertainment content from different streaming platforms such as Disney+ and Netflix that overwhelm watchers. | `B9-OP-085`(9) | 0（低频） |
+| L6-MEDIA-002 | celebrity endorsement | 观点表达 | 名人代言 | There is concern that focusing on celebrity endorsement may create a superficial understanding of complex matters, leading to tokenistic gestures and short-term solutions rather than ... | `B9-DIS-015`(9) | 1（低频） |
+| L6-MEDIA-003 | completion rates | 原因结果 | 完播率 | A handful of platforms measuring success by the same completion rates and the same retention curves is functionally one buyer with several logos. | `B9-ADV-001`(9) | 1（低频） |
+| L6-MEDIA-004 | retention curves | 观点表达 | 留存曲线 | A handful of platforms measuring success by the same completion rates and the same retention curves is functionally one buyer with several logos. | `B9-ADV-001`(9) | 1（低频） |
+| L6-MEDIA-005 | behavioural data | 观点表达 | 行为数据 | Against that, platforms commission from behavioural data, and data is necessarily a record of what has already happened. | `B9-ADV-033`(9) | 1（低频） |
+| L6-MEDIA-006 | front page | 观点表达 | 报纸头版 | In print those were roughly the same thing: the front page reached the readership, so a front-page correction reached it again. | `B9-OP-060`(9) | 1（低频） |
+| L6-MEDIA-007 | target young children | 措施建议 | 以低龄儿童为目标 | Additionally, commercials for fast food often target young children through offering inducements, such as the toys in the happy meal at McDonalds for example. | `B9-OP-059`(9) | 0（低频） |
+| L6-MEDIA-008 | viewers | 观点表达 | 观众 | Viewers also have the option to pause, rewind, or replay parts of the show as desired, which would not be possible in a live setting. | `B8-OP-022`(8) | 4 |
+| L6-MEDIA-009 | readership | 观点表达 | 读者群体 | In print those were roughly the same thing: the front page reached the readership, so a front-page correction reached it again. | `B9-OP-060`(9) | 1（低频） |
+| L6-MEDIA-010 | media coverage | 观点表达 | 媒体报道 | For instance, media coverage of Donald Trump's previous crime allegations during the United States elections completely overshadowed his past political achievements. | `B85-TQ-005`(8.5) | 1（低频） |
+| L6-MEDIA-011 | news reports | 观点表达 | 新闻报道 | Through documentaries and news reports, viewers can grasp subjects that might otherwise seem distant or complex. | `B85-OP-057`(8.5) | 1（低频） |
+| L6-MEDIA-012 | social media | 观点表达 | 社交媒体 | Social media today is extremely significant to a majority of the population, especially the younger generation. | `B9-OP-047`(9)、`B85-ADV-038`(8.5)、`B85-ADV-037`(8.5) | 30+13×7.5 |
+| L6-MEDIA-013 | social media platforms | 观点表达 | 社交媒体平台 | Without social media platforms, many would stay ignorant of the racism that runs rampant in these countries. | `B85-ADV-037`(8.5)、`B8-REP-023`(8) | 7+2×7.5 |
+| L6-MEDIA-014 | source of information | 评价判断 | 信息来源 | It is a great source of information that can help youngsters increase their knowledge and succeed in their future careers. | `B8-TQ-012`(8) | 4+2×7.5 |
+| L6-MEDIA-015 | through social media | 原因结果 | 通过社交媒体 | Therefore, the only chance for them to see their family and friends is through social media. | `B85-ADV-038`(8.5) | 3+2×7.5 |
+| L6-MEDIA-016 | get information | 原因结果 | 获取信息 | By advertising on social media, many people can get information about the products. | `B85-OP-076`(8.5) | 3 |
+| L6-MEDIA-017 | information through | 原因结果 | 通过……获取信息 | Despite the benefits of accessing information through digital platforms, I am convinced that experiencing everything in person is far more effective. | `B9-DIS-029`(9) | 3 |
+| L6-MEDIA-018 | advertising campaign | 措施建议 | 广告宣传活动 | Besides, I believe that this advertising campaign is positive owing to strong cash flow and improved consumer demand. | `B9-ADV-020`(9)、`B8-ADV-014`(8) | 2 |
+| L6-MEDIA-019 | online content | 观点表达 | 在线内容 | In the digital age, the shift towards online content is trending, raising questions about the future of printed newspapers and books. | `B85-OP-022`(8.5) | 2+1×7.5 |
+| L6-MEDIA-020 | great source of information | 评价判断 | 极好的信息来源 | It is a great source of information that can help youngsters increase their knowledge and succeed in their future careers. | `B8-TQ-012`(8) | 2 |
+| L6-MEDIA-021 | internet and social media | 观点表达 | 互联网与社交媒体 | The arrival and spread of social media platforms has caused a gradual decline in print media subscriptions and their circulation, since readers tend to favor the internet and social media ... | `B8-REP-023`(8) | 2 |
+| L6-MEDIA-022 | printed newspapers and books | 观点表达 | 纸质报纸与书籍 | On the other flip side of the coin, technology has a plethora of benefits for the community but still, some traditional values like reading printed newspapers and books will not be changed. | `B85-OP-021`(8.5)、`B85-OP-022`(8.5) | 2 |
+| L6-MEDIA-023 | reliable sources of information | 评价判断 | 可靠的信息来源 | In other words, inhabitants are not able to understand the situation in the country without reliable sources of information, therefore hundreds of them are fighting for their rights in ... | `B85-ADV-004`(8.5) | 2 |
+| L6-MEDIA-024 | accessing information | 观点表达 | 获取信息 | Despite the benefits of accessing information through digital platforms, I am convinced that experiencing everything in person is far more effective. | `B9-DIS-029`(9)、`B85-OP-095`(8.5) | 2 |
+| L6-MEDIA-025 | heavily in advertising | 措施建议 | 在广告上投入巨大 | Major manufacturers invest heavily in advertising not only to promote new features but also to distinguish their products in an increasingly competitive market. | `B8-OP-018`(8) | 2 |
+| L6-MEDIA-026 | knowledge about the information | 观点表达 | 关于该信息的知识 | Since the average citizen has minimal knowledge about the information in expert analysis articles, well-established newspapers are powerfully poised to form public opinion through ... | `B8-REP-023`(8) | 2 |
+| L6-MEDIA-027 | latest news | 观点表达 | 最新新闻 | First, The Internet offers enormous convenience, many people now prefer to access the latest news online, often for free, instead of buying hardcopy publications. | `B85-OP-022`(8.5)、`B8-REP-023`(8) | 2+1×7.5 |
+| L6-MEDIA-028 | marketing campaigns | 措施建议 | 营销活动 | Freedom of choice is one of the key fundamentals of a democratic society, so any business has the right to operate marketing campaigns. | `B85-OP-038`(8.5) | 2 |
+| L6-MEDIA-029 | mass media | 观点表达 | 大众媒体 | In the modern world, many believe that travelling abroad is the best way to understand other cultures, while others suggest that mass media is a more practical option. | `B9-DIS-029`(9)、`B85-ADV-037`(8.5) | 2 |
+| L6-MEDIA-030 | media provide | 原因结果 | 媒体提供 | These physical media provide sensory and emotional experiences that digital media cannot replicate. | `B85-OP-022`(8.5)、`B9-DIS-029`(9) | 2 |
+| L6-MEDIA-031 | necessary information | 观点表达 | 必要信息 | Moreover, if all online books become free to use it will be much more comfortable to search for necessary information, especially for educational purposes. | `B85-OP-095`(8.5) | 2 |
+| L6-MEDIA-032 | number of advertisements | 评价判断 | 广告数量 | Nowadays, there is an increasing number of advertisements in order to increase the companies' sales. | `B85-OP-076`(8.5)、`B9-OP-072`(9) | 2 |
+| L6-MEDIA-033 | numerous online | 观点表达 | 大量在线（服务） | However, there are still numerous online services that require a subscription with a regular payment which can not be avoided. | `B85-OP-095`(8.5) | 2+1×7.5 |
+| L6-MEDIA-034 | platforms offer | 原因结果 | 平台提供 | In addition, many online platforms offer free access to e-books, making reading more affordable. | `B85-OP-022`(8.5) | 2+1×7.5 |
+| L6-MEDIA-035 | print media | 观点表达 | 印刷媒体 | On the other hand, print media still holds its own sentimental and collectable value. | `B85-OP-022`(8.5)、`B8-REP-023`(8) | 2 |
+| L6-MEDIA-036 | read online | 观点表达 | 在线阅读 | Hence, some argue that in the future, no one will buy printed materials because they will have free access to everything they want to read online. | `B85-OP-022`(8.5) | 2 |
+| L6-MEDIA-037 | traditional newspapers | 观点表达 | 传统报纸 | This transformation is clearly shown in the decreasing circulation of traditional newspapers. | `B85-OP-022`(8.5)、`B85-OP-021`(8.5) | 2+1×7.5 |
+| L6-MEDIA-038 | type of information | 观点表达 | 某类信息 | Stock traders and bankers, for example, must always keep track of numerous business trends on a global scale, and they would appreciate this type of information on their favourite TV shows. | `B8-OP-069`(8) | 2 |
+| L6-MEDIA-039 | using online | 原因结果 | 使用在线（内容） | In my opinion, I partially agree that people will shift towards using online content more than traditional media, however, traditional printed books and newspapers have unique emotional and ... | `B85-OP-022`(8.5) | 2+1×7.5 |
+| L6-MEDIA-040 | violent content | 评价判断 | 暴力内容 | For instance, hundreds of scientific research have already shown a positive correlation between the number of hours spent watching violent content and the percentage of children's suicidal ... | `B85-ADV-004`(8.5) | 2+2×7.5 |
+| L6-MEDIA-041 | news online | 观点表达 | 在线新闻 | First, The Internet offers enormous convenience, many people now prefer to access the latest news online, often for free, instead of buying hardcopy publications. | `B85-OP-022`(8.5) | 1+2×7.5 |
+| L6-MEDIA-042 | advertising remains | 评价判断 | 广告依然…… | In my view, advertising remains essential because it informs consumers and promotes competition in the marketplace. | `B8-OP-018`(8) | 1+2×7.5 |
+| L6-MEDIA-043 | public interest | 观点表达 | 公共利益 | An actor's illness, a footballer's divorce and photographs of a singer's children on the way to school inform the public of nothing that affects it; they are interesting to the public ... | `B9-DIS-014`(9) | 3+1×7.5 |
+| L6-MEDIA-044 | waste of time | 评价判断 | 浪费时间 | In conclusion, television is not inherently a waste of time. | `B85-OP-057`(8.5) | 6+1×7.5 |
+| L6-MEDIA-045 | companies need | 原因结果 | 企业需要…… | To begin with, what companies need is to convince people to buy their products and they use creativity with innovation to absorb people’s attention more than their rivals. | `B85-ADV-017`(8.5) | 5 |
+| L6-MEDIA-046 | social aspect | 观点表达 | 社交层面 | Furthermore, the social aspect of watching films in a cinema can be a key part of the enjoyment, as individuals can share the experience with others and engage in discussions about the film ... | `B85-DIS-021`(8.5) | 4+1×7.5 |
+| L6-MEDIA-047 | customer service | 观点表达 | 客户服务 | In addition to increasing brand recognition, advertising encourages companies to compete by improving product quality, pricing, and customer service in order to attract buyers. | `B8-OP-018`(8) | 7 |

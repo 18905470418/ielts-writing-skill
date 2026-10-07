@@ -1,0 +1,1346 @@
+{
+ "topic": "crime",
+ "viewpoints": [
+  {
+   "claim": "对低级别侵财犯罪，短期监禁既切断工作、租约与家庭支撑，又触及不到成瘾、债务与混乱住房，反而使下一次犯罪更可能发生",
+   "tendency": "反对",
+   "chain": "机制——三个月刑期让人失去工作、租约与家庭支撑，出狱时只带回犯罪记录 → 例证方向——成瘾、债务与住房问题在十二周内根本无法处理 → 回扣——争论刑罚太重还是太轻偏离要害，用错工具的代价是再犯概率上升",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-070",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "low level",
+    "custody",
+    "deterrence"
+   ]
+  },
+  {
+   "claim": "社区刑罚只有在配足治疗与监督资源时才成立；罪与非罪的分类应按危害与刑罚能达成的目标，而不是按是否使用暴力",
+   "tendency": "条件性",
+   "chain": "机制——没有治疗配套的无偿劳动令、超负荷的缓刑监督，会让替代方案失败得显而易见 → 反例——掏空养老金的诈骗不是暴力却危害巨大，酒馆外的斗殴虽是暴力却未必需要监禁 → 回扣——问题出在资源与分类标准，而不是社区刑罚的原理",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-070",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "probation",
+    "community",
+    "non violent"
+   ]
+  },
+  {
+   "claim": "网络诈骗激增源于三件事同时变化：冒充所需信息随处可得、作案成本几乎为零、跨境管辖让执法追不上",
+   "tendency": "中立",
+   "chain": "机制——身份信息散落在零售商、雇主与社交网络之间，诈骗者一开始就拿到过去要花数周收集的材料 → 机制——一条诈骗信息可近乎零成本发给十万人，成功率万分之一依然有利可图 → 回扣——犯罪按产业规模运作，受害者按便利而非财富被挑选",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-002",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "impersonate",
+    "jurisdiction",
+    "laundered"
+   ]
+  },
+  {
+   "claim": "个人防护的关键是抬高攻击成本：双重验证、密码管理器，以及把「紧迫感」本身当作诈骗警报",
+   "tendency": "支持",
+   "chain": "机制——双重验证让被窃密码从钥匙变成无用字符串，密码管理器阻断撞库连锁 → 机制——几乎所有成功诈骗都要求受害者在思考之前行动 → 回扣——目标不是不可攻破，而是比名单上的下一个人更难攻击",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-002",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "two factor",
+    "password",
+    "urgency"
+   ]
+  },
+  {
+   "claim": "许多年轻人出狱时没有固定住址、没有工作、没有资历，再犯在这种处境下是阻力最小的路径，而非道德选择",
+   "tendency": "中立",
+   "chain": "机制——在押期间无法维持租约，释放后没有固定住址 → 机制——犯罪记录可披露，有其他申请人的雇主没有理由冒险 → 回扣——剩下的只有原来的社区与熟人，再犯不是道德选择的复归",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-004",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "disclosable",
+    "qualification",
+    "tenancy"
+   ]
+  },
+  {
+   "claim": "降低再犯的干预必须发生在释放之前：提前安排住房、保留培训名额或岗位、配一名不更换的联络人、限制轻微定罪的披露期限",
+   "tendency": "支持",
+   "chain": "机制——释放前落实住房与岗位，过渡期才不至于断裂 → 机制——固定的个案联络人让支持关系跨越出狱这个节点 → 回扣——这些措施平淡而不受欢迎，正因为它们看起来像对犯罪的奖励",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-004",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "housing",
+    "release",
+    "declared"
+   ]
+  },
+  {
+   "claim": "犯罪记录会让雇主负面看待前囚犯，使其难以获得稳定工作与稳定收入，从而回到非法活动",
+   "tendency": "中立",
+   "chain": "机制——雇主面对其他申请人时不愿承担雇用风险 → 机制——缺乏专业资历或实用技能使就业机会更窄 → 回扣——收入不稳定直接提高再次犯罪的可能性",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B8-REP-015",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-014",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "qualifications",
+    "employment",
+    "re offending"
+   ]
+  },
+  {
+   "claim": "监狱环境本身会加剧再犯：囚犯之间交换作案信息，出狱后又缺少谋生技能与就业机会",
+   "tendency": "中立",
+   "chain": "机制——监狱把罪犯集中在一起，他们在服刑期间交换信息甚至策划犯罪 → 机制——贫穷、未受教育、缺乏维持工作的技能 → 回扣——犯罪记录叠加就业歧视，形成恶性循环",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B8-REP-014",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "inmates",
+    "vocational",
+    "offenders"
+   ]
+  },
+  {
+   "claim": "应对再犯应把改造放在惩罚之前：狱内职业培训为出狱后的生活做准备，社区服务则避免罪犯与囚犯为伍",
+   "tendency": "支持",
+   "chain": "措施——监狱开展职业培训，让囚犯学习计算机编程、汽车维修与平面设计等实用技能 → 措施——社区服务让罪犯帮助社会、成为社区中有用的人 → 回扣——改造与重返社会优先于惩罚本身",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B8-REP-013",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-014",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "rehabilitation",
+    "supervision",
+    "vocational"
+   ]
+  },
+  {
+   "claim": "在功能失调家庭或贫困社区长大、并持续与犯罪者交往，会让犯罪行为正常化，使人难以转向守法生活",
+   "tendency": "中立",
+   "chain": "机制——成长环境使人从小就暴露于暴力、药物滥用与反社会行为 → 机制——出狱后继续与犯罪者交往，承受重回非法活动的巨大压力 → 回扣——守法生活方式难以建立，因为环境把犯罪变成了常态",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B8-REP-013",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "dysfunctional",
+    "normalised",
+    "law abiding"
+   ]
+  },
+  {
+   "claim": "犯罪率上升的主要经济根源是缺乏稳定就业与社会不平等扩大",
+   "tendency": "中立",
+   "chain": "机制——无法赚取足够收入时，人们可能以非法活动满足基本需求 → 机制——社会不平等让被排除在经济机会之外的人产生挫败与怨恨 → 回扣——犯罪行为根植于经济困难与前景受限",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B8-REP-003",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "unemployment",
+    "inequality",
+    "hardship"
+   ]
+  },
+  {
+   "claim": "有效的预防是一组组合：教育投资与职业培训提升就业前景，经济援助与咨询服务帮助弱势者做出守法选择",
+   "tendency": "支持",
+   "chain": "措施——政府投资教育与职业培训，让人获得实用技能、改善就业前景 → 措施——资金援助与咨询服务为弱势个体提供支持 → 回扣——经济机会与社会支持的组合才是降低犯罪最有效的策略",
+   "task_types": [
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B8-REP-003",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "vocational",
+    "counselling",
+    "prospects"
+   ]
+  },
+  {
+   "claim": "监禁只能在短期保护社会，常常变成「旋转门」；教育才是针对犯罪根源的长期方案",
+   "tendency": "支持",
+   "chain": "机制——囚犯出狱时技能、知识与支持都没有改善，还可能接触暴力、心理问题与犯罪网络 → 对照——教育为高风险年轻人提供希望、目标与机会，狱内教育也能降低再犯率 → 回扣——挪威等以改造与教育为主的国家犯罪与再犯率持续偏低",
+   "task_types": [
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "reoffending",
+    "incarcerated",
+    "disadvantaged"
+   ]
+  },
+  {
+   "claim": "技术既能加强犯罪预防与侦查，也可能被罪犯滥用并催生新型犯罪；但技术使用的门槛使整体影响偏向犯罪率下降",
+   "tendency": "条件性",
+   "chain": "机制——监控摄像头、人脸识别与家庭安防让罪犯更难不被发现 → 反例——技术可能落入罪犯之手，个人敏感信息也可能被出售或泄露 → 回扣——多数罪犯教育程度较低、沿用旧手段，而执法部门对现代技术掌握得更好",
+   "task_types": [
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-103",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-010",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "surveillance",
+    "cybercrime",
+    "recognition"
+   ]
+  },
+  {
+   "claim": "公共场所监控以隐私为代价：未经许可的观察、持续被监视的心理压力，以及数据泄露的风险",
+   "tendency": "中立",
+   "chain": "机制——监控设备未经许可观察个人，构成对隐私的侵犯 → 机制——公众感到自由减少、持续被当局监视，压力上升并损害心理健康 → 回扣——缺乏透明有效的监督机制时，数据还可能被相关机构用于非法或不道德目的",
+   "task_types": [
+    "adv-disadv",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B85-ADV-005",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "surveillance",
+    "privacy",
+    "leakage"
+   ]
+  },
+  {
+   "claim": "监控的收益在于威慑潜在犯罪者、为执法机构提供视频证据并节省警力，从而把资源转投其他公共服务",
+   "tendency": "支持",
+   "chain": "机制——威慑让潜在犯罪者不敢作案，犯罪率下降、社区更安全 → 机制——视频证据帮助破案，提高执法效率、减少所需警力 → 回扣——节省下来的经费可以重新分配到基础设施与公共服务",
+   "task_types": [
+    "adv-disadv",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B85-ADV-005",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "offenders",
+    "reallocated",
+    "harmonious"
+   ]
+  },
+  {
+   "claim": "毒品合法化会减少为获取毒品而实施的犯罪、释放警力并带来税收，但同时可能让吸毒正常化、减少学校警示并推高成瘾与过量死亡",
+   "tendency": "条件性",
+   "chain": "机制——犯罪活动减少，被监禁并留下犯罪史的人也随之减少 → 机制——学校不再教育青少年认识毒品的危害，更多青少年会尝试 → 回扣——利弊并存，因此只能部分同意，并主张配以年龄限制等风险管理",
+   "task_types": [
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-062",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "legalise",
+    "addicts",
+    "imprisoned"
+   ]
+  },
+  {
+   "claim": "交通安全不能只靠严罚：处罚能威慑并减少重复违章，但道路照明等基础设施与智能交通技术同样关键",
+   "tendency": "条件性",
+   "chain": "机制——对驾驶者的处罚形成威慑、减少重复违法 → 机制——改善照明使道路更安全，智能红绿灯与测速摄像头降低碰撞率 → 回扣——基础设施与先进交通技术的投入能带来更安全的驾驶环境",
+   "task_types": [
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-025",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "penalties",
+    "deterrent",
+    "infrastructure"
+   ]
+  },
+  {
+   "claim": "死刑的支持理由主要是威慑与隔离保护，但重刑无法处理把人推向犯罪的处境，预防、法律教育与改造才更可持续",
+   "tendency": "条件性",
+   "chain": "机制——极刑的不可逆使潜在犯罪者三思，而终身监禁存在最终释放的担忧 → 反例——贫困社区中找不到稳定工作的年轻人被「来钱快」的盗窃、抢劫与毒品交易吸引 → 回扣——预防策略提供职业培训、就业与基本收入支持，在伤害发生前降低犯罪动机",
+   "task_types": [
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "execution",
+    "deterrence",
+    "rehabilitation"
+   ]
+  },
+  {
+   "claim": "未成年人犯罪的责任归属应看个案：父母教养疏忽可能起作用，但违法者本人应承担法律责任，同时需要早期道德教育与适度管教",
+   "tendency": "中立",
+   "chain": "机制——父母是孩子的榜样，缺乏秩序与纪律的家庭与青少年违法风险相关 → 反例——让父母承担全部责任既不公平，也会向孩子传递错误信号 → 回扣——需要同时评估孩子的理解能力与父母的疏忽，并辅以适度的惩罚方式",
+   "task_types": [
+    "opinion",
+    "discussion",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B85-OP-005",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-025",
+     "band": 8.5
+    },
+    {
+     "id": "B8-DIS-034",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "lawbreakers",
+    "accountability",
+    "corporal"
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "collocation": "offenders",
+   "function": "观点表达",
+   "gloss": "犯罪者；违法者",
+   "sources": [
+    {
+     "id": "B85-ADV-005",
+     "band": 8.5
+    },
+    {
+     "id": "B8-REP-015",
+     "band": 8.0
+    },
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    }
+   ],
+   "docs8": 10,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "One of the main advantages is that it can deter potential offenders from committing crimes, thereby significantly reducing crime rates and creating a safer and more harmonious community."
+  },
+  {
+   "collocation": "punishment",
+   "function": "观点表达",
+   "gloss": "惩罚",
+   "sources": [
+    {
+     "id": "B8-REP-013",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    },
+    {
+     "id": "B8-DIS-034",
+     "band": 8.0
+    }
+   ],
+   "docs8": 12,
+   "docs75": 5,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "First, governments should place greater emphasis on rehabilitation rather than relying solely on punishment."
+  },
+  {
+   "collocation": "qualifications",
+   "function": "原因结果",
+   "gloss": "资历；学历",
+   "sources": [
+    {
+     "id": "B8-REP-015",
+     "band": 8.0
+    },
+    {
+     "id": "B8-DIS-036",
+     "band": 8.0
+    }
+   ],
+   "docs8": 10,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Consequently, former prisoners may struggle to secure regular employment and earn a stable income, particularly if they lack professional qualifications or practical skills."
+  },
+  {
+   "collocation": "well-being",
+   "function": "评价判断",
+   "gloss": "身心健康；福祉",
+   "sources": [
+    {
+     "id": "B85-ADV-005",
+     "band": 8.5
+    }
+   ],
+   "docs8": 9,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Consequently, the public experiences less freedom and constantly feels watched by the authorities, causing increased pressure and negatively impacting their mental well-being."
+  },
+  {
+   "collocation": "record",
+   "function": "观点表达",
+   "gloss": "记录；（犯罪）前科",
+   "sources": [
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-014",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-070",
+     "band": 9.0
+    }
+   ],
+   "docs8": 9,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Schools can teach teenagers about violence, fraud and property offences, allowing them to understand how a criminal record can damage future study and employment."
+  },
+  {
+   "collocation": "unemployment",
+   "function": "原因结果",
+   "gloss": "失业",
+   "sources": [
+    {
+     "id": "B8-REP-003",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-030",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-047",
+     "band": 8.0
+    }
+   ],
+   "docs8": 7,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In conclusion, the increasing crime rate is largely caused by unemployment and social inequality."
+  },
+  {
+   "collocation": "rehabilitation",
+   "function": "措施建议",
+   "gloss": "改造；康复",
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    },
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-014",
+     "band": 8.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "This is particularly evident in countries like Norway, which focus more on rehabilitation and education than punishment, as they consistently have low crime and reoffending rates."
+  },
+  {
+   "collocation": "vocational",
+   "function": "措施建议",
+   "gloss": "职业（培训）的",
+   "sources": [
+    {
+     "id": "B8-REP-015",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-003",
+     "band": 8.0
+    },
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "One effective way to reduce re-offending is to provide prisoners with education and vocational training before they are released."
+  },
+  {
+   "collocation": "prevention",
+   "function": "措施建议",
+   "gloss": "预防",
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    },
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    },
+    {
+     "id": "B85-ADV-005",
+     "band": 8.5
+    }
+   ],
+   "docs8": 6,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Therefore, I strongly believe that governments should invest more in education as a key part of their crime prevention strategies."
+  },
+  {
+   "collocation": "enforcement",
+   "function": "措施建议",
+   "gloss": "执法；执行",
+   "sources": [
+    {
+     "id": "B85-ADV-005",
+     "band": 8.5
+    },
+    {
+     "id": "B9-OP-103",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-010",
+     "band": 8.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Moreover, these devices provide valuable support for law enforcement agencies."
+  },
+  {
+   "collocation": "prison",
+   "function": "观点表达",
+   "gloss": "监狱",
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    },
+    {
+     "id": "B9-ADV-011",
+     "band": 9.0
+    },
+    {
+     "id": "B8-REP-014",
+     "band": 8.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In most parts of the world, prison is the main tool used to punish criminals."
+  },
+  {
+   "collocation": "long-term",
+   "function": "评价判断",
+   "gloss": "长期的",
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In conclusion, while imprisonment may be necessary for dangerous offenders, education is a far more effective long-term solution to crime."
+  },
+  {
+   "collocation": "victims",
+   "function": "观点表达",
+   "gloss": "受害者",
+   "sources": [
+    {
+     "id": "B9-REP-002",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-103",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-004",
+     "band": 9.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "What has changed is not the credulity of victims but the economics of the crime, and understanding that is what tells an individual where their own effort is worth spending."
+  },
+  {
+   "collocation": "officers",
+   "function": "观点表达",
+   "gloss": "警员；官员",
+   "sources": [
+    {
+     "id": "B85-ADV-005",
+     "band": 8.5
+    },
+    {
+     "id": "B8-OP-010",
+     "band": 8.0
+    },
+    {
+     "id": "B8-DIS-036",
+     "band": 8.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Officers are able to use video evidence to catch criminals, greatly increasing their work efficiency."
+  },
+  {
+   "collocation": "security",
+   "function": "措施建议",
+   "gloss": "安全；安防",
+   "sources": [
+    {
+     "id": "B9-OP-103",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-005",
+     "band": 8.5
+    }
+   ],
+   "docs8": 10,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In private spaces, advanced home security systems with motion detectors, alarms, and remote monitoring capabilities have significantly reduced burglaries and home invasions."
+  },
+  {
+   "collocation": "reoffending",
+   "function": "原因结果",
+   "gloss": "再犯",
+   "sources": [
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    },
+    {
+     "id": "B9-REP-004",
+     "band": 9.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "This lowers the risk of reoffending, which helps protect society more sustainably than relying only on the fear of severe punishment."
+  },
+  {
+   "collocation": "deterrent",
+   "function": "观点表达",
+   "gloss": "威慑因素",
+   "sources": [
+    {
+     "id": "B9-DIS-025",
+     "band": 9.0
+    },
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "The main argument of proponents of this viewpoint put forward is that penalties for drivers may act as a deterrent and reduce repeated offences."
+  },
+  {
+   "collocation": "penalties",
+   "function": "措施建议",
+   "gloss": "处罚；罚则",
+   "sources": [
+    {
+     "id": "B9-DIS-025",
+     "band": 9.0
+    },
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 6,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Governments should combine necessary penalties with policies that improve living conditions, build legal awareness and help prisoners return safely to society."
+  },
+  {
+   "collocation": "supervision",
+   "function": "措施建议",
+   "gloss": "监督；监管",
+   "sources": [
+    {
+     "id": "B8-REP-013",
+     "band": 8.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In addition, individuals considered to be at high risk of reoffending could be placed under appropriate supervision after completing their sentences."
+  },
+  {
+   "collocation": "addiction",
+   "function": "原因结果",
+   "gloss": "成瘾",
+   "sources": [
+    {
+     "id": "B9-OP-070",
+     "band": 9.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Nothing in those three months touches the addiction, the debt or the chaotic housing that produced the offence, because nothing worth starting can be finished in twelve weeks."
+  },
+  {
+   "collocation": "violence",
+   "function": "观点表达",
+   "gloss": "暴力",
+   "sources": [
+    {
+     "id": "B8-REP-013",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    },
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Individuals who grow up in dysfunctional families or deprived communities may be exposed to violence, substance abuse, and other forms of antisocial behaviour from an early age."
+  },
+  {
+   "collocation": "police",
+   "function": "观点表达",
+   "gloss": "警察；警方",
+   "sources": [
+    {
+     "id": "B8-DIS-036",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-010",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-062",
+     "band": 9.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Many women have the desire to work in the police and the military and some of them have relevant expertise and qualifications."
+  },
+  {
+   "collocation": "deterrence",
+   "function": "观点表达",
+   "gloss": "威慑",
+   "sources": [
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-070",
+     "band": 9.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "The case for execution is based mainly on deterrence and protection."
+  },
+  {
+   "collocation": "surveillance",
+   "function": "措施建议",
+   "gloss": "监控；监视",
+   "sources": [
+    {
+     "id": "B9-OP-103",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-005",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Initially, installing more surveillance cameras leads to enhanced monitoring, which significantly contributes to reducing crime."
+  },
+  {
+   "collocation": "counselling",
+   "function": "措施建议",
+   "gloss": "咨询辅导",
+   "sources": [
+    {
+     "id": "B8-REP-003",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-013",
+     "band": 8.0
+    },
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Furthermore, financial assistance and counselling services can provide vulnerable individuals with the support they need to make lawful choices."
+  },
+  {
+   "collocation": "disadvantaged",
+   "function": "评价判断",
+   "gloss": "处于弱势的；贫困的",
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-003",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-013",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "For those at risk of committing crime, especially young people from disadvantaged backgrounds, access to quality education can provide hope, purpose, and opportunity."
+  },
+  {
+   "collocation": "inequality",
+   "function": "原因结果",
+   "gloss": "不平等",
+   "sources": [
+    {
+     "id": "B8-REP-003",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In addition, widening social inequality can create frustration and resentment among those who feel excluded from economic opportunities."
+  },
+  {
+   "collocation": "inmates",
+   "function": "观点表达",
+   "gloss": "囚犯；在押人员",
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-014",
+     "band": 8.0
+    },
+    {
+     "id": "B9-ADV-011",
+     "band": 9.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In fact, prisons can expose inmates to further violence, mental health problems, and criminal networks."
+  },
+  {
+   "collocation": "prisoners",
+   "function": "观点表达",
+   "gloss": "服刑人员；囚犯",
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-015",
+     "band": 8.0
+    },
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Many prisoners leave jail with no better skills, knowledge, or support than when they entered."
+  },
+  {
+   "collocation": "training",
+   "function": "措施建议",
+   "gloss": "培训",
+   "sources": [
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-015",
+     "band": 8.0
+    }
+   ],
+   "docs8": 15,
+   "docs75": 5,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "A preventive strategy would provide vocational training, job creation and basic income support, giving them a lawful route to a decent life."
+  },
+  {
+   "collocation": "skills",
+   "function": "措施建议",
+   "gloss": "技能",
+   "sources": [
+    {
+     "id": "B8-REP-015",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    }
+   ],
+   "docs8": 31,
+   "docs75": 5,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Acquiring these skills and recognised qualifications could improve their employment prospects and make them more attractive to potential employers."
+  },
+  {
+   "collocation": "employment",
+   "function": "原因结果",
+   "gloss": "就业；雇佣",
+   "sources": [
+    {
+     "id": "B8-REP-015",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-003",
+     "band": 8.0
+    }
+   ],
+   "docs8": 21,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "After release, former prisoners would therefore have a greater chance of securing legitimate employment and earning a stable income."
+  },
+  {
+   "collocation": "communities",
+   "function": "评价判断",
+   "gloss": "社区；社群",
+   "sources": [
+    {
+     "id": "B8-REP-013",
+     "band": 8.0
+    },
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-003",
+     "band": 8.0
+    }
+   ],
+   "docs8": 12,
+   "docs75": 6,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Finally, greater investment in disadvantaged communities could address some of the underlying social conditions that contribute to crime in the first place."
+  },
+  {
+   "collocation": "families",
+   "function": "原因结果",
+   "gloss": "家庭",
+   "sources": [
+    {
+     "id": "B85-OP-005",
+     "band": 8.5
+    },
+    {
+     "id": "B8-REP-013",
+     "band": 8.0
+    },
+    {
+     "id": "B9-TQ-003",
+     "band": 9.0
+    }
+   ],
+   "docs8": 9,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "For example, a statistical report from the Canadian National Crime Prevention Crime revealed that individuals from families with a lack of order and discipline were 1.5 times more ..."
+  },
+  {
+   "collocation": "short-term",
+   "function": "评价判断",
+   "gloss": "短期的",
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Sending people to prison may protect society in the short term, but it often fails to prevent reoffending."
+  },
+  {
+   "collocation": "fraudulent",
+   "function": "观点表达",
+   "gloss": "欺诈的；诈骗的",
+   "sources": [
+    {
+     "id": "B9-OP-103",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-002",
+     "band": 9.0
+    }
+   ],
+   "docs8": 2,
+   "docs75": 0,
+   "tier": "B",
+   "supplement_75": false,
+   "example": "Firstly, the government could educate the public about common types of cybercrime, including blackmail, fraudulent bank accounts, and personal information theft, and how ..."
+  },
+  {
+   "collocation": "custody",
+   "function": "措施建议",
+   "gloss": "羁押；监禁",
+   "sources": [
+    {
+     "id": "B9-OP-070",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-004",
+     "band": 9.0
+    }
+   ],
+   "docs8": 2,
+   "docs75": 2,
+   "tier": "B",
+   "supplement_75": false,
+   "example": "What determines whether custody helps is not whether force was used but whether the sentence has anything to accomplish that liberty would prevent."
+  },
+  {
+   "collocation": "probation",
+   "function": "措施建议",
+   "gloss": "缓刑监督",
+   "sources": [
+    {
+     "id": "B9-OP-070",
+     "band": 9.0
+    }
+   ],
+   "docs8": 2,
+   "docs75": 0,
+   "tier": "B",
+   "supplement_75": false,
+   "example": "An unpaid work requirement with no treatment attached, supervised by a probation officer carrying eighty other cases, is not a sentence, and the public is right to notice."
+  },
+  {
+   "collocation": "burglaries",
+   "function": "观点表达",
+   "gloss": "入室盗窃",
+   "sources": [
+    {
+     "id": "B8-OP-010",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-103",
+     "band": 9.0
+    }
+   ],
+   "docs8": 2,
+   "docs75": 0,
+   "tier": "B",
+   "supplement_75": false,
+   "example": "Ordinary citizens can do their part in preventing burglaries by installing sophisticated systems with sensors, CCTV video feed and various alarms to detect and deter thieves."
+  },
+  {
+   "collocation": "law abiding",
+   "function": "评价判断",
+   "gloss": "守法的",
+   "sources": [
+    {
+     "id": "B8-REP-013",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-010",
+     "band": 8.0
+    }
+   ],
+   "docs8": 2,
+   "docs75": 0,
+   "tier": "B",
+   "supplement_75": false,
+   "example": "Consequently, criminal activity may become normalised, making it difficult for such individuals to adopt a law-abiding lifestyle later in life."
+  },
+  {
+   "collocation": "high tech",
+   "function": "措施建议",
+   "gloss": "高科技的",
+   "sources": [
+    {
+     "id": "B8-OP-010",
+     "band": 8.0
+    }
+   ],
+   "docs8": 2,
+   "docs75": 0,
+   "tier": "B",
+   "supplement_75": false,
+   "example": "Nowadays police officers and detectives undergo special training, take regular skill update courses, and use high-tech equipment."
+  },
+  {
+   "collocation": "reintegrate",
+   "function": "措施建议",
+   "gloss": "重返社会；重新融入",
+   "sources": [
+    {
+     "id": "B8-OP-032",
+     "band": 8.0
+    },
+    {
+     "id": "B8-REP-013",
+     "band": 8.0
+    }
+   ],
+   "docs8": 2,
+   "docs75": 0,
+   "tier": "B",
+   "supplement_75": false,
+   "example": "People who study while incarcerated often develop new skills and gain confidence, which helps them reintegrate into society."
+  },
+  {
+   "collocation": "recidivism",
+   "function": "原因结果",
+   "gloss": "累犯；再犯",
+   "sources": [
+    {
+     "id": "B8-REP-013",
+     "band": 8.0
+    }
+   ],
+   "docs8": 1,
+   "docs75": 2,
+   "tier": "B",
+   "supplement_75": true,
+   "example": "This essay will examine the main reasons behind this phenomenon and propose several measures that could help reduce recidivism."
+  },
+  {
+   "collocation": "robbery",
+   "function": "观点表达",
+   "gloss": "抢劫",
+   "sources": [
+    {
+     "id": "B8-DIS-038",
+     "band": 8.0
+    }
+   ],
+   "docs8": 1,
+   "docs75": 2,
+   "tier": "B",
+   "supplement_75": true,
+   "example": "In poor communities, young people who cannot find stable work may be drawn into theft, robbery or drug dealing because these activities seem to offer quick money."
+  }
+ ]
+}

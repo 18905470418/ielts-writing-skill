@@ -1,0 +1,11 @@
+{
+  "band": "7.5",
+  "band_raw": "Band 7.5",
+  "prompt": "Employers are now able to record everything their staff do on company computers. Some people believe that employers should be free to do this. Do you agree or disagree?",
+  "essay": "Almost everything done on a work computer can now be logged, and a great many employers log it. I disagree that they should be free to do so without limit, though I accept that some monitoring is legitimate and that the argument turns on scope rather than on principle.\n\nThe employer's case is easy to state. The equipment and the network belong to the company, the time is paid for, and the risks of unmonitored access are real: data leaving the building, regulated communications going unrecorded, misconduct that nobody can afterwards prove. An employer that suffers a breach and cannot establish what happened is in a poor position, and most staff accept that some record is kept, in the same way that they accept a camera at the entrance. None of this is controversial.\n\nWhat is controversial is unlimited scope. There is a difference between logging which files leave a network and reading an employee's private messages, or between recording that a machine sat idle and capturing keystrokes and webcam images. The second kind produces information the employer has no legitimate use for, and it changes the relationship: people who know they are watched in detail do not become more productive, they become more careful to appear productive, which is not the same thing.\n\nThe reasonable settlement is monitoring that is proportionate, disclosed in advance and limited to what the employer actually needs. Staff should know what is recorded before they accept the job. An employer that cannot explain why a particular form of surveillance is necessary should not be conducting it. Owning the equipment establishes a right to protect it, not a right to know everything about the person using it.",
+  "source_url": "https://www.cdieltsprep.com/writing-samples/employers-monitoring-staff-computer-use",
+  "source_name": "CD IELTS Prep",
+  "question_type": "Opinion (agree or disagree)",
+  "topic": "Technology",
+  "title": "Whether employers should monitor everything staff do"
+}

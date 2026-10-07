@@ -1,0 +1,1414 @@
+{
+ "topic": "education",
+ "viewpoints": [
+  {
+   "claim": "工作本位培训让学员掌握与劳动力市场直接对口的实用技能，并在学徒期间积累实操经验与收入，从而更快就业、更早实现经济独立；进入部分需大学学历的职业或日后转行的空间受限，但这些局限相对次要。",
+   "tendency": "条件性",
+   "chain": "课程与岗位需求对接 → 学徒期积累实操经验并领取收入 → 就业准备更充分、更早财务独立 → 少数专业与转行受限，但升学路径日益灵活",
+   "task_types": [
+    "adv-disadv"
+   ],
+   "sources": [
+    {
+     "id": "B8-ADV-009",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "vocational training",
+    "practical skills",
+    "hands on experience",
+    "financial independence",
+    "labour market",
+    "career flexibility"
+   ]
+  },
+  {
+   "claim": "大学教育与高中后直接就业各有所长：前者为医学、工程、法律等职业提供准入门槛，并培养批判性思维、团队合作与沟通等可迁移能力；后者让人更早获得工作经验、收入与财务独立，取舍取决于行业与个人目标。",
+   "tendency": "中立",
+   "chain": "职业门槛要求学位 → 高等教育培养可迁移能力 → 职业机会与收入提升；对照路径：尽早入职 → 积累实践经验与收入 → 按行业与个人目标取舍",
+   "task_types": [
+    "discussion",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B8-DIS-033",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-038",
+     "band": 8.0
+    },
+    {
+     "id": "B85-DIS-024",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "university education",
+    "university degree",
+    "practical experience",
+    "critical thinking",
+    "communication skills",
+    "job security"
+   ]
+  },
+  {
+   "claim": "留学带来课堂难以复制的个人成长与跨文化能力：学生独立管理生活、适应多元文化并提升外语沟通能力，从而在全球化就业市场更具竞争力。",
+   "tendency": "支持",
+   "chain": "离开熟悉环境 → 独立生活与自我管理 → 跨文化适应与语言沟通能力 → 国际就业竞争力增强",
+   "task_types": [
+    "adv-disadv",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B8-ADV-030",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-019",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-027",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "personal development",
+    "intercultural competence",
+    "communication skills",
+    "foreign language proficiency"
+   ]
+  },
+  {
+   "claim": "留学的主要代价是高昂的学费与生活成本，以及文化适应带来的思乡、孤独与语言困难；支持不足的学生还可能承受经济与合规风险。",
+   "tendency": "条件性",
+   "chain": "学费与生活成本高企 → 经济压力增大 → 文化适应困难与心理压力 → 缺乏支持时代价尤为突出",
+   "task_types": [
+    "adv-disadv"
+   ],
+   "sources": [
+    {
+     "id": "B8-ADV-030",
+     "band": 8.0
+    },
+    {
+     "id": "B9-ADV-018",
+     "band": 9.0
+    },
+    {
+     "id": "B8-ADV-021",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "tuition fees",
+    "living expenses",
+    "cost of living",
+    "language related difficulties",
+    "economic side"
+   ]
+  },
+  {
+   "claim": "线上课程以便捷、低成本和可反复观看的方式扩大教育可及性，让学生能够兼顾工作、家庭与学习。",
+   "tendency": "支持",
+   "chain": "课程线上化 → 时间地点灵活、内容可回看 → 节省费用与通勤成本 → 在职学习者与偏远地区学生受益",
+   "task_types": [
+    "adv-disadv",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B85-ADV-030",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-031",
+     "band": 8.5
+    },
+    {
+     "id": "B9-ADV-004",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "online courses",
+    "online study platforms",
+    "save time and money",
+    "classroom instruction",
+    "control over the pace",
+    "live lectures"
+   ]
+  },
+  {
+   "claim": "线上学习无法完全取代学校：居家学习受设备与网络条件限制，缺少同伴互动与教师即时指导，还可能导致分心、孤立与纪律问题。",
+   "tendency": "支持",
+   "chain": "线上学习依赖设备与网络 → 缺少同伴互动与即时反馈 → 分心与孤立风险上升 → 学校的社交、看护与纪律功能不可替代",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-052",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-069",
+     "band": 9.0
+    },
+    {
+     "id": "B85-OP-040",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "traditional classrooms",
+    "remote learning",
+    "online learning platforms",
+    "social interaction",
+    "learning environment",
+    "peer groups"
+   ]
+  },
+  {
+   "claim": "中学阶段保持较广泛的必修课程更稳妥：青少年兴趣与职业方向尚未定型，广泛学习可保留大学专业选择并带来跨学科认知收益；对目标明确的学生，适度聚焦相关科目则能提升学习动机。",
+   "tendency": "条件性",
+   "chain": "青少年兴趣未定型 → 广泛课程保留专业与职业选择 → 跨学科认知收益；目标明确者 → 聚焦相关科目 → 学习动机提升",
+   "task_types": [
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-031",
+     "band": 9.0
+    },
+    {
+     "id": "B8-DIS-015",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "compulsory curriculum",
+    "school subjects",
+    "college majors",
+    "vocational aptitudes",
+    "learn new skills",
+    "work experience"
+   ]
+  },
+  {
+   "claim": "音乐、艺术与体育等非学术科目并非奢侈品：它们促进情绪表达、创造力与身体健康，并通过认知迁移支持学业表现，削减这些科目不利于学生全面发展。",
+   "tendency": "支持",
+   "chain": "非学术科目提供情绪与创造空间 → 体育促进健康与减压 → 认知与社交能力迁移 → 全面发展不可替代",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B8-DIS-002",
+     "band": 8.0
+    },
+    {
+     "id": "B85-OP-014",
+     "band": 8.5
+    },
+    {
+     "id": "B9-OP-066",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "academic subjects",
+    "art and music education",
+    "physical education",
+    "emotional intelligence",
+    "creative development",
+    "mental well being"
+   ]
+  },
+  {
+   "claim": "学校应承担品德与行为教育：课堂秩序是有效学习的前提，多元背景的学生在校园内学习共同的规范与礼仪，而家长无法全天候监管，学校可填补家庭教育的空缺。",
+   "tendency": "支持",
+   "chain": "共同规则维持课堂秩序 → 学习效率提升 → 学生习得共享行为标准与礼仪 → 弥补家庭教育的缺位",
+   "task_types": [
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B85-OP-029",
+     "band": 8.5
+    },
+    {
+     "id": "B8-OP-025",
+     "band": 8.0
+    },
+    {
+     "id": "B85-OP-063",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "good behaviour",
+    "formal education",
+    "academic success",
+    "moral values",
+    "life skills",
+    "role models"
+   ]
+  },
+  {
+   "claim": "纪律责任宜由家庭与学校分担：家长最了解孩子，但并非所有家长都足够客观或标准一致，因此学校与政府应提供统一、可预期的纪律规范。",
+   "tendency": "中立",
+   "chain": "家庭管教标准不一 → 校内行为问题难以统一处理 → 学校/政府制定一致的纪律框架 → 学生更可能成为有贡献的公民",
+   "task_types": [
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B8-DIS-004",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "discipline children",
+    "productive citizens",
+    "guidelines and policies",
+    "sole responsibility"
+   ]
+  },
+  {
+   "claim": "按学业能力分组能提升教学效率：快班可加速、慢班可按自己的节奏学习；但过早分层会打击学生信心，混合能力班则能通过同伴互教互学兼顾差异。",
+   "tendency": "中立",
+   "chain": "统一进度难以兼顾两端 → 能力分组提升针对性 → 过早分层带来标签与信心损失 → 混合班同伴互教平衡差异",
+   "task_types": [
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B8-DIS-029",
+     "band": 8.0
+    },
+    {
+     "id": "B9-DIS-018",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "mixed ability classes",
+    "full potential",
+    "learn from one another",
+    "ability based teaching",
+    "high achievers",
+    "academic level"
+   ]
+  },
+  {
+   "claim": "儿童入学年龄之争各有依据：支持早教者强调幼儿期大脑对语言与数理的高敏感期及社交机会；支持晚学者强调游戏化学习与儿童发展节奏，且延迟入学的儿童往往能迅速追赶。",
+   "tendency": "中立",
+   "chain": "幼儿期神经可塑性强 → 早期系统学习与社交收益；延迟入学 → 游戏化学习保护发展节奏 → 后期迅速追赶，宜灵活安排",
+   "task_types": [
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B8-DIS-001",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "formal education",
+    "early education",
+    "play based learning",
+    "childhood development",
+    "academic development",
+    "middle ground"
+   ]
+  },
+  {
+   "claim": "免学费的大学教育能保障不同社会背景学生的机会平等，并带来更高生产率与创新；但巨额公共支出需与医疗、基建竞争，对富裕家庭学生的补贴与免费可能带来的低珍惜度也需权衡。",
+   "tendency": "条件性",
+   "chain": "免学费 → 低收入家庭学生获得机会 → 高技能人口提升生产率；对照：公共支出有限 → 需与医疗基建竞争 → 政策须权衡公平与效率",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B8-OP-037",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-068",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "university education",
+    "tuition fees",
+    "higher education",
+    "public expenditure",
+    "equal opportunities",
+    "targeted funding"
+   ]
+  },
+  {
+   "claim": "政府只资助直接对接就业的专业存在风险：短期就业数据会随市场波动，且人文学科与基础研究的社会价值难以用毕业生薪资衡量，资助标准应保持多元。",
+   "tendency": "反对",
+   "chain": "按就业率拨款 → 忽视学科外部价值与市场波动 → 国家在档案、文化等长期能力上流失 → 资助政策应保留多元标准",
+   "task_types": [
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-096",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-068",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "job market",
+    "labour market",
+    "well trained employees"
+   ]
+  },
+  {
+   "claim": "网络检索即时便捷，但图书馆仍提供安静专注的学习氛围与经过署名的可靠资料；主张图书馆不再必要者则强调数字文本节省购书与借阅成本、随处可用。",
+   "tendency": "中立",
+   "chain": "网络资源随时可得 → 数字文本降低购书成本；图书馆提供安静环境与可溯源资料 → 两者各有优势、功能互补",
+   "task_types": [
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B85-OP-002",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-075",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "research papers",
+    "college or school libraries",
+    "quiet environment",
+    "fewer distractions",
+    "access data on the Internet",
+    "IT devices"
+   ]
+  },
+  {
+   "claim": "学校过度竞争可能打击持续失利学生的信心并造成同侪压力，但适度竞争能让学生为真实世界做准备，并在部分亚洲教育环境中与更高的学业成就相关。",
+   "tendency": "条件性",
+   "chain": "持续失败 → 挫败与自我怀疑 → 同侪压力；适度竞争 → 适应真实世界 → 与更高成就相关，关键在度",
+   "task_types": [
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-100",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "excessive competition",
+    "learning to compete",
+    "co operation",
+    "competitive environment",
+    "real world"
+   ]
+  },
+  {
+   "claim": "面对学业压力，取消非学术课程适得其反：艺术、体育与实践课程为学习提供平衡与刺激，有助于认知发展与心理健康，家长的支持与沟通同样关键。",
+   "tendency": "反对",
+   "chain": "学业压力增大 → 若取消非学术课程 → 失去平衡与认知刺激 → 反而损害发展与心理健康；家长支持缓解压力",
+   "task_types": [
+    "opinion",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-105",
+     "band": 9.0
+    },
+    {
+     "id": "B8-REP-031",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "non academic subjects",
+    "well rounded education",
+    "cognitive development",
+    "parental support",
+    "non academic classes",
+    "practical learning"
+   ]
+  },
+  {
+   "claim": "社交媒体的过度使用会挤占学习时间、削弱深度专注并损害心理健康，形成分心与成绩落后的恶性循环；应对需要学校、家庭与平台协同。",
+   "tendency": "支持",
+   "chain": "长时间刷屏 → 挤占学习与休息时间 → 注意力与心理受损 → 成绩下滑的恶性循环；需数字素养教育与家庭规则",
+   "task_types": [
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B8-REP-029",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "academic performance",
+    "social media",
+    "mental health",
+    "digital literacy",
+    "screen time",
+    "short form videos"
+   ]
+  },
+  {
+   "claim": "教室过度拥挤的根源之一是师资不足，班级规模扩大又进一步影响教与学；解决办法是增聘教师并有意限制班级人数。",
+   "tendency": "支持",
+   "chain": "师资不足 → 班额扩大 → 教学与学习受损 → 增聘教师并限制班额",
+   "task_types": [
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B85-REP-016",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "overcrowded classrooms",
+    "lack of teachers",
+    "educational facilities",
+    "student groups",
+    "number of students"
+   ]
+  },
+  {
+   "claim": "选择科学和数学的学生减少，源于课程难度与评分风险以及昂贵的学费；对策应改革评估方式，为探究与实验留出时间，而非仅靠宣传鼓励。",
+   "tendency": "支持",
+   "chain": "课程难度大、评分不利 → 学生规避风险科目；学费高 → 低收入学生被劝退 → 改革评估与实验教学 → 恢复学科吸引力",
+   "task_types": [
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-006",
+     "band": 9.0
+    },
+    {
+     "id": "B85-REP-011",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "science and mathematics",
+    "tuition fees",
+    "science programs",
+    "university place"
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "collocation": "practical skills",
+   "function": "观点表达",
+   "gloss": "实用技能（含动手操作能力）",
+   "sources": [
+    {
+     "id": "B9-REP-018",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-007",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-105",
+     "band": 9.0
+    }
+   ],
+   "docs8": 15,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Schools should offer more opportunities for students to easily access a variety of learning resources, allowing them to develop practical skills in fields they are passionate about."
+  },
+  {
+   "collocation": "academic performance",
+   "function": "原因结果",
+   "gloss": "学业表现（常作结果性指标）",
+   "sources": [
+    {
+     "id": "B8-REP-029",
+     "band": 8.0
+    },
+    {
+     "id": "B85-ADV-027",
+     "band": 8.5
+    },
+    {
+     "id": "B8-ADV-022",
+     "band": 8.0
+    }
+   ],
+   "docs8": 12,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In conclusion, the unconstrained use of social media platforms poses serious threats to both the academic performance and the psychological well-being of young people."
+  },
+  {
+   "collocation": "education system",
+   "function": "观点表达",
+   "gloss": "教育体系",
+   "sources": [
+    {
+     "id": "B85-OP-031",
+     "band": 8.5
+    },
+    {
+     "id": "B9-OP-066",
+     "band": 9.0
+    },
+    {
+     "id": "B8-DIS-001",
+     "band": 8.0
+    }
+   ],
+   "docs8": 12,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "However, some people still believe that the old way of teaching was much better than the modern type of education system."
+  },
+  {
+   "collocation": "higher education",
+   "function": "观点表达",
+   "gloss": "高等教育",
+   "sources": [
+    {
+     "id": "B9-OP-068",
+     "band": 9.0
+    },
+    {
+     "id": "B85-DIS-003",
+     "band": 8.5
+    },
+    {
+     "id": "B85-DIS-012",
+     "band": 8.5
+    }
+   ],
+   "docs8": 10,
+   "docs75": 5,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Higher education is expensive, and the money that pays for it has to come from somewhere, so it is not unreasonable for a government to ask what its subsidy buys."
+  },
+  {
+   "collocation": "life skills",
+   "function": "观点表达",
+   "gloss": "生活技能",
+   "sources": [
+    {
+     "id": "B85-OP-063",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-014",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-030",
+     "band": 8.5
+    }
+   ],
+   "docs8": 9,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "One of the main reasons why it is crucial for institutions to teach kids moral values and life skills is the significant influence of their surroundings."
+  },
+  {
+   "collocation": "social skills",
+   "function": "观点表达",
+   "gloss": "社交技能",
+   "sources": [
+    {
+     "id": "B8-OP-025",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-048",
+     "band": 8.0
+    },
+    {
+     "id": "B8-DIS-023",
+     "band": 8.0
+    }
+   ],
+   "docs8": 9,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "This dual function not only prepares students academically but also equips them with the necessary social skills for success in many aspects of life."
+  },
+  {
+   "collocation": "communication skills",
+   "function": "观点表达",
+   "gloss": "沟通能力",
+   "sources": [
+    {
+     "id": "B8-DIS-033",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-069",
+     "band": 9.0
+    },
+    {
+     "id": "B8-ADV-030",
+     "band": 8.0
+    }
+   ],
+   "docs8": 8,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Moreover, higher education develops analytical thinking, research ability, and communication skills, all of which are valuable in a competitive labour market."
+  },
+  {
+   "collocation": "educational institutions",
+   "function": "观点表达",
+   "gloss": "教育机构",
+   "sources": [
+    {
+     "id": "B85-OP-029",
+     "band": 8.5
+    },
+    {
+     "id": "B85-ADV-027",
+     "band": 8.5
+    },
+    {
+     "id": "B85-DIS-003",
+     "band": 8.5
+    }
+   ],
+   "docs8": 8,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Educational institutions bear responsibility not only for scholastic training but also for shaping the moral character of their pupils, and I strongly agree with this view."
+  },
+  {
+   "collocation": "vocational training",
+   "function": "观点表达",
+   "gloss": "职业培训",
+   "sources": [
+    {
+     "id": "B8-ADV-009",
+     "band": 8.0
+    },
+    {
+     "id": "B85-OP-040",
+     "band": 8.5
+    }
+   ],
+   "docs8": 8,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Indeed, there may be some drawbacks for people choosing vocational training, as there might be fewer opportunities to enter professions that require university qualifications, ..."
+  },
+  {
+   "collocation": "school curriculum",
+   "function": "观点表达",
+   "gloss": "学校课程设置",
+   "sources": [
+    {
+     "id": "B85-OP-014",
+     "band": 8.5
+    },
+    {
+     "id": "B9-OP-105",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-078",
+     "band": 8.0
+    }
+   ],
+   "docs8": 7,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In conclusion, I firmly believe that music and physical education should be regarded as essential elements of the school curriculum."
+  },
+  {
+   "collocation": "learning experiences",
+   "function": "观点表达",
+   "gloss": "学习经历",
+   "sources": [
+    {
+     "id": "B9-OP-105",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-052",
+     "band": 9.0
+    },
+    {
+     "id": "B8-ADV-027",
+     "band": 8.0
+    }
+   ],
+   "docs8": 7,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "This highlights the importance of providing children with a well-rounded education that includes both academic and practical learning experiences."
+  },
+  {
+   "collocation": "quality education",
+   "function": "评价判断",
+   "gloss": "优质教育",
+   "sources": [
+    {
+     "id": "B8-OP-073",
+     "band": 8.0
+    },
+    {
+     "id": "B85-OP-031",
+     "band": 8.5
+    }
+   ],
+   "docs8": 7,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Many people may heavily rely on quality education as preparation for real life employment and experiences."
+  },
+  {
+   "collocation": "students develop",
+   "function": "观点表达",
+   "gloss": "学生培养/形成（能力）",
+   "sources": [
+    {
+     "id": "B8-OP-038",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-019",
+     "band": 9.0
+    }
+   ],
+   "docs8": 7,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Furthermore, higher education helps students develop important skills, including critical thinking, teamwork, and communication."
+  },
+  {
+   "collocation": "academic subjects",
+   "function": "观点表达",
+   "gloss": "学术科目",
+   "sources": [
+    {
+     "id": "B8-OP-071",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-105",
+     "band": 9.0
+    },
+    {
+     "id": "B8-DIS-002",
+     "band": 8.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "To suit the current educational system, many parents in my home country, Japan, send their children to cram schools to study academic subjects deeply."
+  },
+  {
+   "collocation": "university education",
+   "function": "观点表达",
+   "gloss": "大学教育",
+   "sources": [
+    {
+     "id": "B85-DIS-012",
+     "band": 8.5
+    },
+    {
+     "id": "B9-OP-019",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-037",
+     "band": 8.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "To begin with, some individuals view that only a university education can assure prosperity due to the requirement from the hiring company."
+  },
+  {
+   "collocation": "educational programs",
+   "function": "措施建议",
+   "gloss": "教育项目/课程",
+   "sources": [
+    {
+     "id": "B85-OP-088",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-063",
+     "band": 8.5
+    },
+    {
+     "id": "B8-ADV-027",
+     "band": 8.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "I believe that people can obtain certain success-leading talents by practising tirelessly and enrolling on other educational programs outside traditional settings."
+  },
+  {
+   "collocation": "formal education",
+   "function": "观点表达",
+   "gloss": "正规教育",
+   "sources": [
+    {
+     "id": "B8-DIS-001",
+     "band": 8.0
+    },
+    {
+     "id": "B9-DIS-027",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-082",
+     "band": 8.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Countries like Singapore and South Korea, which begin formal education early, consistently achieve high rankings in international academic assessments."
+  },
+  {
+   "collocation": "learning environment",
+   "function": "评价判断",
+   "gloss": "学习环境",
+   "sources": [
+    {
+     "id": "B9-REP-018",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-052",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-024",
+     "band": 9.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Furthermore, the public can play an important role in creating a positive learning environment."
+  },
+  {
+   "collocation": "physical education",
+   "function": "观点表达",
+   "gloss": "体育课程",
+   "sources": [
+    {
+     "id": "B9-OP-066",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-026",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-105",
+     "band": 9.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In conclusion, while negative results can be caused through physical education, it is vital for students to take part in it."
+  },
+  {
+   "collocation": "tuition fees",
+   "function": "原因结果",
+   "gloss": "学费（经济门槛）",
+   "sources": [
+    {
+     "id": "B85-REP-011",
+     "band": 8.5
+    },
+    {
+     "id": "B8-ADV-021",
+     "band": 8.0
+    },
+    {
+     "id": "B8-ADV-030",
+     "band": 8.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "The foremost reasons associated with less interest in scientific-based courses are their complexity and their expensive tuition fees."
+  },
+  {
+   "collocation": "university degree",
+   "function": "观点表达",
+   "gloss": "大学学位",
+   "sources": [
+    {
+     "id": "B8-ADV-009",
+     "band": 8.0
+    },
+    {
+     "id": "B85-DIS-003",
+     "band": 8.5
+    },
+    {
+     "id": "B85-DIS-024",
+     "band": 8.5
+    }
+   ],
+   "docs8": 5,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "The number of young people opting for work-based training rather than pursuing a university degree has increased in several countries in recent years."
+  },
+  {
+   "collocation": "knowledge and skills",
+   "function": "观点表达",
+   "gloss": "知识与技能",
+   "sources": [
+    {
+     "id": "B8-OP-082",
+     "band": 8.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "While some argue that parental guidance and familial support are paramount, others contend that knowledge and skills acquired in school play a pivotal role."
+  },
+  {
+   "collocation": "teaching students",
+   "function": "观点表达",
+   "gloss": "教导学生",
+   "sources": [
+    {
+     "id": "B9-OP-007",
+     "band": 9.0
+    },
+    {
+     "id": "B8-DIS-029",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-025",
+     "band": 8.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Many people question therefore whether schools should put much emphasis on teaching students basic handwriting skills and mental mathematics skills."
+  },
+  {
+   "collocation": "academic success",
+   "function": "原因结果",
+   "gloss": "学业成功",
+   "sources": [
+    {
+     "id": "B85-OP-029",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-020",
+     "band": 8.5
+    },
+    {
+     "id": "B8-DIS-016",
+     "band": 8.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Consequently, positive social etiquette acts as a necessary foundation for overall academic success."
+  },
+  {
+   "collocation": "benefits for students",
+   "function": "评价判断",
+   "gloss": "对学生的益处",
+   "sources": [
+    {
+     "id": "B9-OP-030",
+     "band": 9.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Bringing a private laptop to class offers a variety of benefits for students."
+  },
+  {
+   "collocation": "schools provide",
+   "function": "措施建议",
+   "gloss": "学校提供",
+   "sources": [
+    {
+     "id": "B8-OP-082",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-069",
+     "band": 9.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Schools provide a structured learning environment, exposure to diverse perspectives, and a platform for social interaction and skill development."
+  },
+  {
+   "collocation": "educational system",
+   "function": "观点表达",
+   "gloss": "教育制度",
+   "sources": [
+    {
+     "id": "B9-REP-024",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-018",
+     "band": 9.0
+    },
+    {
+     "id": "B8-ADV-021",
+     "band": 8.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Secondly, the educational system places too much emphasis on curricula and examinations, causing students to view learning solely to achieve high test scores."
+  },
+  {
+   "collocation": "soft skills",
+   "function": "观点表达",
+   "gloss": "软技能",
+   "sources": [
+    {
+     "id": "B85-DIS-003",
+     "band": 8.5
+    }
+   ],
+   "docs8": 5,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "others argue that developing soft skills and having relevant experience play a vital role in receiving a better offer."
+  },
+  {
+   "collocation": "students spend",
+   "function": "原因结果",
+   "gloss": "学生投入（时间）",
+   "sources": [
+    {
+     "id": "B9-DIS-018",
+     "band": 9.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "has three options, all bad: aim at the middle and lose both ends, prepare three parallel lessons for one room, or let the strongest students spend a term revisiting what they already know."
+  },
+  {
+   "collocation": "schools should offer",
+   "function": "措施建议",
+   "gloss": "学校应提供",
+   "sources": [
+    {
+     "id": "B9-REP-024",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-018",
+     "band": 9.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Schools should offer more opportunities for students to easily access various learning resources, allowing them to develop practical skills in fields they are passionate about."
+  },
+  {
+   "collocation": "acquire valuable skills",
+   "function": "评价判断",
+   "gloss": "获得宝贵技能",
+   "sources": [
+    {
+     "id": "B9-OP-019",
+     "band": 9.0
+    },
+    {
+     "id": "B8-ADV-017",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In conclusion, studying abroad offers the possibility for students to grow and develop as individuals and to acquire valuable skills that will be useful in adult life."
+  },
+  {
+   "collocation": "valuable knowledge",
+   "function": "评价判断",
+   "gloss": "有价值的知识",
+   "sources": [
+    {
+     "id": "B8-DIS-002",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-038",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Educational priorities reflect deeper societal assumptions about what constitutes valuable knowledge and how young people should be prepared for adult life."
+  },
+  {
+   "collocation": "good example",
+   "function": "观点表达",
+   "gloss": "典型例证",
+   "sources": [
+    {
+     "id": "B9-REP-018",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-024",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-012",
+     "band": 8.0
+    }
+   ],
+   "docs8": 11,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Additionally, parents have a crucial responsibility to set a good example for their children."
+  },
+  {
+   "collocation": "essay will examine",
+   "function": "观点表达",
+   "gloss": "本文将会审视/讨论",
+   "sources": [
+    {
+     "id": "B8-DIS-001",
+     "band": 8.0
+    }
+   ],
+   "docs8": 10,
+   "docs75": 6,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "This essay will examine both perspectives before presenting my own viewpoint."
+  },
+  {
+   "collocation": "high school",
+   "function": "观点表达",
+   "gloss": "高中",
+   "sources": [
+    {
+     "id": "B8-DIS-033",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-019",
+     "band": 9.0
+    },
+    {
+     "id": "B8-ADV-022",
+     "band": 8.0
+    }
+   ],
+   "docs8": 9,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "After leaving high school, some young people decide to attend college or university because they believe academic qualifications will improve their career prospects."
+  },
+  {
+   "collocation": "learn new skills",
+   "function": "观点表达",
+   "gloss": "学习新技能",
+   "sources": [
+    {
+     "id": "B8-DIS-015",
+     "band": 8.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Teenagers often feel lost or unsure about their future, whether to go to college, gain work experience, study abroad or learn new skills."
+  },
+  {
+   "collocation": "students to learn",
+   "function": "观点表达",
+   "gloss": "供学生学习的内容/机会",
+   "sources": [
+    {
+     "id": "B85-OP-034",
+     "band": 8.5
+    },
+    {
+     "id": "B9-OP-007",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-078",
+     "band": 8.0
+    }
+   ],
+   "docs8": 7,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Thus, this close relationship often enables students to learn more after graduation and be guided directly by top managers."
+  },
+  {
+   "collocation": "allow students",
+   "function": "措施建议",
+   "gloss": "使学生能够",
+   "sources": [
+    {
+     "id": "B8-ADV-027",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-051",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-105",
+     "band": 9.0
+    }
+   ],
+   "docs8": 7,
+   "docs75": 6,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Part-time courses allow students to strike a harmonious balance between education and other commitments."
+  },
+  {
+   "collocation": "helps students",
+   "function": "观点表达",
+   "gloss": "有助于学生",
+   "sources": [
+    {
+     "id": "B8-OP-038",
+     "band": 8.0
+    },
+    {
+     "id": "B85-ADV-030",
+     "band": 8.5
+    }
+   ],
+   "docs8": 7,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Furthermore, higher education helps students develop important skills, including critical thinking, teamwork, and communication."
+  },
+  {
+   "collocation": "education can provide",
+   "function": "观点表达",
+   "gloss": "教育能够提供",
+   "sources": [
+    {
+     "id": "B8-DIS-001",
+     "band": 8.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Furthermore, early education can provide crucial socialization opportunities, teaching children essential skills such as cooperation, following instructions, and time management."
+  },
+  {
+   "collocation": "learning other subjects",
+   "function": "观点表达",
+   "gloss": "学习其他科目",
+   "sources": [
+    {
+     "id": "B85-DIS-033",
+     "band": 8.5
+    }
+   ],
+   "docs8": 4,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "It is the opinion of others that some schools should focus on learning other subjects together with the main ones while others oppose it."
+  }
+ ]
+}

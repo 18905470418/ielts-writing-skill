@@ -1,0 +1,103 @@
+{
+ "education": {
+  "pool_essays_seed": 574,
+  "high_essays_labeled": 73,
+  "candidates": 186,
+  "tierA": 186,
+  "tierB": 0,
+  "supplement_75": 0,
+  "example_source_essays": 110,
+  "processing_ok": true
+ },
+ "technology": {
+  "pool_essays_seed": 442,
+  "high_essays_labeled": 61,
+  "candidates": 63,
+  "tierA": 63,
+  "tierB": 0,
+  "supplement_75": 0,
+  "example_source_essays": 42,
+  "processing_ok": true
+ },
+ "environment": {
+  "pool_essays_seed": 244,
+  "high_essays_labeled": 44,
+  "candidates": 55,
+  "tierA": 55,
+  "tierB": 0,
+  "supplement_75": 0,
+  "example_source_essays": 39,
+  "processing_ok": true
+ },
+ "government": {
+  "pool_essays_seed": 423,
+  "high_essays_labeled": 17,
+  "candidates": 220,
+  "tierA": 88,
+  "tierB": 132,
+  "supplement_75": 0,
+  "example_source_essays": 113,
+  "processing_ok": true
+ },
+ "social": {
+  "pool_essays_seed": 559,
+  "high_essays_labeled": 116,
+  "candidates": 130,
+  "tierA": 130,
+  "tierB": 0,
+  "supplement_75": 0,
+  "example_source_essays": 94,
+  "processing_ok": true
+ },
+ "crime": {
+  "pool_essays_seed": 162,
+  "high_essays_labeled": 21,
+  "candidates": 58,
+  "tierA": 13,
+  "tierB": 45,
+  "supplement_75": 13,
+  "example_source_essays": 28,
+  "processing_ok": true
+ },
+ "culture": {
+  "pool_essays_seed": 264,
+  "high_essays_labeled": 22,
+  "candidates": 108,
+  "tierA": 20,
+  "tierB": 88,
+  "supplement_75": 14,
+  "example_source_essays": 61,
+  "processing_ok": true
+ },
+ "health": {
+  "pool_essays_seed": 358,
+  "high_essays_labeled": 44,
+  "candidates": 67,
+  "tierA": 67,
+  "tierB": 0,
+  "supplement_75": 0,
+  "example_source_essays": 43,
+  "processing_ok": true
+ },
+ "media": {
+  "pool_essays_seed": 298,
+  "high_essays_labeled": 36,
+  "candidates": 147,
+  "tierA": 24,
+  "tierB": 123,
+  "supplement_75": 31,
+  "example_source_essays": 90,
+  "processing_ok": true
+ },
+ "globalization-work": {
+  "pool_essays_seed": 557,
+  "high_essays_labeled": 76,
+  "candidates": 152,
+  "tierA": 152,
+  "tierB": 0,
+  "supplement_75": 0,
+  "example_source_essays": 100,
+  "processing_ok": true
+ },
+ "processing_coverage": true
+}

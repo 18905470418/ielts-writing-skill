@@ -1,0 +1,1968 @@
+{
+ "让步转折": {
+  "social": [
+   {
+    "id": "B8-ADV-001",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "While the reasons for this movement are varied and well-documented, I consider the overall development to be more negative than positive — not for the individuals involved, but for the communities and systems affected."
+   },
+   {
+    "id": "B8-ADV-006",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "Although the decline of handwriting has some disadvantages, I believe it is predominantly a positive development because it improves efficiency and facilitates communication."
+   },
+   {
+    "id": "B8-ADV-007",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Although it might seem challenging for them to live on their own at first, it would give them valuable experience, helping them to become mature, responsible adults."
+   },
+   {
+    "id": "B8-DIS-021",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Although having things in common can make it easier to form a friendship, I believe that occasional disagreement is equally valuable because it allows friends to give honest advice and develop greater trust."
+   }
+  ],
+  "environment": [
+   {
+    "id": "B8-ADV-003",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "While this issue has some advantages for people and disadvantages for the environment, I believe that the drawbacks are more significant."
+   },
+   {
+    "id": "B8-DIS-018",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While both perspectives have merit, I firmly believe that conserving all wild animals is the most effective way to maintain ecological balance and safeguard the natural world."
+   },
+   {
+    "id": "B8-DIS-025",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While both perspectives are valid, I believe that an integrated approach is essential."
+   },
+   {
+    "id": "B8-OP-029",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "While I acknowledge that ecological preservation is of paramount importance, I disagree with the notion that it should completely overshadow other critical global imperatives, such as poverty eradication and economic stability."
+   }
+  ],
+  "technology": [
+   {
+    "id": "B8-ADV-004",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "While this issue has both advantages and disadvantages, I believe that the benefits are more significant."
+   },
+   {
+    "id": "B8-ADV-011",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "Admittedly, there can be some negative consequences."
+   },
+   {
+    "id": "B8-DIS-003",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While there is substance to both positions, I would contend that technology’s net effect is integrative rather than isolating, provided it is used with intention."
+   },
+   {
+    "id": "B8-DIS-006",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While several people argue that it has strengthened social connections, others state that it causes isolation and weakened interpersonal bonds."
+   }
+  ],
+  "globalization-work": [
+   {
+    "id": "B8-ADV-005",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Admittedly, remote work is not suitable for every situation."
+   },
+   {
+    "id": "B8-ADV-028",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Although this approach allows them to enjoy other aspects of life more freely and limits their exposure to work-related stress, I believe that the lack of financial stability and the uncertainty of not finding another job outweigh these advantages."
+   },
+   {
+    "id": "B8-DIS-014",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While some believe that remote employment offers greater flexibility and convenience, others argue that a traditional workplace encourages stronger communication and collaboration; although both perspectives have merit, I believe that office-based work is ..."
+   },
+   {
+    "id": "B8-DIS-045",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While some people claim that adolescents should be able to pursue a career they would enjoy, others oppose to that, arguing that teenagers should aim for a high-paying job in order to secure a livelihood when they grow up."
+   }
+  ],
+  "health": [
+   {
+    "id": "B8-ADV-008",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Although privately funded healthcare can offer greater choice and quicker treatment, government-funded systems are generally more equitable and protect people from financial hardship."
+   },
+   {
+    "id": "B8-ADV-024",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Even though ordering food have some obvious advantages, its disadvantages should not be underestimated."
+   },
+   {
+    "id": "B8-ADV-031",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Although self-care may be appropriate for minor ailments, I believe that avoiding professional medical advice is a negative development because it can pose significant risks to people's well-being."
+   },
+   {
+    "id": "B8-DIS-005",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Although the state has powerful tools to address this issue, I believe that people should primarily depend on themselves, as they are the main beneficiaries of maintaining good health."
+   }
+  ],
+  "education": [
+   {
+    "id": "B8-ADV-009",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "While this trend may narrow access to certain professions, I believe its merits outweigh the disadvantages because it improves employability and reduces financial burden."
+   },
+   {
+    "id": "B8-ADV-017",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Although doing so can sometimes result in failure or negative consequences, I believe that the potential benefits of taking calculated risks outweigh the disadvantages."
+   },
+   {
+    "id": "B8-ADV-022",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "While moving out of family home has many advantages such as independence and improved academic performance, it also comes with some serious disadvantages such as the lack of social support, and financial implications."
+   },
+   {
+    "id": "B8-ADV-027",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "While some concerns are valid, the benefits of part-time courses are quite significant and make them a valuable option for a significant number of students."
+   }
+  ],
+  "media": [
+   {
+    "id": "B8-ADV-014",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "In spite of certain drawbacks, I believe it is a positive development to win global competition and raise awareness about products among people."
+   },
+   {
+    "id": "B8-DIS-023",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Although it can distract young people from important tasks and make them more introverted, I believe they can learn valuable lessons from programmes, while also remaining safe when their parents are busy."
+   },
+   {
+    "id": "B8-OP-018",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "While product quality is undoubtedly the foundation of long-term business success, I strongly disagree that advertising has become irrelevant."
+   },
+   {
+    "id": "B8-OP-022",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "While I understand the appeal of watching plays, concerts, and other events from the comfort of home, I ultimately disagree that this is superior to experiencing them in person."
+   }
+  ],
+  "culture": [
+   {
+    "id": "B8-ADV-019",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Although this phenomenon can lead to negative effects, I believe that there are for more positive effects."
+   },
+   {
+    "id": "B8-TQ-005",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "Despite the aforementioned difficulties, I strongly believe that everyone can master a foreign language when a couple of feasible steps are taken."
+   }
+  ],
+  "crime": [
+   {
+    "id": "B8-DIS-034",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While children must learn about the consequences of their actions, it is also vital to assess parental roles in individual cases."
+   },
+   {
+    "id": "B8-DIS-036",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While some may argue that women are less suited for certain jobs such as with the police or the military, I believe that female candidates should be treated the same as their male counterparts."
+   },
+   {
+    "id": "B8-REP-013",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "Although punishment remains necessary in some cases, governments should place greater emphasis on rehabilitation, education, employment, and post-release supervision."
+   },
+   {
+    "id": "B8-REP-014",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "While there are several reasons for this alarming trend, some effective measures can be taken by governments to tackle this problem."
+   }
+  ],
+  "government": [
+   {
+    "id": "B8-OP-005",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "While roads retain clear value in rural connectivity, I would argue that the case for prioritising railway investment is compelling, particularly given the twin pressures of urbanisation and climate change."
+   },
+   {
+    "id": "B85-ADV-041",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "Although the cost of building and maintaining these is often over budget, especially for developing countries, public transport could eliminate traffic jams and become environmentally friendly for the community."
+   },
+   {
+    "id": "B85-OP-011",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "Although some might disagree with this statement, I fully agree with this statement because trains offer more efficient transportation of goods and people, are more cost-effective, and are significantly better for the environment."
+   },
+   {
+    "id": "B85-OP-082",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "While these programmes may lead to technological breakthroughs and international prestige, I firmly believe that public money should be prioritised for essential sectors like schooling and medical care."
+   }
+  ]
+ },
+ "因果机制": {
+  "media": [
+   {
+    "id": "B8-ADV-013",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "Firstly, the willingness to experience new functions is the main reason for this phenomenon."
+   },
+   {
+    "id": "B85-ADV-038",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "They say that this is because people feel that if we spend with others online, this would be enough for them."
+   },
+   {
+    "id": "B85-DIS-021",
+    "band": 8.5,
+    "task": "discussion",
+    "sentence": "The main reason for this is the convenience."
+   },
+   {
+    "id": "B85-OP-095",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "The main reason is the ease of accessing information with a simple touch."
+   }
+  ],
+  "crime": [
+   {
+    "id": "B8-DIS-036",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "This is because there are certain roles with the police and the military that are more suitable for women than men, and therefore both genders should have equal employment opportunities."
+   },
+   {
+    "id": "B9-TQ-003",
+    "band": 9.0,
+    "task": "two-part",
+    "sentence": "This is because there is a close between parental upbringing and children's personality."
+   }
+  ],
+  "health": [
+   {
+    "id": "B8-DIS-037",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "The main reason why some people value animal experimentations to conduct medical research is because animal testing has contributed to many life-saving cures and treatments."
+   },
+   {
+    "id": "B85-ADV-029",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "This is because they have been studying and researching for a long time for studying medical so that they have abilities to prescribe the right medicine to patients right away."
+   },
+   {
+    "id": "B85-DIS-019",
+    "band": 8.5,
+    "task": "discussion",
+    "sentence": "This is because they often do jobs that greatly benefit society, and this is why their government invested in them in the first place."
+   },
+   {
+    "id": "B9-OP-059",
+    "band": 9.0,
+    "task": "opinion",
+    "sentence": "The main reason for the high consumption of junk food is that it is a cheap alternative to healthy meals."
+   }
+  ],
+  "social": [
+   {
+    "id": "B8-OP-034",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "This is mainly because being equipped with knowledge and insight into the different aspects of parenting can help to ease a person’s anxiety and doubts about the best way to move forward."
+   },
+   {
+    "id": "B8-OP-079",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "The main reason why I believe athletes should behave well at all times is that their behavior is tremendously influential."
+   },
+   {
+    "id": "B85-DIS-009",
+    "band": 8.5,
+    "task": "discussion",
+    "sentence": "The main reason that condo residents feel lonely is that there is no community activity organised by property companies."
+   },
+   {
+    "id": "B85-DIS-014",
+    "band": 8.5,
+    "task": "discussion",
+    "sentence": "This is because it instils a sense of independence and a sense of identity, which permits adolescents to reflect on their well-being in order to adjust accordingly."
+   }
+  ],
+  "globalization-work": [
+   {
+    "id": "B8-OP-036",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "This is because many seldom take an active role in doing housework, according to customs of many countries."
+   },
+   {
+    "id": "B8-TQ-004",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "This is because most employees nowadays spend the majority of their day working or commuting for five to six days per week, leaving them with limited time for personal or social activities."
+   },
+   {
+    "id": "B85-DIS-034",
+    "band": 8.5,
+    "task": "discussion",
+    "sentence": "This is because gratefulness is the key trait anyone should have in order to reach a peaceful and satisfactory job."
+   },
+   {
+    "id": "B85-OP-068",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "This is because young specialists exert their full effort in mastering their hard and soft skills in order to meet the requirements of today's highly competitive job market."
+   }
+  ],
+  "culture": [
+   {
+    "id": "B8-OP-040",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "This is mainly because music is a universal language that crosses cultural boundaries."
+   },
+   {
+    "id": "B9-OP-095",
+    "band": 9.0,
+    "task": "opinion",
+    "sentence": "This is because this piece of art is often labelled as a universal language due to the fact that it often evokes feelings that can not be described in words such as joy, empathy or nostalgia."
+   },
+   {
+    "id": "B9-REP-013",
+    "band": 9.0,
+    "task": "report",
+    "sentence": "This is because humans are naturally curious about their surroundings, so they can avoid feeling uncertain or insecure."
+   }
+  ],
+  "environment": [
+   {
+    "id": "B8-OP-060",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "This is because they are not properly informed of the possible detrimental effects of taking the environment for granted."
+   },
+   {
+    "id": "B85-OP-004",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "This is because governments believe that animal welfare is only a minor importance, and other social issues should be prioritized."
+   }
+  ],
+  "technology": [
+   {
+    "id": "B8-OP-063",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "This is because digital communication relies heavily on text and superficial updates, which can lead to superficial relationships and widespread emotional detachment."
+   },
+   {
+    "id": "B85-ADV-015",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "This is because self-driving vehicles are upgraded with automated driving and sensor technology, two of the most distinctive features that can steer, brake and gather data on surroundings."
+   },
+   {
+    "id": "B85-TQ-003",
+    "band": 8.5,
+    "task": "two-part",
+    "sentence": "This is because they can generate more ideas easily compared to traditional methods in the past where they had to have a long discussion."
+   }
+  ],
+  "education": [
+   {
+    "id": "B85-DIS-012",
+    "band": 8.5,
+    "task": "discussion",
+    "sentence": "On the other hand, others believe that there must be another avenue than a mere educational degree as the main reason for their opinion is skills in work can be acquired through real-life experiences."
+   },
+   {
+    "id": "B85-OP-020",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "The main reason is they do not have sufficient experience in handling pupils."
+   },
+   {
+    "id": "B9-DIS-027",
+    "band": 9.0,
+    "task": "discussion",
+    "sentence": "This is because when a person launches a brand or starts a business, they can rely on their dedication, creativity, hard work, and vision to project management and lead to a successful business."
+   }
+  ]
+ },
+ "例证具体化": {
+  "environment": [
+   {
+    "id": "B8-ADV-003",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "For example, passengers can stop the vehicle whenever they want to enjoy nature and take some rest."
+   },
+   {
+    "id": "B8-DIS-018",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "For example, the decline of insects in many countries has negatively affected crop pollination, highlighting the interconnected nature of ecosystems."
+   },
+   {
+    "id": "B8-DIS-025",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "For example, similar government policies in Sweden have successfully reduced transportation pollution, proving how impactful government action can be."
+   },
+   {
+    "id": "B8-OP-027",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "For example, blue whales contribute significantly to ocean fertilization, stimulating the growth of phytoplankton, which absorbs immense volumes of carbon dioxide."
+   }
+  ],
+  "globalization-work": [
+   {
+    "id": "B8-ADV-005",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "For example, a skilled employee living in a smaller town may now work for a company based in a major city without having to relocate."
+   },
+   {
+    "id": "B8-ADV-028",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "For example, the job market in Saudi Arabia has become increasingly competitive over the past decade, making it difficult for some people to find suitable positions quickly."
+   },
+   {
+    "id": "B8-DIS-014",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "For example, parents may use the time saved from travelling to care for their children; as a result, they may experience less stress and greater job satisfaction."
+   },
+   {
+    "id": "B8-DIS-024",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "For example, companies that offer flexible working hours, rewards, and supportive management often experience lower staff turnover and higher job satisfaction."
+   }
+  ],
+  "health": [
+   {
+    "id": "B8-ADV-008",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "A person with a chronic illness, for example, may postpone necessary treatment because of the cost, which can worsen both their health and financial situation."
+   },
+   {
+    "id": "B8-ADV-024",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "For example, cooking a simple dish such as chicken with rice and home requires significant amounts of water and electricity for electrical appliances such as the oven and dishwasher."
+   },
+   {
+    "id": "B8-ADV-031",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "For example, persistent chest pain or unusual fatigue may initially appear harmless, even though these symptoms can sometimes indicate a more severe condition."
+   },
+   {
+    "id": "B8-DIS-005",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "For example, the USA has one of the highest obesity rates, and relatively limited restrictions on added sugar, combined with the low prices of sweetened products, may contribute to this problem."
+   }
+  ],
+  "education": [
+   {
+    "id": "B8-ADV-009",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Modern society faces growing shortages of skilled technicians, for example, mechanics or electricians, many of whom enjoy job and financial stability without obtaining a degree."
+   },
+   {
+    "id": "B8-ADV-017",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "For example, travelling alone may initially seem intimidating, but doing so can force people to make decisions independently and deal with unfamiliar situations."
+   },
+   {
+    "id": "B8-ADV-021",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "To illustrate, whereas certain traditional educational systems, particularly those entrenched in specific regions of Asia, tend to prioritise rote memorisation and rigid theoretical frameworks, international pedagogical models frequently mandate rigorous ..."
+   },
+   {
+    "id": "B8-DIS-015",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "For example, a student who stops studying science at fifteen may later decide to become a nurse, only to find they lack the qualifications to apply."
+   }
+  ],
+  "technology": [
+   {
+    "id": "B8-ADV-011",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "For example, learning that a grandparent overcame significant hardships may motivate younger generations to face challenges with determination."
+   },
+   {
+    "id": "B8-DIS-003",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Diaspora communities, for example, use messaging applications to sustain family bonds across continents in ways that were impossible a generation ago."
+   },
+   {
+    "id": "B8-DIS-011",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "For example, a person who discovers that their grandparents migrated during a period of conflict may develop greater respect for their family’s resilience."
+   },
+   {
+    "id": "B8-DIS-019",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "For example, fraudsters may create websites that imitate well-known businesses and persuade customers to enter their banking information, resulting in financial losses."
+   }
+  ],
+  "media": [
+   {
+    "id": "B8-ADV-013",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "Take phone producers as an example, during the past decades, they created smartphones that can scan documents, record health data, and so on, with which the old version phones were not equipped."
+   },
+   {
+    "id": "B8-ADV-014",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "For example, smartwatches that can monitor a person's heart rate, blood pressure, and how many calories they burn by walking have encouraged thousands of individuals to take up an active lifestyle."
+   },
+   {
+    "id": "B8-ADV-023",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "For example, singing a song in a YouTube video with some advertisements enables them to easily make a few million dollars."
+   },
+   {
+    "id": "B8-OP-018",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "For example, a company that develops an environmentally friendly household cleaner may struggle to reach customers without advertising, despite offering a superior product."
+   }
+  ],
+  "culture": [
+   {
+    "id": "B8-ADV-019",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Secondly, the museums can generate their own revenue to improve the place effectively to attract people, for example, to update their exhibits and keep the place clean and good-looking."
+   },
+   {
+    "id": "B8-OP-024",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "For example, reading a fantasy novel that contains mythical creatures one would normally see the appearance of those characters in their mind while following the plot."
+   },
+   {
+    "id": "B8-TQ-005",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "For example, Korean sentences always end with verbs whilst English does not, which means that a Korean English-learner should consider about the correct order of words."
+   },
+   {
+    "id": "B85-ADV-012",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "For example, I teach at a small private school where the school motto is \"Nothing is too difficult to overcome\"."
+   }
+  ],
+  "social": [
+   {
+    "id": "B8-ADV-025",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "For example, engineering graduates can find a job in another town and their salary is enough for them to move and settle down there."
+   },
+   {
+    "id": "B8-ADV-026",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "For example, a software engineer moving from a small town to a tech hub like Silicon Valley might gain access to cutting-edge projects and substantial career growth."
+   },
+   {
+    "id": "B8-DIS-008",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "For example, a large wedding banquet may allow grandparents, relatives and old friends to witness the beginning of a new stage in the couple’s life."
+   },
+   {
+    "id": "B8-DIS-013",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "For example, research conducted in Abuja, the capital city of Nigeria, had shown that most business owners who faced major financial losses at some point failed to consider fundamental ideas from employees."
+   }
+  ],
+  "crime": [
+   {
+    "id": "B8-REP-003",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "For example, job-training programs have helped many young adults secure stable work and avoid criminal behaviour."
+   },
+   {
+    "id": "B85-OP-005",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "For example, a statistical report from the Canadian National Crime Prevention Crime revealed that individuals from families with a lack of order and discipline were 1.5 times more at risk of committing criminal activities than those from structured households."
+   },
+   {
+    "id": "B9-OP-103",
+    "band": 9.0,
+    "task": "opinion",
+    "sentence": "For example, the number of criminal cases, including vandalism and theft, has reduced dramatically since the local council fully installed their CCTV networks."
+   },
+   {
+    "id": "B9-TQ-003",
+    "band": 9.0,
+    "task": "two-part",
+    "sentence": "For example, in Vietnam, studies indicated that criminals who were arrested presented rarely disciplined behaviour during their childhood due to the schools' records."
+   }
+  ],
+  "government": [
+   {
+    "id": "B85-ADV-041",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "In order to fulfil an underground network, for example, the process requires a full set of completed infrastructures."
+   },
+   {
+    "id": "B85-OP-011",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "To illustrate, India, where millions of people rely on the railway system daily is the most affordable and accessible means of transport, not only for individuals but also for businesses that depend on low-cost freight services."
+   },
+   {
+    "id": "B85-OP-013",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "For example, for rail, fuel consumption is very high but they can carry a lot of commuters at a time, this is a cost-effective activity for the government."
+   },
+   {
+    "id": "B85-OP-027",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "For example, through China's Belt and Road initiative, adjacent nations have benefited from infrastructures that were then suffering from a lack of it."
+   }
+  ]
+ },
+ "条件与建议": {
+  "social": [
+   {
+    "id": "B8-ADV-020",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "The primary one lies in the fact that governments should take a firm stance and apply stringent rules and regulations to lower the speed limit."
+   },
+   {
+    "id": "B8-OP-026",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Therefore, governments should guarantee a minimum income, while individuals should save extra for a more comfortable lifestyle."
+   },
+   {
+    "id": "B8-OP-030",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Some people argue that individuals alone should save for retirement and that governments should not be responsible for providing financial support in old age."
+   },
+   {
+    "id": "B8-OP-053",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "However, when it comes to construction, there is more than one way to build new homes."
+   }
+  ],
+  "education": [
+   {
+    "id": "B8-ADV-021",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Provided that the initial transitional friction is successfully navigated, the ensuing amalgamation of cultural fluency, pragmatic skill acquisition, and accelerated personal maturation represents an incomparable asset."
+   },
+   {
+    "id": "B8-DIS-004",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While some people argue that parents should take sole responsibility for disciplining their children, others take the view that the government should be in charge of such matters."
+   },
+   {
+    "id": "B8-OP-037",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Many people argue that access to university education is a fundamental right and that governments should provide it free of charge to all citizens, regardless of their financial situation."
+   },
+   {
+    "id": "B9-OP-057",
+    "band": 9.0,
+    "task": "opinion",
+    "sentence": "Personally, I believe that it is better if governments are responsible for the subject matter covered in school and not the teachers."
+   }
+  ],
+  "technology": [
+   {
+    "id": "B8-ADV-036",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Hence, there is a high possibility of spreading wrong medical information throughout the world, unless the site developers are held accountable for the content they provide."
+   },
+   {
+    "id": "B85-OP-077",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "Furthermore, it is my own recommendation that the government should engage in and tackle possible issues, and public awareness should also be raised."
+   },
+   {
+    "id": "B85-OP-099",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "On the other hand, there are some cons if individuals do not operate them in a proper way."
+   },
+   {
+    "id": "B9-OP-024",
+    "band": 9.0,
+    "task": "opinion",
+    "sentence": "As the Internet is so widely needed, many people believe that governments should provide this access for free."
+   }
+  ],
+  "environment": [
+   {
+    "id": "B8-DIS-018",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While both perspectives have merit, I firmly believe that conserving all wild animals is the most effective way to maintain ecological balance and safeguard the natural world."
+   },
+   {
+    "id": "B8-OP-027",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Governments should increase, rather than diminish, financial commitments to environmental protection to ensure a sustainable future."
+   },
+   {
+    "id": "B8-OP-045",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Governments and local authorities should therefore enforce appropriate regulations and encourage citizens to keep public areas clean."
+   },
+   {
+    "id": "B8-REP-005",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "One way to tackle this problem is to reduce dependence on oil and increase the application of renewable energy."
+   }
+  ],
+  "health": [
+   {
+    "id": "B8-DIS-022",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "This has led to a debate as to whether governments should establish nutrition and food choice laws for the betterment of public health or if it solely falls on individuals to make wise choices."
+   },
+   {
+    "id": "B8-DIS-037",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Governments should invest in developing alternative methods that can replace using animal experimentations when doing medical research."
+   },
+   {
+    "id": "B8-DIS-042",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While some people believe that the government should regulate nutrition to improve public wellness, others argue that it should be people’s decision whether to pursue a healthy diet or not."
+   },
+   {
+    "id": "B8-OP-081",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "This vicious cycle will continue indefinitely unless wealthier nations show interest in minimizing the worldwide economic differences, as well as taking more responsibility for assisting less fortunate countries."
+   }
+  ],
+  "crime": [
+   {
+    "id": "B8-DIS-038",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Governments should combine necessary penalties with policies that improve living conditions, build legal awareness and help prisoners return safely to society."
+   },
+   {
+    "id": "B8-OP-032",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Therefore, I strongly believe that governments should invest more in education as a key part of their crime prevention strategies."
+   },
+   {
+    "id": "B8-REP-003",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "Governments should invest in education and vocational training so that people can acquire practical skills and improve their employment prospects."
+   },
+   {
+    "id": "B8-REP-013",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "First, governments should place greater emphasis on rehabilitation rather than relying solely on punishment."
+   }
+  ],
+  "government": [
+   {
+    "id": "B8-OP-005",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "The question of how governments should allocate infrastructure spending is among the most consequential in contemporary urban policy."
+   },
+   {
+    "id": "B85-OP-011",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "It is often argued that governments should allocate more resources to the development of railways rather than roads."
+   },
+   {
+    "id": "B85-OP-013",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "Instead of funding roads, governments should invest in railroads."
+   },
+   {
+    "id": "B85-OP-027",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "It is argued that governments should prioritize their own people over others, as it is not possible to help all human beings on the planet."
+   }
+  ],
+  "culture": [
+   {
+    "id": "B8-OP-009",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "However, this economic dilemma can be resolved if governments rebrand the arts as a major economic driver through modernised cultural institutions."
+   },
+   {
+    "id": "B8-REP-008",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "To solve this issue, governments and museum authorities should make cultural attractions more appealing to local communities."
+   }
+  ],
+  "globalization-work": [
+   {
+    "id": "B8-REP-016",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "The government should explain the benefits of international tourism which contributes to the development of local residents ."
+   },
+   {
+    "id": "B8-TQ-001",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "Firstly, governments should invest in short-term training and requalification courses for unemployed people."
+   },
+   {
+    "id": "B8-TQ-004",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "One way to tackle this problem is for individuals to set firm boundaries by finishing work at the official end of the day."
+   },
+   {
+    "id": "B8-TQ-006",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "To address these problems, governments should improve the quality and accessibility of public transportation."
+   }
+  ]
+ },
+ "结果推进": {
+  "education": [
+   {
+    "id": "B8-ADV-009",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Consequently, they are often better prepared for employment upon completion of their training."
+   },
+   {
+    "id": "B8-ADV-017",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "As a result, they may have a greater chance of receiving a promotion or a higher salary."
+   },
+   {
+    "id": "B8-ADV-021",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Consequently, it is through navigating these multifaceted academic and social landscapes that students are afforded an invaluable opportunity to construct a formidable, multidimensional foundation for their prospective careers."
+   },
+   {
+    "id": "B8-OP-038",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "As a result, graduates often enjoy better career opportunities and greater job security."
+   }
+  ],
+  "culture": [
+   {
+    "id": "B8-ADV-016",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Consequently, many ethnic minorities could suffer from the depopulation and eventually disappear."
+   },
+   {
+    "id": "B8-OP-009",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "In contrast, pursuing a career in the creative industries is widely perceived as financially risky and unstable, often associated with the stereotype of the \"starving artist.\" Consequently, from an economic perspective, students and parents naturally ..."
+   },
+   {
+    "id": "B8-OP-040",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "As a result, genuine bonds are built among people who would never have met otherwise."
+   },
+   {
+    "id": "B8-REP-008",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "As a result, people may prefer shopping centres, cinemas, or online entertainment, which feel more accessible and relaxing."
+   }
+  ],
+  "social": [
+   {
+    "id": "B8-ADV-025",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "With a very good educational background it becomes easier to find a well-paid job, and with lucrative income they gain confidence to lead an independent life, thereby achieving their goals."
+   },
+   {
+    "id": "B8-DIS-012",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "As a result, children could possibly feel a lack of stability and some confusion."
+   },
+   {
+    "id": "B8-DIS-021",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "As a result, they may spend more time together, allowing familiarity and trust to develop naturally."
+   },
+   {
+    "id": "B8-OP-020",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Consequently, even when a local establishment offers superior coffee, it may simply lack the visibility to compete, particularly in areas where footfall is dominated by tourists or time-pressed commuters who default to familiar, recognisable brands."
+   }
+  ],
+  "globalization-work": [
+   {
+    "id": "B8-ADV-028",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Consequently, many workers may prefer lower-paid permanent jobs that provide financial security rather than temporary careers that could leave them without an income for an extended period."
+   },
+   {
+    "id": "B8-ADV-032",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "Consequently, this has led to an immediate surge in demand."
+   },
+   {
+    "id": "B8-DIS-014",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "For example, parents may use the time saved from travelling to care for their children; as a result, they may experience less stress and greater job satisfaction."
+   },
+   {
+    "id": "B8-DIS-024",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "As a result, businesses can benefit from improved innovation and stronger overall performance."
+   }
+  ],
+  "health": [
+   {
+    "id": "B8-ADV-031",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "As a result, they may rely on home remedies or simply wait for their symptoms to subside."
+   },
+   {
+    "id": "B8-DIS-005",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Consequently, consumers may reduce their intake, even subconsciously, resulting in a healthier society."
+   },
+   {
+    "id": "B8-DIS-042",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "As a result, the sales of these items have decreased."
+   },
+   {
+    "id": "B8-OP-081",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Most of the poorer nations are buried in debts as a result of their unbalanced finances which are reflect in a failed health care, an unstructured education system and a weak international trade."
+   }
+  ],
+  "technology": [
+   {
+    "id": "B8-ADV-036",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "As a result, individuals are searching online in order to get reasonable solutions to their illnesses."
+   },
+   {
+    "id": "B8-DIS-006",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Consequently, social interactions have become more accessible and inclusive than ever before."
+   },
+   {
+    "id": "B8-DIS-027",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "From a social perspective, many people argue that the gap between the upper class and lower classes is widening as a result of technological advancements."
+   },
+   {
+    "id": "B8-OP-002",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Consequently, eliminating human interaction from the classroom could undermine students’ motivation and negatively affect their overall educational experience."
+   }
+  ],
+  "environment": [
+   {
+    "id": "B8-DIS-018",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "As a result, they argue that priority should be given to endangered species or animals that play a crucial ecological role, such as pollinators or apex predators."
+   },
+   {
+    "id": "B8-OP-045",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "As a result, they may be less likely to return or recommend the destination to others."
+   },
+   {
+    "id": "B8-REP-005",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "Consequently, large amounts of waste are produced, which may be burned, buried or dumped into the sea."
+   },
+   {
+    "id": "B8-REP-011",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "As a result, even environmentally conscious individuals may choose the more convenient option."
+   }
+  ],
+  "media": [
+   {
+    "id": "B8-DIS-023",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Consequently, it can be a burden for parents to convince them to do their homework or household chores."
+   },
+   {
+    "id": "B8-OP-018",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Consequently, effective marketing helps bridge the gap between producers and consumers by ensuring valuable products receive the attention they deserve."
+   },
+   {
+    "id": "B8-OP-046",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "More importantly, software could assist the library goers to access the Internet to update their knowledge on a daily basis; in contrast, books typically take multiple months to be published, which in turn render their contents outdated to some extent."
+   },
+   {
+    "id": "B8-REP-023",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "As a result, the constant barrage of bad news has led to a society that sees itself as more vulnerable and powerless than ever."
+   }
+  ],
+  "crime": [
+   {
+    "id": "B8-REP-003",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "Consequently, a combination of economic opportunity and social support represents the most effective strategy for reducing crime."
+   },
+   {
+    "id": "B8-REP-013",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "Consequently, criminal activity may become normalised, making it difficult for such individuals to adopt a law-abiding lifestyle later in life."
+   },
+   {
+    "id": "B8-REP-015",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "Consequently, former prisoners may struggle to secure regular employment and earn a stable income, particularly if they lack professional qualifications or practical skills."
+   },
+   {
+    "id": "B85-ADV-005",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "Consequently, the public experiences less freedom and constantly feels watched by the authorities, causing increased pressure and negatively impacting their mental well-being."
+   }
+  ],
+  "government": [
+   {
+    "id": "B85-OP-027",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "For instance, India's philanthropic act of providing PPE kits to everyone in the world during the 2020 pandemic is regarded highly as a moral act which in turn has made it stand out from the rest as benevolent."
+   },
+   {
+    "id": "B9-OP-032",
+    "band": 9.0,
+    "task": "opinion",
+    "sentence": "As this impacts members of the community unevenly depending on their wealth, this would encourage unequal living standards and conflicts as a result of this."
+   }
+  ]
+ },
+ "对比澄清": {
+  "social": [
+   {
+    "id": "B8-ADV-001",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "A young graduate in agriculture-dependent rural India or Sub-Saharan Africa faces limited prospects for skilled employment locally; the city, by contrast, offers access to a labour market several orders of magnitude larger."
+   },
+   {
+    "id": "B8-DIS-007",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "On the other hand, there is no denying the fact that youngsters living away from their family may find themselves in circumstances that may adversely affect their life."
+   },
+   {
+    "id": "B8-DIS-008",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "On the other hand, spending too much money on a wedding can create unnecessary pressure."
+   },
+   {
+    "id": "B8-DIS-013",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Many people argue that granting younger individuals the freedom to make decisions may lead to a population that only considers their personal desires, whereas others believe it is crucial to make choices in areas that directly affect them."
+   }
+  ],
+  "environment": [
+   {
+    "id": "B8-ADV-003",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "On the other hand, the drawbacks of this matter for the environment are more significant."
+   },
+   {
+    "id": "B8-DIS-025",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "On the other hand, many believe individual actions are the key to solving the issue of pollution."
+   },
+   {
+    "id": "B8-OP-027",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "On the other hand, the financial investment required to save endangered species is entirely justified when considering the concept of ecosystem services."
+   },
+   {
+    "id": "B85-ADV-018",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "On the other hand, the brighter side of this phenomenon is tourists hugely contribute to the region's income."
+   }
+  ],
+  "technology": [
+   {
+    "id": "B8-ADV-004",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "On the other hand, the benefits of this matter are more significant."
+   },
+   {
+    "id": "B8-DIS-006",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "In the past, letters and landlines were the only means of communication, which required a considerable time and money depending on the distance, whereas the modern developments in instant messaging, video calls, and social media allow individuals to connect ..."
+   },
+   {
+    "id": "B8-DIS-011",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "On the other hand, focusing too much on the past may be less useful than addressing present responsibilities and future needs."
+   },
+   {
+    "id": "B8-OP-002",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "By contrast, automated teaching systems may struggle to interpret the underlying causes of such behaviour or respond appropriately to unpredictable situations."
+   }
+  ],
+  "health": [
+   {
+    "id": "B8-ADV-008",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "In some nations, the state provides medical services through taxation, whereas in others individuals are expected to cover their own costs."
+   },
+   {
+    "id": "B8-ADV-024",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "On the other hand, delegating the process of cooking to some restaurant have a dramatic disadvantage of not having the information about the ingredients used in the meals."
+   },
+   {
+    "id": "B8-DIS-030",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "On the other hand, team sports develop social skills that are difficult to learn alone."
+   },
+   {
+    "id": "B8-DIS-031",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "On the other hand, some people see sports as an activity for leisure time."
+   }
+  ],
+  "education": [
+   {
+    "id": "B8-ADV-009",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Unlike university students who often spend several years studying theoretical knowledge, they gain hands-on experience while learning their profession."
+   },
+   {
+    "id": "B8-ADV-021",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "To illustrate, whereas certain traditional educational systems, particularly those entrenched in specific regions of Asia, tend to prioritise rote memorisation and rigid theoretical frameworks, international pedagogical models frequently mandate rigorous ..."
+   },
+   {
+    "id": "B8-ADV-022",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "On the other hand, living with family has its own advantages."
+   },
+   {
+    "id": "B8-DIS-016",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "On the other hand, other people argue that the teenage years are more critical because this is when individuals begin to form their identity and make independent decisions."
+   }
+  ],
+  "globalization-work": [
+   {
+    "id": "B8-ADV-028",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "They can also spend more time with their families, unlike full-time employees who have limited annual leave and must spend additional time commuting and preparing for work."
+   },
+   {
+    "id": "B8-DIS-014",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "On the other hand, I believe that a shared professional environment offers greater long-term benefits."
+   },
+   {
+    "id": "B8-DIS-024",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "On the other hand, some people think that employers need to be strict and carefully monitor staff to maintain discipline and efficiency."
+   },
+   {
+    "id": "B8-OP-031",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "On the other hand, remaining in one career is not always the best route to satisfaction."
+   }
+  ],
+  "media": [
+   {
+    "id": "B8-DIS-023",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "On the other hand, television can keep youngsters occupied while their parents or caregivers are busy, reducing the need for constant supervision and keeping them away from potential physical dangers."
+   },
+   {
+    "id": "B85-ADV-004",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "On the other hand, some humans consider restrictions to be unfair and persist in the idea of free access to the upcoming issues for every person."
+   },
+   {
+    "id": "B85-ADV-017",
+    "band": 8.5,
+    "task": "two-part",
+    "sentence": "On the other hand, this trend has brought a positive feeling of competition among producers since they should meet their customer’s expectations."
+   },
+   {
+    "id": "B85-ADV-038",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "Some people believe this growing trend has a detrimental impact on face-to-face communication, whereas I believe contracting via these tools has significant benefits."
+   }
+  ],
+  "culture": [
+   {
+    "id": "B8-DIS-028",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "On the other hand, some people visit museums primarily for leisure."
+   },
+   {
+    "id": "B8-OP-024",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Some people subscribe to the belief that reading helps enhance language skills and creativity, whereas watching television does very little for these abilities."
+   },
+   {
+    "id": "B8-REP-008",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "By contrast, tourists usually have limited time and are more motivated to explore the history and identity of a destination."
+   },
+   {
+    "id": "B85-ADV-012",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "On the other hand, if a student is easily anxious and struggles with self-worth, they may misconstrue the positive message."
+   }
+  ],
+  "crime": [
+   {
+    "id": "B8-DIS-038",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Some argue that capital punishment is the strongest deterrent, whereas others believe broader social policies are required."
+   },
+   {
+    "id": "B8-OP-010",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Statistically, many of them tend to have a lower level of education, and for that reason they are likely to stick to the old ways of committing crimes, whereas the minority of highly skilled criminals are unlikely to make a big difference to the crime levels."
+   },
+   {
+    "id": "B85-ADV-005",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "On the other hand, I believe that the benefits of monitoring outweigh the drawbacks."
+   },
+   {
+    "id": "B85-OP-005",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "On the other hand, I do believe that lawbreakers themselves, not their parents, should be punished to ensure a justice system that is based on fairness and criminal deterrence."
+   }
+  ],
+  "government": [
+   {
+    "id": "B8-OP-005",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "By contrast, the construction of new road capacity is well-documented to induce demand — a phenomenon known as induced traffic — meaning that new roads generate additional car journeys rather than alleviating congestion."
+   },
+   {
+    "id": "B85-OP-011",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "Unlike road-based logistics, which are limited by the capacity of individual vehicles, freight trains can move huge quantities over long distances with fewer trips."
+   },
+   {
+    "id": "B9-ADV-029",
+    "band": 9.0,
+    "task": "adv-disadv",
+    "sentence": "These are one-off losses, however, whereas the concentration of opportunity in a single city is a permanent drain."
+   },
+   {
+    "id": "B9-DIS-024",
+    "band": 9.0,
+    "task": "discussion",
+    "sentence": "On the other hand, there are other obligations other than cash as taxes for residents."
+   }
+  ]
+ },
+ "重新框定": {
+  "social": [
+   {
+    "id": "B8-ADV-001",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "This self-reinforcing cycle, in which rural decline and urban overpopulation feed each other, suggests that the development is systematically problematic rather than merely transitional."
+   },
+   {
+    "id": "B8-DIS-008",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Couples should plan a wedding that reflects their values and financial situation, rather than trying to satisfy everyone’s expectations."
+   },
+   {
+    "id": "B8-DIS-021",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "This can help individuals avoid poor decisions while also creating a stronger sense of trust, since they know that their friends are being sincere rather than merely trying to please them."
+   },
+   {
+    "id": "B8-OP-061",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "I largely agree with this view, although I believe high-rise housing should be combined with careful urban planning rather than treated as a complete solution on its own."
+   }
+  ],
+  "globalization-work": [
+   {
+    "id": "B8-ADV-005",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Advances in computer technology have made it possible for many office employees to work remotely rather than commute to the office every day."
+   },
+   {
+    "id": "B8-ADV-028",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Moreover, temporary workers are exposed to work-related stress for a limited period, allowing them to recover between careers rather than relying solely on a short annual vacation."
+   },
+   {
+    "id": "B8-ADV-032",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "Nowadays, consumers are more inclined to buy products and obtain services instantaneously rather than waiting for them."
+   },
+   {
+    "id": "B8-DIS-024",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Excessive control may cause stress and reduce morale, leading employees to feel pressured rather than motivated."
+   }
+  ],
+  "education": [
+   {
+    "id": "B8-ADV-009",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "The number of young people opting for work-based training rather than pursuing a university degree has increased in several countries in recent years."
+   },
+   {
+    "id": "B8-DIS-001",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Rather than adhering to a rigid age requirement, education systems should offer flexible entry points and diverse learning approaches that accommodate varying developmental readiness."
+   },
+   {
+    "id": "B8-OP-078",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "The idea of parenting classes being necessary may face some opposition from those who believe that being a parent requires certain personal traits rather than learnt skills, and therefore cannot be taught successfully."
+   },
+   {
+    "id": "B8-REP-029",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "Through a combination of school-based education, informed parenting, and meaningful regulatory intervention, society can cultivate an environment in which young people engage with digital platforms purposefully rather than compulsively, allowing technology to ..."
+   }
+  ],
+  "media": [
+   {
+    "id": "B8-ADV-014",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "Beyond that, when businesses market their products as symbols of status or luxurious lifestyles, buyers tend to make decisions based on desire rather than necessity."
+   },
+   {
+    "id": "B8-OP-039",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "To conclude, young adults should keep in mind that society’s perception of fame and fortune is based on temporary, insubstantial things rather than what actually matters."
+   },
+   {
+    "id": "B85-OP-057",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "For example, a student continuously watching soap operas rather than revising will likely suffer academically, just as adults who sit in front of screens nightly may neglect physical health and family interaction."
+   },
+   {
+    "id": "B85-OP-095",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "These days we live in an advanced society where it is becoming more popular to rely on free online resources rather than paper books or newspapers."
+   }
+  ],
+  "culture": [
+   {
+    "id": "B8-ADV-016",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Therefore, these people may not take pride in their region, and they might migrate to an urban location rather than contribute to the development of their community."
+   },
+   {
+    "id": "B8-OP-009",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "In contrast, pursuing a career in the creative industries is widely perceived as financially risky and unstable, often associated with the stereotype of the \"starving artist.\" Consequently, from an economic perspective, students and parents naturally ..."
+   },
+   {
+    "id": "B8-OP-028",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Talent knows no geographical boundaries; therefore, the emphasis should be on how much joy or amazement the work of art brings, rather than on its origin."
+   },
+   {
+    "id": "B9-TQ-005",
+    "band": 9.0,
+    "task": "two-part",
+    "sentence": "The first cause is that a craft now competes with a machine rather than with other craftspeople."
+   }
+  ],
+  "health": [
+   {
+    "id": "B8-ADV-024",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "It is a very popular practice in the modern society to order ready-made food from restaurants, rather than cooking at home."
+   },
+   {
+    "id": "B8-ADV-031",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "These days, an increasing number of individuals are attempting to manage their health conditions at home rather than consulting doctors."
+   },
+   {
+    "id": "B8-DIS-030",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Moreover, modern companies value cooperation more than ever, because most projects are completed by groups rather than individuals."
+   },
+   {
+    "id": "B8-DIS-037",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "For example, a software program can be developed to model a human immune system and new drugs can be tested on the software rather than animals."
+   }
+  ],
+  "technology": [
+   {
+    "id": "B8-ADV-036",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "That would constitute a negative effect of using online knowledge for medical treatments at home rather than visiting a professional."
+   },
+   {
+    "id": "B8-DIS-003",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While there is substance to both positions, I would contend that technology’s net effect is integrative rather than isolating, provided it is used with intention."
+   },
+   {
+    "id": "B85-ADV-016",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "Thanks to the significant development of technology, people prefer storing knowledge on the Internet rather than in traditional paper books."
+   },
+   {
+    "id": "B85-DIS-008",
+    "band": 8.5,
+    "task": "discussion",
+    "sentence": "In contrast, digital content is typically consumed more rapidly, which can lead to superficial understanding rather than thorough analysis."
+   }
+  ],
+  "environment": [
+   {
+    "id": "B8-DIS-018",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Protecting wildlife as a whole is therefore a preventative strategy rather than simply a response to extinction."
+   },
+   {
+    "id": "B8-OP-027",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "Governments should increase, rather than diminish, financial commitments to environmental protection to ensure a sustainable future."
+   },
+   {
+    "id": "B8-REP-001",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "Effective solutions must operate at the systemic level rather than relying on voluntary behavioural change."
+   },
+   {
+    "id": "B8-REP-002",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "In conclusion, urban air pollution is primarily driven by transport and industry, and both require targeted policy responses rather than voluntary action alone."
+   }
+  ],
+  "government": [
+   {
+    "id": "B8-OP-004",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "This framework — essentially the digital equivalent of a physical search warrant — has functioned effectively in democratic legal systems for centuries and requires only updated application rather than fundamental reimagining."
+   },
+   {
+    "id": "B8-OP-005",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "By contrast, the construction of new road capacity is well-documented to induce demand — a phenomenon known as induced traffic — meaning that new roads generate additional car journeys rather than alleviating congestion."
+   },
+   {
+    "id": "B85-OP-011",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "It is often argued that governments should allocate more resources to the development of railways rather than roads."
+   },
+   {
+    "id": "B85-OP-074",
+    "band": 8.5,
+    "task": "opinion",
+    "sentence": "It is argued that more funds should be allocated to roads and motorways rather than to public shipping systems."
+   }
+  ],
+  "crime": [
+   {
+    "id": "B8-OP-010",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "To sum up, even though the wonders of technology are available to everyone, it seems to me that they will better assist law enforcement in solving crimes, and law-abiding citizens in protecting themselves and their property, rather than felons."
+   },
+   {
+    "id": "B8-OP-032",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "In this sense, prison becomes a revolving door, rather than a solution."
+   },
+   {
+    "id": "B8-REP-013",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "First, governments should place greater emphasis on rehabilitation rather than relying solely on punishment."
+   },
+   {
+    "id": "B8-REP-014",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "To solve this problem, governments should focus on rehabilitation of criminals rather than punishment."
+   }
+  ]
+ },
+ "立场句": {
+  "globalization-work": [
+   {
+    "id": "B8-ADV-002",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "I would argue that, on balance, the advantages outweigh the disadvantages, though this calculus is not uniform across all professions or demographics."
+   },
+   {
+    "id": "B8-ADV-005",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "In conclusion, I believe that remote working is generally a positive development for both employees and employers."
+   },
+   {
+    "id": "B8-ADV-028",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Although this approach allows them to enjoy other aspects of life more freely and limits their exposure to work-related stress, I believe that the lack of financial stability and the uncertainty of not finding another job outweigh these advantages."
+   },
+   {
+    "id": "B8-DIS-014",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While some believe that remote employment offers greater flexibility and convenience, others argue that a traditional workplace encourages stronger communication and collaboration; although both perspectives have merit, I believe that office-based work is ..."
+   }
+  ],
+  "environment": [
+   {
+    "id": "B8-ADV-003",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "While this issue has some advantages for people and disadvantages for the environment, I believe that the drawbacks are more significant."
+   },
+   {
+    "id": "B8-DIS-018",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While both perspectives have merit, I firmly believe that conserving all wild animals is the most effective way to maintain ecological balance and safeguard the natural world."
+   },
+   {
+    "id": "B8-DIS-025",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "In my opinion, both the government and individuals play crucial roles in tackling this issue."
+   },
+   {
+    "id": "B8-OP-045",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "In conclusion, I firmly believe that littering in public places is a serious problem."
+   }
+  ],
+  "technology": [
+   {
+    "id": "B8-ADV-004",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "While this issue has both advantages and disadvantages, I believe that the benefits are more significant."
+   },
+   {
+    "id": "B8-ADV-011",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "This essay will discuss the reasons behind this trend and explain why I believe it is largely a positive development."
+   },
+   {
+    "id": "B8-ADV-015",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "I believe the merits of this opportunity outnumber its demerits and the lowered volume of traffic in addition to the possibility of long-range communication will be discussed as reasons for this claim in this essay."
+   },
+   {
+    "id": "B8-ADV-036",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "However, in my view, providing the general public with access to trustworthy information about medical disorders would invariably improve the quality of the medical care for the whole society."
+   }
+  ],
+  "social": [
+   {
+    "id": "B8-ADV-006",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "Although the decline of handwriting has some disadvantages, I believe it is predominantly a positive development because it improves efficiency and facilitates communication."
+   },
+   {
+    "id": "B8-ADV-007",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "In conclusion, although there might be some adverse consequences to this relatively new practice, I believe that the advantages of young people leaving family home outweigh its drawbacks, for both children and parents."
+   },
+   {
+    "id": "B8-ADV-020",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "In my opinion, this situation could be remedied, provided some effective measures are taken."
+   },
+   {
+    "id": "B8-ADV-026",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "I believe that on balance, the advantages of such a move outweigh the disadvantages."
+   }
+  ],
+  "education": [
+   {
+    "id": "B8-ADV-009",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "While this trend may narrow access to certain professions, I believe its merits outweigh the disadvantages because it improves employability and reduces financial burden."
+   },
+   {
+    "id": "B8-ADV-017",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Although doing so can sometimes result in failure or negative consequences, I believe that the potential benefits of taking calculated risks outweigh the disadvantages."
+   },
+   {
+    "id": "B8-ADV-021",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Notwithstanding the undeniable logistical and financial impediments inherent in such cross-border academic endeavours, this essay will contend that the profound developmental and professional dividends yielded by studying abroad unequivocally eclipse the ..."
+   },
+   {
+    "id": "B8-ADV-027",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "To sum up, while concerns about extended study periods and limited social interactions associated with part-time courses are valid, in my opinion, the advantages they offer outweigh these drawbacks."
+   }
+  ],
+  "media": [
+   {
+    "id": "B8-ADV-014",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "In spite of certain drawbacks, I believe it is a positive development to win global competition and raise awareness about products among people."
+   },
+   {
+    "id": "B8-ADV-023",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "This essay will look at the possible causes of this tendency and explain why, in my opinion, this is a negative development."
+   },
+   {
+    "id": "B8-DIS-023",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Although it can distract young people from important tasks and make them more introverted, I believe they can learn valuable lessons from programmes, while also remaining safe when their parents are busy."
+   },
+   {
+    "id": "B8-OP-018",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "In my view, advertising remains essential because it informs consumers and promotes competition in the marketplace."
+   }
+  ],
+  "culture": [
+   {
+    "id": "B8-ADV-016",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "I believe this tendency exerts a positive influence on the society."
+   },
+   {
+    "id": "B8-ADV-019",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Although this phenomenon can lead to negative effects, I believe that there are for more positive effects."
+   },
+   {
+    "id": "B8-DIS-028",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "I believe that museums are multifunctional, as people may visit them for different purposes depending on their interests."
+   },
+   {
+    "id": "B8-OP-009",
+    "band": 8.0,
+    "task": "two-part",
+    "sentence": "This essay will discuss how economic pragmatism drives this trend, but argues that public investment in interactive cultural institutions can successfully revitalise both public interest and national economies."
+   }
+  ],
+  "health": [
+   {
+    "id": "B8-ADV-031",
+    "band": 8.0,
+    "task": "adv-disadv",
+    "sentence": "Although self-care may be appropriate for minor ailments, I believe that avoiding professional medical advice is a negative development because it can pose significant risks to people's well-being."
+   },
+   {
+    "id": "B8-DIS-005",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "Although the state has powerful tools to address this issue, I believe that people should primarily depend on themselves, as they are the main beneficiaries of maintaining good health."
+   },
+   {
+    "id": "B8-DIS-009",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "In my opinion, even though animals subjected to testing may suffer, it is a necessary step to ensure the healing power of a drug."
+   },
+   {
+    "id": "B8-DIS-022",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "In my view, everyone should take ownership of their diet and assume responsibility for their health because it is the right choice."
+   }
+  ],
+  "crime": [
+   {
+    "id": "B8-DIS-034",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "I believe that while both arguments offer valid points, the decision ultimately depends on the individual circumstances surrounding each crime."
+   },
+   {
+    "id": "B8-DIS-036",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "While some may argue that women are less suited for certain jobs such as with the police or the military, I believe that female candidates should be treated the same as their male counterparts."
+   },
+   {
+    "id": "B8-DIS-038",
+    "band": 8.0,
+    "task": "discussion",
+    "sentence": "I believe the ultimate penalty may be justified in a small number of extreme cases, but lasting public safety depends more on prevention, legal education and rehabilitation."
+   },
+   {
+    "id": "B8-OP-010",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "In my opinion, innovation in crime prevention can be a game-changer that will reduce both the number of crimes committed and the time it takes to catch those responsible for them."
+   }
+  ],
+  "government": [
+   {
+    "id": "B8-OP-004",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "I firmly believe that unrestricted government surveillance is fundamentally incompatible with democratic principles, though I acknowledge the necessity of targeted, judicially-supervised monitoring in specific circumstances."
+   },
+   {
+    "id": "B8-OP-005",
+    "band": 8.0,
+    "task": "opinion",
+    "sentence": "While roads retain clear value in rural connectivity, I would argue that the case for prioritising railway investment is compelling, particularly given the twin pressures of urbanisation and climate change."
+   },
+   {
+    "id": "B8-REP-030",
+    "band": 8.0,
+    "task": "report",
+    "sentence": "I believe that both inflation and less-than-ideal government policies are key contributors to this problem."
+   },
+   {
+    "id": "B85-ADV-041",
+    "band": 8.5,
+    "task": "adv-disadv",
+    "sentence": "In my opinion, its benefits definitely outweigh its drawbacks."
+   }
+  ]
+ }
+}

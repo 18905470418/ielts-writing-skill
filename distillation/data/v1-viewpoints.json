@@ -1,0 +1,1120 @@
+{
+ "education": [
+  {
+   "code": "EDU-01",
+   "claim": "兴趣不是「被发现」的，而是被接触塑造的，因此过早专业化会剥夺选择能力",
+   "tendency": "支持通识/广课程",
+   "chain": "机制——若学生从未接触经济学、哲学或计算机，就谈不上「选择」它们 → 例证方向——13–14 岁的兴趣判断建立在有限暴露上 → 回扣——义务广课程应覆盖到足以让专业选择成为真实选择为止（同时承认「过度延长统一课程」会侵蚀动机）。",
+   "task_types": [
+    "discussion",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-031",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "broad compulsory curriculum",
+    "interests are formed by exposure",
+    "vocational aptitudes"
+   ]
+  },
+  {
+   "code": "EDU-02",
+   "claim": "分班的争议不在教学法，而在「按背景排序并称之为能力测量」的标签伤害",
+   "tendency": "承认分班现实必要性，反对过早标签化",
+   "chain": "机制——教师面对跨度四年的班级只有坏选项（照顾中间/准备多套课/放弃两端）→ 例证方向——11 岁成绩与家庭阅读量高度相关 → 回扣——制度设计应延长共同课程、推迟分流，而不是否认分班的技术理由。",
+   "task_types": [
+    "discussion",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-018",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "attainment spans four years",
+    "sorting by background",
+    "measured their ability"
+   ]
+  },
+  {
+   "code": "EDU-03",
+   "claim": "录播课程的价值是「控制节奏」，代价是消失的课后交流，需制度补偿",
+   "tendency": "有条件支持",
+   "chain": "机制——可按暂停/回看调整输入速度 → 例证方向——第二语言学习者与基础薄弱学生受益最大 → 回扣——高校应把节省的通勤/重复讲授成本转为小班答疑与走廊式交流的替代品。",
+   "task_types": [
+    "adv-disadv",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-004",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "control over the pace",
+    "assumed background",
+    "questions asked in the corridor"
+   ]
+  },
+  {
+   "code": "EDU-04",
+   "claim": "按短缺领域定向拨款合理，但把「就业率」当唯一标准会犯时间错配",
+   "tendency": "有条件同意",
+   "chain": "机制——真实且被记录的短缺需要定向名额 → 反例——毕业三年收入只描述某届毕业生碰巧遇到的劳动力市场 → 回扣——资助应保留多元评估（长期职业轨迹、研究外溢），否则会扼杀当下「看起来不可用」的学科。",
+   "task_types": [
+    "opinion",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-068",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "a shortage is real and documented",
+    "targeted funding",
+    "one input among several"
+   ]
+  },
+  {
+   "code": "EDU-05",
+   "claim": "理科兴趣下降有两个同向原因——评分风险与课堂体验缺失；宣传攻势无效",
+   "tendency": "结构性补救",
+   "chain": "机制——难课程在「少量成绩决定大学名额」的算术下是坏投资 → 第二个机制——决策前几年的课堂体验没有提供「做科学」的经验 → 回扣——政策必须改变算术（评估/名额）与体验（实验、项目），而非发励志海报。",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-006",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "demanding syllabus",
+    "unforgiving mark scheme",
+    "encouragement campaigns"
+   ]
+  }
+ ],
+ "technology": [
+  {
+   "code": "TECH-01",
+   "claim": "远程办公的生产率证据成立，但组织不是个体的集合——秘密知识与信任靠「非脚本化接触」传递",
+   "tendency": "混合办公",
+   "chain": "机制——深度工作获益于自主与免打扰 → 反例——新人需要的隐性知识（何时该提问、何种确定性才能下结论）写在纸上不存在 → 回扣——政策目标是「设计混合」，而不是二选一。",
+   "task_types": [
+    "discussion",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-030",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "sustained concentration",
+    "unscripted interaction",
+    "meaning",
+    "trust",
+    "and professional identity"
+   ]
+  },
+  {
+   "code": "TECH-02",
+   "claim": "智能手机依赖由两个机制锁定——功能合并与机构假设",
+   "tendency": "分析型，不简单贴「成瘾」标签",
+   "chain": "机制——手机逐一吸收相机、地图、日记与银行卡 → 机制二——机构开始假定人人有机（银行验证、排班 App、登机牌）→ 回扣——依赖不是个人意志问题，拆除成本被制度性抬高。",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-019",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "consolidation",
+    "second factor",
+    "institutional"
+   ]
+  },
+  {
+   "code": "TECH-03",
+   "claim": "儿童手机的真正问题是设备按「捕获注意力」设计，年龄门槛是伪解",
+   "tendency": "延迟拥有，质疑 11–12 岁节点",
+   "chain": "机制——界面经持续实验优化以抢占注意力，对成年人同样有效 → 例证方向——11 岁不是能力阈值，而是「社交排斥成本超过设备成本」时点 → 回扣——政策应针对产品设计与使用场景，而非单一数字。",
+   "task_types": [
+    "opinion",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-084",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "capture as much attention as",
+    "threshold of competence",
+    "delay ownership"
+   ]
+  },
+  {
+   "code": "TECH-04",
+   "claim": "无现金化的收益广泛，损失集中且可命名——政策必须补偿被排除者",
+   "tendency": "支持但需配套",
+   "chain": "机制——现金管理成本高、可追踪付款更安全 → 反例——没有智能手机或最后一家支行已关闭的人不是「稍不方便」而是「无法付车费」→ 回扣——保留现金通道、补贴设备与网络是效率政策的组成部分。",
+   "task_types": [
+    "adv-disadv",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-016",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "cashless economy",
+    "the losses accrue to",
+    "cancelled in a minute"
+   ]
+  },
+  {
+   "code": "TECH-05",
+   "claim": "电商的真正损失不在购物，而在高街承担的「免费公共功能」与本地弹性就业",
+   "tendency": "收益为主、损失真实",
+   "chain": "机制——无店面结构成本更低、配送提升可及性 → 反例——高街曾是「没有业务往来的人同时同地出现」的理由 → 回扣——城市规划与转岗政策应接住这层外部性。",
+   "task_types": [
+    "adv-disadv",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-015",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "flexible local employment",
+    "accessibility measure",
+    "the high street"
+   ]
+  }
+ ],
+ "environment": [
+  {
+   "code": "ENV-01",
+   "claim": "监管做「实际工作」，但个人习惯是政治容忍度的证据——两者不是对立项",
+   "tendency": "制度优先，个人行动有政治功能",
+   "chain": "机制——碳定价与法规直接改变产业行为 → 反例——个人足迹话语被排放大公司最积极地推广，用来转移责任 → 回扣——个人行动的价值在「让政策可行」而非替代政策。",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-075",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "personal footprints",
+    "rather be lectured than legislated against",
+    "ratified a change"
+   ]
+  },
+  {
+   "code": "ENV-02",
+   "claim": "塑料入海的根源是价格差；EPR 与押金制把外部性变成资产负债表项目",
+   "tendency": "机制导向治理",
+   "chain": "机制——新塑料比回收料便宜 → 结果——用后价值近零的塑料被丢弃、填埋或焚烧，河流完成剩余运输 → 对策——生产者责任延伸 + 押金制给瓶子「残余价值」。",
+   "task_types": [
+    "two-part",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-TQ-002",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "price gap",
+    "extended producer responsibility",
+    "residual value"
+   ]
+  },
+  {
+   "code": "ENV-03",
+   "claim": "航空需求由「价格失真 + 行为不可见」支撑，道德劝说注定失效",
+   "tendency": "政策工具而非个人羞耻",
+   "chain": "机制——煤油免税、票价不含外部成本 → 机制二——拒绝飞行不产生可见结果，而飞行的理由具体且私人 → 回扣——政策必须改变价格信号或提供可见替代，而非依赖说服。",
+   "task_types": [
+    "two-part",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-TQ-004",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "price is fictitious",
+    "untaxed",
+    "diffuse",
+    "delayed and shared cost"
+   ]
+  },
+  {
+   "code": "ENV-04",
+   "claim": "环境问题的跨国外部性使单国行动不足，需要国际协作机制",
+   "tendency": "国际合作",
+   "chain": "机制——气候、臭氧层、海洋污染超越国界 → 例证方向——一国排放推高全球海平面与极端天气 → 回扣——国际协议 + 国内政策双轨，避免搭便车与碳泄漏。",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-058",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "transcend national boundaries",
+    "interconnectedness",
+    "ozone layer depletion"
+   ]
+  },
+  {
+   "code": "ENV-05",
+   "claim": "野生动物保护应从源头减少污染与资源开采，而非只救单一物种",
+   "tendency": "系统性保护",
+   "chain": "机制——工业排放与生活污染破坏栖息地 → 机制二——回收降低资源开采压力 → 回扣——保护措施要落到生产与消费结构，而不是只做物种名录。",
+   "task_types": [
+    "report",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-010",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "fossil fuel industries",
+    "recycling projects",
+    "degradation of the natural environment"
+   ]
+  }
+ ],
+ "government": [
+  {
+   "code": "GOV-01",
+   "claim": "免费公交的门槛不是票价而是班次与可靠性；取消票价可能挤占改善服务的资金",
+   "tendency": "有条件支持",
+   "chain": "机制——票价对低收入者是硬约束（累退）→ 反例——真正把人留在车里的是时间与可靠性，四十分钟一班的免费公交仍是四十分钟一班 → 回扣——若预算不变，政策是在「更便宜的票」与「更好的网络」之间做选择。",
+   "task_types": [
+    "adv-disadv",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-027",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "fares are regressive",
+    "reliability",
+    "fare revenue"
+   ]
+  },
+  {
+   "code": "GOV-02",
+   "claim": "迁都/外迁政府机构的价值在区域均衡与「政策制定者接触现实」，成本主要为一次性",
+   "tendency": "利大于弊",
+   "chain": "机制——首都吸走全国专业岗位，外迁把就业与消费带入衰退城镇 → 机制二——官员生活在政策对象中间，减少「只对首都有意义」的规则 → 反例——新建筑与人才流失是一次性成本 → 回扣——长期均衡收益大于过渡成本。",
+   "task_types": [
+    "adv-disadv",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-029",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "drains talent",
+    "one-off losses",
+    "permanent drain"
+   ]
+  },
+  {
+   "code": "GOV-03",
+   "claim": "预防性医疗的经济性确定，但受益者不可命名，导致政治激励偏向治疗",
+   "tendency": "制度上保护预防预算",
+   "chain": "机制——疫苗/筛查成本远低于替代的治疗 → 反例——被救的人不知道自己被救，而治疗总有病床与家属作为可见证据 → 回扣——需要独立的长期预算与评估机制，打破「可命名偏好」。",
+   "task_types": [
+    "opinion",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-014",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "its beneficiaries cannot be named",
+    "treatment-only system",
+    "the economics are not in doubt"
+   ]
+  },
+  {
+   "code": "GOV-04",
+   "claim": "评价大型赛事投入要看「什么留下来」：交通与防洪是资产，一次性场馆是负债",
+   "tendency": "反对纪念碑式建设",
+   "chain": "机制——为场馆修的地铁服务通勤五十年 → 反例——为一个 fortnight 建的田径场无法改作他用且维护昂贵 → 机制二——激励结构奖励「雄心」而无人为维护账单负责 → 回扣——复用现有场地与临时设施是可行替代。",
+   "task_types": [
+    "opinion",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-045",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "consider what survives",
+    "sized for one fortnight",
+    "a fraction of the cost"
+   ]
+  },
+  {
+   "code": "GOV-05",
+   "claim": "住房与环境的折中是「向上建」，但用成本压力压缩居住面积会制造不平等",
+   "tendency": "垂直扩张 + 保障供给",
+   "chain": "机制——减小建筑占地、增加高度可同时供房与护地 → 反例——提高建房成本把压力转给低收入者，结果是居住标准与冲突 → 回扣——政策应扩大供给与公共交通配套，而不是把成本当调节器。",
+   "task_types": [
+    "opinion",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-032",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "building footprints",
+    "unequal living standards",
+    "plausible solution"
+   ]
+  }
+ ],
+ "social": [
+  {
+   "code": "SOC-01",
+   "claim": "晚育的收益确定（稳定收入与清晰意愿），代价分为生理/个人与结构性两类，且被统计为「选择」而隐形",
+   "tendency": "中性",
+   "chain": "机制——三十多岁通常有稳定住所与收入 → 反例——生育率随年龄下降，辅助治疗昂贵且常失败 → 回扣——政策要区分「自愿晚育」与「被迫推迟」，后者需要住房与职业制度支持。",
+   "task_types": [
+    "adv-disadv",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-009",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "the immediate case is strong",
+    "recorded as a choice",
+    "fertility falls with age"
+   ]
+  },
+  {
+   "code": "SOC-02",
+   "claim": "志愿接管的公共空间有邻里承诺优势，但专业连续性与「察觉异常」的社会工作不可替代",
+   "tendency": "混合治理",
+   "chain": "机制——邻居知道谁放学后来阅读室，能筹款、办活动 → 反例——图书馆也是无网者求职、被表格难住者求助的场所，需要训练有素且下周仍在岗的人 → 回扣——志愿者负责项目化事务，专业岗位保留核心服务。",
+   "task_types": [
+    "discussion",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-009",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "trained eye",
+    "the same person being there next week",
+    "a distant department"
+   ]
+  },
+  {
+   "code": "SOC-03",
+   "claim": "祖辈照护的优势是关系与专注比例，托儿所的优势是「同伴冲突训练」",
+   "tendency": "互补而非取代",
+   "chain": "机制——祖辈有先于安排存在的关系、一对一注意力 → 反例——家庭照护无法制造其他孩子，而四岁前要学的轮替、认输、读懂脸色都来自同伴 → 回扣——理想安排是两者组合，而非二选一。",
+   "task_types": [
+    "discussion",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-010",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "attention ratio of one to one",
+    "not obliged to give way",
+    "continuity"
+   ]
+  },
+  {
+   "code": "SOC-04",
+   "claim": "市中心禁车在效率算术上成立，但必须处理「谁被留下」：无障碍、货运与夜间通勤",
+   "tendency": "支持但有配套",
+   "chain": "机制——一条车道与停车占用最昂贵土地，却只移动少量人口 → 反例——轮椅使用者、带厢式车的管道工、凌晨两点下班的清洁工不是「生活方式选择」→ 回扣——方案必须先给出蓝证、装卸时段与夜间公交，再谈道德矫正。",
+   "task_types": [
+    "opinion",
+    "adv-disadv"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-078",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "the most valuable ground",
+    "who gets left behind",
+    "blue badges"
+   ]
+  },
+  {
+   "code": "SOC-05",
+   "claim": "老年孤独的根源是「环境社交性」消失，安排探访解决的是错误的数量",
+   "tendency": "城市与社区再设计",
+   "chain": "机制——多数人际接触不是被安排的，而是在共享空间中重复积累 → 机制二——退休与以车为本的社区设计同时移除了这些接触 → 回扣——把「邻近性」当基础设施：小店、长椅、图书馆、频繁公交。",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-009",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "ambient sociability",
+    "repetition in shared space",
+    "proximity as infrastructure"
+   ]
+  },
+  {
+   "code": "SOC-06",
+   "claim": "志愿招募难的本质是「承诺形态」变化，解决要重塑承诺而非道德号召",
+   "tendency": "制度化招募",
+   "chain": "机制——排班提前一周公布、频繁搬家使固定周二承诺不可行 → 对策——拆成单次时段/短项目并线上预约 → 配套——背景审查按风险分级，避免把端茶与看护儿童同一标准。",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-003",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "the shape of the commitment",
+    "bookable online",
+    "scaled to risk"
+   ]
+  }
+ ],
+ "crime": [
+  {
+   "code": "CRIME-01",
+   "claim": "公共服务能否私有化取决于「质量是否可测量」——垃圾清运可以，监狱不行",
+   "tendency": "分领域差异化",
+   "chain": "机制——可逐项验收的服务（街道、频次、清洁度）能激励承包商降本增效 → 反例——监狱的关键结果（再犯率、冲突化解）多年才能显现，合同只能奖励可计数指标（越狱、入住率、人均成本）→ 回扣——按「能不能被计数」决定私有化边界，而不是按意识形态。",
+   "task_types": [
+    "adv-disadv",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-011",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "where quality is visible",
+    "what can be counted",
+    "occupancy and cost per place"
+   ]
+  },
+  {
+   "code": "CRIME-02",
+   "claim": "短期监禁对低级别财产犯罪产生三重破坏；社区刑罚只有在真正配资源时才成立",
+   "tendency": "有条件支持社区服刑",
+   "chain": "机制——三个月刑期夺走工作、租约与家庭支撑，却碰不到成瘾、债务与住房问题 → 反例——无治疗配套的无偿劳动令不是刑罚，公众的不信任有事实基础 → 回扣——关键在于为社区方案配备治疗与监督资源，否则监狱看起来才是「负责任」的选择。",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-070",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "community disposals",
+    "underfunded alternatives",
+    "a criminal record"
+   ]
+  },
+  {
+   "code": "CRIME-03",
+   "claim": "网络诈骗的三个位移——身份信息常态化公开、尝试成本趋零、目标按便利而非财富选择",
+   "tendency": "个体只需「比下一个人更贵」",
+   "chain": "机制——冒充所需信息散落在零售、雇主与社交网络 → 机制二——一条诈骗信息可零成本发给十万人，成功率万分之一即有利可图 → 回扣——个体防护的目标是提高攻击成本，而非追求「不可攻破」。",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-002",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "published as a matter of course",
+    "almost costless to attempt",
+    "more expensive to attack"
+   ]
+  },
+  {
+   "code": "CRIME-04",
+   "claim": "出狱再犯的根源是无地址与无工作，干预必须发生在释放之前",
+   "tendency": "释放前衔接",
+   "chain": "机制——在押期间无法维持租约，释放即无固定地址 → 机制二——犯罪记录可披露，雇主有其他申请人时没有理由冒险 → 对策——释放前落实住房、保留培训名额或工作承诺。",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-004",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "no fixed address",
+    "the record is disclosable",
+    "housing arranged before release"
+   ]
+  },
+  {
+   "code": "CRIME-05",
+   "claim": "公共监控的争论是「安全收益 vs 被监视感」的交换，威慑效果与被侵犯感需同时计价",
+   "tendency": "收益大于代价，但需监管",
+   "chain": "机制——摄像头让潜在犯罪者被记录、被追踪 → 反例——无授权观察造成持续被监视的压力，损害心理状态 → 回扣——制度需限定目的、保存期限与申诉渠道，才能让威慑收益成立。",
+   "task_types": [
+    "adv-disadv",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B85-ADV-005",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "violates their privacy",
+    "deter potential offenders",
+    "mental well-being"
+   ]
+  }
+ ],
+ "culture": [
+  {
+   "code": "CUL-01",
+   "claim": "文物归还的核心是「获取方式」，而不是情感化的遗产叙事；「保存能力」抗辩已被事实淘汰",
+   "tendency": "支持归还",
+   "chain": "机制——大量文物在军事占领或无权政府下流出，那时的「许可」不是许可 → 反例——五十年前部分追索国确实缺乏恒温库与修复人员 → 回扣——多国已建成国际标准机构，实证性抗辩已转为习惯性拖延。",
+   "task_types": [
+    "discussion",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-012",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "how the objects were obtained",
+    "climate-controlled storage",
+    "full international standard"
+   ]
+  },
+  {
+   "code": "CUL-02",
+   "claim": "传统手工艺的对手是机器而非同行；「保存」要保存的是活在手上的知识",
+   "tendency": "支持活态传承",
+   "chain": "机制——工厂复制品以零头价格满足大多数买家 → 反例——把织机放进博物馆只保存了说明牌，真正的地方性知识（陶土在特定窑中的表现、木材含水的手感）只存在于从业者手中 → 回扣——政策应补贴实践场景与市场，而非只做展陈。",
+   "task_types": [
+    "two-part",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-TQ-005",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "competes with a machine",
+    "lives only in the hands of people who practise it",
+    "luxury market"
+   ]
+  },
+  {
+   "code": "CUL-03",
+   "claim": "音乐作为「通用语言」的机制是情绪共振——相同和声触发相似情绪，形成共享纽带",
+   "tendency": "支持跨文化连接",
+   "chain": "机制——音乐唤起难以言说的情绪（joy/empathy/nostalgia）→ 机制二——合作演奏（互换乐器）促进跨文化协作 → 回扣——音乐教育与交流项目的价值在情绪层面的连接，而非技能本身。",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-095",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "universal language",
+    "joy",
+    "empathy or nostalgia",
+    "shared bond"
+   ]
+  },
+  {
+   "code": "CUL-04",
+   "claim": "外语学习的长期价值是「理解所有语言如何运作」的迁移能力",
+   "tendency": "支持",
+   "chain": "机制——学习一门语言获得对语言结构的元认知 → 例证方向——即使不常出国，这种知识在任何语言环境都能迁移 → 回扣——把外语只当旅行工具会低估其认知与职业回报。",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-040",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "how all languages work",
+    "go further than",
+    "the ability to use it"
+   ]
+  },
+  {
+   "code": "CUL-05",
+   "claim": "数字化让艺术「可检索、可注释」，但实物体验的笔触与临场感不可复制",
+   "tendency": "两者互补",
+   "chain": "机制——线上可按类别、年代、艺术家排序并附专家解读 → 反例——屏幕几乎无法呈现笔触与质感，现场感无法替代 → 回扣——博物馆的价值转向「体验与情境」，数字平台承担普及与预习。",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-089",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "hardly recognized on the computer screen",
+    "sorted by category",
+    "insightful explanations"
+   ]
+  }
+ ],
+ "health": [
+  {
+   "code": "HEALTH-01",
+   "claim": "政府干预的合法边界在「上游」——整治商业与环境条件，而不是直接管制个人选择",
+   "tendency": "结构性干预",
+   "chain": "机制——食品营销、配方设计与游说扭曲了「自主选择」的信息与结构前提 → 反例——直接禁止个人行为触及伤害原则的边界，且执法往往不成比例地落在低收入群体 → 回扣——标签、儿童营销限制、糖税与默认健康选项属于「修复自主」，而非取代自主。",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-005",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "commercial and environmental conditions",
+    "harm principle",
+    "upstream of individual choice"
+   ]
+  },
+  {
+   "code": "HEALTH-02",
+   "claim": "食物浪费的环境成本主要在上游，其次是填埋甲烷；最有效的措施是「不让过剩产生」",
+   "tendency": "监管优先",
+   "chain": "机制——生产无人食用的食物占用了本可保留为森林或湿地的土地 → 机制二——填埋食物缺氧腐烂产生甲烷 → 对策——管制 multi-buy 促销、家庭装规格与「外观标准」，比劝说购物习惯更可靠。",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-012",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "land that could have remained forest or wetland",
+    "methane",
+    "cosmetic standards"
+   ]
+  },
+  {
+   "code": "HEALTH-03",
+   "claim": "医疗人才外流的决定性因素不是薪资（不可追平），而是工作条件（可改善）",
+   "tendency": "条件留人",
+   "chain": "机制——中等收入国家永远无法匹配最富国家的薪资，以此为目标等于必败 → 反例——缺失的设备、无临床背景的决策、按资历晋升是更常被引用的离职原因 → 回扣——设备、支持人员与绩效晋升「相对便宜」，是留人的有效杠杆。",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-015",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "pay is the part that cannot be fixed",
+    "merit-based advancement",
+    "clinical knowledge"
+   ]
+  },
+  {
+   "code": "HEALTH-04",
+   "claim": "医嘱不遵行有三因——理由未传达、成本即时收益统计化、环境与行为目标相逆",
+   "tendency": "沟通与制度设计",
+   "chain": "机制——压缩到几分钟的问诊只能下达指令，无法传达理由 → 机制二——药物副作用今天到、收益是概率事件 → 机制三——要求个人在「组织起来反对」的环境中独自坚持行为改变 → 回扣——对策是延长问诊、默认选项与环境改造，而非重复劝导。",
+   "task_types": [
+    "report",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-016",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "the reasoning is rarely transmitted",
+    "a statistical event",
+    "organised against"
+   ]
+  },
+  {
+   "code": "HEALTH-05",
+   "claim": "快餐治理需「价格 + 促销」双管：先解释便宜替代，再限制面向儿童的推广",
+   "tendency": "支持税与广告限制",
+   "chain": "机制——沙拉价格常是汉堡两倍，价格信号把消费者推向高热量 → 机制二——商业广告以玩具等诱因直接瞄准儿童 → 回扣——参照烟草广告限制的经验，税与禁促结合比单纯教育有效。",
+   "task_types": [
+    "opinion",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-059",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "cheap alternative to healthy meals",
+    "prohibit its promotion",
+    "target young children"
+   ]
+  }
+ ],
+ "media": [
+  {
+   "code": "MEDIA-01",
+   "claim": "流媒体的大资本带来创作机会，但集中度量标准正在制造「一个买家、多个标志」的同质化",
+   "tendency": "收益与集中风险并存",
+   "chain": "机制——平台资本支持国家级广播机构不敢尝试的作品 → 反例——少数平台用相同的完播率与留存曲线衡量成功，实质是一个买家 → 回扣——需要公共资金、配额或独立评价体系维持多样性。",
+   "task_types": [
+    "adv-disadv",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-001",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "capital on this scale",
+    "completion rates",
+    "retention curves",
+    "one buyer with several logos"
+   ]
+  },
+  {
+   "code": "MEDIA-02",
+   "claim": "流媒体取代排播，最少被注意的损失是「同时性」——全国同一时间的共同话题",
+   "tendency": "承认效率，惋惜公共性",
+   "chain": "机制——平台按行为数据订货，数据只能记录已发生的事 → 反例——排播制造「第二天早上无需安排的对话」→ 回扣——公共广播的价值在创造共同经验，这部分需被制度性保护。",
+   "task_types": [
+    "adv-disadv",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-033",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "simultaneity",
+    "a conversation the next morning",
+    "behavioural data"
+   ]
+  },
+  {
+   "code": "MEDIA-03",
+   "claim": "名人隐私的界限在「权力相关性」：涉及公共权力的事务可报道，其余多数只是「公众感兴趣」而非「公共利益」",
+   "tendency": "保护隐私",
+   "chain": "机制——监管部长或法官的私人交易与职务相关 → 反例——演员的疾病、球员的离婚与孩子的照片不向公众提供任何影响其生活决策的信息 → 回扣——被追逐者及其未选择曝光的家人承担焦虑与生活损失，应获得法律保护。",
+   "task_types": [
+    "discussion",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-014",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "where power is involved",
+    "interesting to the public rather than in the public interest",
+    "relatives who never chose publicity"
+   ]
+  },
+  {
+   "code": "MEDIA-04",
+   "claim": "更正的价值不在「登在哪里」，而在「多少被误导者能看到」；门槛应以伤害而非错误计",
+   "tendency": "按受众抵达",
+   "chain": "机制——纸媒时代首页即受众，更正登首页即可抵达 → 反例——线上受众分裂，发在没人看的角落等于没更正 → 回扣——更正应通过原渠道（同一条推送/订阅）抵达同一受众；门槛按伤害分级，避免规则被当作噪音而失效。",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-060",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "pushed to the audience",
+    "harm rather than on error",
+    "the same alert"
+   ]
+  },
+  {
+   "code": "MEDIA-05",
+   "claim": "儿童广告禁令的正当性来自「说服防御力不对等」，父母的把关责任被商业策略利用",
+   "tendency": "支持禁令",
+   "chain": "机制——成人知道广告有立场并会自动折扣，六岁儿童没有这套防御 → 反例——父母虽掌握购买权，但广告瞄准的是孩子，再让孩子在超市里向父母施压 → 回扣——把责任推给家庭，等于要求他们反复公开输掉一场被专业设计成必败的争论。",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-082",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "both know it is happening",
+    "deployed against the parent",
+    "professionally engineered"
+   ]
+  }
+ ],
+ "globalization-work": [
+  {
+   "code": "GLOB-01",
+   "claim": "把雇员转为合同工，不是消除不确定性，而是把不确定性切碎分给最无力承担的人",
+   "tendency": "支持雇佣保护",
+   "chain": "机制——雇佣法把经营波动、流感与家庭突发状况在两百名员工间分摊 → 反例——稀缺技能者可以给风险定价并获得溢价，但零工岗位多为可替代岗位 → 回扣——政策应按「可替代性」区分保护，而不是按合同类型一刀切。",
+   "task_types": [
+    "adv-disadv",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-008",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "pooling ordinary uncertainty",
+    "divided into two hundred pieces",
+    "scarcity"
+   ]
+  },
+  {
+   "code": "GLOB-02",
+   "claim": "订阅制的评价取决于「持续服务」还是「不变物品」——前者合理，后者在成本、控制权与条款上三重不利",
+   "tendency": "区分产品",
+   "chain": "机制——软件需持续修补，订阅把厂商收入与维护责任绑定 → 反例——只为租用不变物体的订阅按「能收多久钱」定价，并转让控制权（涨价、撤功能、改条款）→ 回扣——监管应聚焦「可撤销性」与信息披露。",
+   "task_types": [
+    "adv-disadv",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-019",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "continuing service",
+    "priced on how long the customer can be kept paying",
+    "transfers control"
+   ]
+  },
+  {
+   "code": "GLOB-03",
+   "claim": "职业转换要区分「被迫重组」与「真实选择」，后者以前者为前提条件",
+   "tendency": "政策保障 + 终身学习",
+   "chain": "机制——自动化与离岸化摧毁职业的速度快于一生的跨度，再培训常发生在裁员通知之后 → 机制二——当「一份工作做到底」的预期消失，跳槽的机会成本下降 → 回扣——廉价在线资格让第二职业在业余时间准备，但前提是有安全网。",
+   "task_types": [
+    "two-part",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-021",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "the first is involuntary",
+    "redundancy notice",
+    "cheap online qualifications"
+   ]
+  },
+  {
+   "code": "GLOB-04",
+   "claim": "旅游经济的收益归属由「所有权结构」决定，单一产业依赖放大外部冲击",
+   "tendency": "本地化所有权 + 产业多元",
+   "chain": "机制——旅游是穷国真正具备竞争力的部门（海岸、气候、遗迹，资本门槛低）→ 反例——航空、旅行社、酒店与短途项目全为外资时，消费几乎不经过本地经济 → 回扣——政策应要求本地参股/培训与产业多元化，降低单一部门风险。",
+   "task_types": [
+    "adv-disadv",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-023",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "genuinely competes",
+    "ownership",
+    "depending on a single sector"
+   ]
+  },
+  {
+   "code": "GLOB-05",
+   "claim": "四天工作制的效果取决于「产出—工时」是否脱钩：知识工作近乎压倒性，覆盖型岗位相反",
+   "tendency": "分行业推行",
+   "chain": "机制——第五天常被会议膨胀与拖延吸收，四天密集工作产出不降 → 反例——病房少一天就是无人覆盖，只能加人加薪 → 反例二——四个十二小时班是「同名不同政策」，疲劳抵消收益 → 回扣——政策应按岗位产出函数试点，而非全国统一。",
+   "task_types": [
+    "adv-disadv",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-028",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "meetings expand",
+    "deadlines relax",
+    "a ward covered four days a week",
+    "a different policy wearing the same name"
+   ]
+  },
+  {
+   "code": "GLOB-06",
+   "claim": "远程办公对资深员工近乎无成本，对新人相反——隐性能力只通过「邻近性」习得",
+   "tendency": "混合办公 + 新人保护",
+   "chain": "机制——资深者掌握人脉与判断标准，在厨房桌上损失很小 → 反例——新人要知道「结论需要多大确定性、哪个经理会提什么反对意见」，这些从未被写下 → 回扣——入职期应保证高频线下接触与导师制。",
+   "task_types": [
+    "discussion",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-011",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "the newcomer's position is the reverse",
+    "never written down",
+    "absorbed by proximity"
+   ]
+  }
+ ]
+}

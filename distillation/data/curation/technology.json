@@ -1,0 +1,1575 @@
+{
+ "topic": "technology",
+ "viewpoints": [
+  {
+   "claim": "人工智能与自动化会替代大量重复性、低技能岗位；若财政与教育制度同步调整，冲击可转化为机遇，否则收益向资本集中、贫富差距扩大。",
+   "tendency": "条件性",
+   "chain": "企业以自动化产线与AI服务替代人工 → 低技能岗位减少、收益向资本方集中 → 制度（再培训与再分配）适应与否决定结果是共享机遇还是加剧不平等",
+   "task_types": [
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-004",
+     "band": 9.0
+    },
+    {
+     "id": "B9-DIS-017",
+     "band": 9.0
+    },
+    {
+     "id": "B8-DIS-027",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "artificial intelligence",
+    "automated production lines",
+    "online courses"
+   ]
+  },
+  {
+   "claim": "远程办公提升知识型任务的个人效率并降低企业成本，但缺少面对面互动会削弱团队信任与组织文化。",
+   "tendency": "条件性",
+   "chain": "通勤与开放式办公干扰消失 → 知识型任务产出提升、运营开支下降 → 但信任与职业认同依赖实体相处，屏幕难以复制",
+   "task_types": [
+    "discussion",
+    "adv-disadv"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-030",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-025",
+     "band": 8.5
+    },
+    {
+     "id": "B85-TQ-003",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "remote work",
+    "digital tools",
+    "online work",
+    "operating costs"
+   ]
+  },
+  {
+   "claim": "线上零售以更低价格和更强的配送可及性惠及消费者，但造成本地零售岗位流失与社区商业衰退，并带来包装与运输污染。",
+   "tendency": "中立",
+   "chain": "无实体店面降低卖家成本 → 商品更便宜、配送到家更方便 → 本地商店关闭、灵活就业与社区功能受损，包装与长途运输增加污染",
+   "task_types": [
+    "adv-disadv",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-015",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-001",
+     "band": 9.0
+    },
+    {
+     "id": "B8-ADV-004",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "online shopping",
+    "online stores",
+    "packaging waste",
+    "carbon emissions",
+    "local shops"
+   ]
+  },
+  {
+   "claim": "数字支付降低成本、减少现金犯罪并提升效率，但会把不适应数字设备的群体排除在日常生活之外，且这一问题不会随时间自动消失。",
+   "tendency": "中立",
+   "chain": "现金处理成本高、盗窃风险大、卡片可挂失 → 商户与银行全面转向电子支付 → 老年人与无智能设备者被排斥，该群体最不可能改变",
+   "task_types": [
+    "adv-disadv"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-016",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-009",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "cashless economy"
+   ]
+  },
+  {
+   "claim": "儿童长时间使用智能手机源于设备被设计为持续争夺注意力，叠加社交与学习向线上迁移、以及儿童自控力不足。",
+   "tendency": "中立",
+   "chain": "应用以捕获注意力为设计目标 → 同伴社交与学习迁移到线上、疫情推动网课 → 儿童自控力弱且设备随手可得，使用时间失控",
+   "task_types": [
+    "two-part",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-084",
+     "band": 9.0
+    },
+    {
+     "id": "B9-ADV-031",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-033",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "smartphones",
+    "social media",
+    "online platforms",
+    "screen time"
+   ]
+  },
+  {
+   "claim": "过度使用智能手机会损害儿童身心健康与学业表现，表现为焦虑上升、视力与体能下降以及注意力与成绩受损。",
+   "tendency": "支持",
+   "chain": "长时间屏幕暴露、久坐与不良内容 → 焦虑、肥胖与视力受损 → 学习投入减少，学业表现下滑",
+   "task_types": [
+    "two-part",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-032",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-033",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-069",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "screen time",
+    "mental health",
+    "physical health",
+    "academic achievement"
+   ]
+  },
+  {
+   "claim": "技术让社交更便捷并能跨越地域维系关系，但线上互动缺乏情感深度，过度依赖会带来孤独感与表层化关系。",
+   "tendency": "中立",
+   "chain": "智能设备与网络覆盖降低交流成本 → 同好社群与跨国家庭联系增强 → 文本化互动较浅、缺乏面对面深度，易致孤立",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-087",
+     "band": 9.0
+    },
+    {
+     "id": "B85-DIS-007",
+     "band": 8.5
+    },
+    {
+     "id": "B8-DIS-003",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "digital platforms",
+    "social platforms",
+    "face to face interactions",
+    "online conversation",
+    "social media"
+   ]
+  },
+  {
+   "claim": "互联网与在线教育为低收入者提供免费学习资源与就业机会，有助缩小贫富差距；但接入本身存在成本，完全免费并不现实。",
+   "tendency": "条件性",
+   "chain": "免费信息与在线课程降低学习成本 → 低收入者获得技能与远程收入渠道 → 但设备与网络仍需付费，政策应定向补贴而非全免费",
+   "task_types": [
+    "discussion",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-017",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-024",
+     "band": 9.0
+    },
+    {
+     "id": "B85-OP-069",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "online courses",
+    "access to the internet",
+    "free information",
+    "online education",
+    "internet access"
+   ]
+  },
+  {
+   "claim": "免费获取网络版权作品能提升作品流行度与创作者声誉、并促进教育公平，但会损害创作者收入，需要平衡可及性与版权保护。",
+   "tendency": "中立",
+   "chain": "免费传播降低接触门槛 → 作品更流行、作者声誉提升、低收入者也能使用 → 创作者收入受损，长期抑制创作动力",
+   "task_types": [
+    "opinion",
+    "adv-disadv"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-054",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-024",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "copyright protected material",
+    "copyright protected",
+    "online distribution",
+    "free online",
+    "social classes"
+   ]
+  },
+  {
+   "claim": "数字化存储与在线图书馆让资料获取更快更广、维护成本更低，但实体图书馆的文化与历史保存价值难以被完全替代。",
+   "tendency": "中立",
+   "chain": "数字服务器替代纸质馆藏 → 读者远程获取稀有资料、维护成本下降 → 图书馆承载历史文物与文化中心功能，仍需保留",
+   "task_types": [
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-102",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-016",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "online libraries",
+    "information online"
+   ]
+  },
+  {
+   "claim": "自动驾驶可为老人与残障者提供出行便利并潜在地提升道路安全，但技术不成熟存在安全隐患，且会冲击司机就业。",
+   "tendency": "条件性",
+   "chain": "传感器与自动驾驶技术提供门到门出行 → 弱势群体出行独立性提高、人为失误减少 → 但系统尚不稳定、司机岗位流失，需要再培训",
+   "task_types": [
+    "adv-disadv"
+   ],
+   "sources": [
+    {
+     "id": "B85-ADV-014",
+     "band": 8.5
+    },
+    {
+     "id": "B85-ADV-015",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "driverless technology",
+    "autonomous vehicles",
+    "self driving vehicles",
+    "traffic conditions"
+   ]
+  },
+  {
+   "claim": "网上医疗信息提升公众健康意识、帮助轻症自我管理并减轻医院负担，但错误信息可能误导患者造成伤害。",
+   "tendency": "中立",
+   "chain": "医疗知识在线可及 → 患者自我判断轻症、就诊时更有准备 → 不可靠来源带来误诊风险，需要监管与甄别",
+   "task_types": [
+    "adv-disadv"
+   ],
+   "sources": [
+    {
+     "id": "B85-OP-069",
+     "band": 8.5
+    },
+    {
+     "id": "B8-ADV-036",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "online platforms",
+    "medical information",
+    "medical advice",
+    "medical problems"
+   ]
+  },
+  {
+   "claim": "线上娱乐与算法推荐占用大量时间、减少家庭与社区面对面互动并加剧孤独，但沟通质量最终取决于使用方式。",
+   "tendency": "条件性",
+   "chain": "算法以持续吸引注意力为目标 → 家庭成员同处一室却各自看屏 → 线下社交与群体活动减少，孤独感上升",
+   "task_types": [
+    "opinion",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B85-OP-001",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-077",
+     "band": 8.5
+    },
+    {
+     "id": "B8-OP-063",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "online entertainment",
+    "social media",
+    "face to face interaction",
+    "video games"
+   ]
+  },
+  {
+   "claim": "老年人因界面与技能陌生难以适应现代技术；政府资助培训与家人指导能提升其独立性与社会联系，是值得的公共支出。",
+   "tendency": "支持",
+   "chain": "数字服务扩张、界面陌生 → 老人办事依赖他人并被排斥 → 培训与家人指导提升独立性、维系远方亲情，公共资金使用合理",
+   "task_types": [
+    "report",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B85-REP-019",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-094",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-080",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "computer skills",
+    "online banking",
+    "video calls",
+    "video conferencing",
+    "older people"
+   ]
+  },
+  {
+   "claim": "网络购物、远程办公与在线服务节省时间与出行成本、提升生活便利与生产率，但加深了对网络与设备的依赖。",
+   "tendency": "条件性",
+   "chain": "网络下单与远程协作普及 → 时间与通勤成本下降、效率提高 → 断网或设备故障会阻断生活与工作",
+   "task_types": [
+    "opinion",
+    "adv-disadv",
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B85-OP-037",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-043",
+     "band": 8.5
+    },
+    {
+     "id": "B8-ADV-015",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "online shopping",
+    "through the internet",
+    "commuting burden"
+   ]
+  },
+  {
+   "claim": "计算机让人随时随地工作与办事更便利、降低商业成本，但也模糊工作与私人时间界限、增加网络诈骗风险；总体利大于弊。",
+   "tendency": "中立",
+   "chain": "随时在线与信息可及 → 办事便捷、线上经营成本降低 → 工作侵入私人时间、诈骗增多，需要管理与警觉",
+   "task_types": [
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B85-OP-099",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-069",
+     "band": 8.5
+    },
+    {
+     "id": "B8-DIS-019",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "online stores",
+    "online classes",
+    "weak eyesight",
+    "fake websites",
+    "working hours"
+   ]
+  },
+  {
+   "claim": "数字沟通带来缩写化、碎片化表达并减少手写练习，可能损害拼写与深度阅读；但数字环境也扩大了读写总量并提供编辑便利。",
+   "tendency": "中立",
+   "chain": "打字与自动纠错替代手写 → 拼写与深度阅读练习减少 → 但数字阅读写作总量增加、表达更高效，关键在于引导",
+   "task_types": [
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B8-OP-057",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-087",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-055",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "digital communication",
+    "screen time",
+    "digital devices",
+    "writing skills",
+    "reading skills"
+   ]
+  },
+  {
+   "claim": "以个人数据换取免费数字服务带来便利与个性化，但隐私泄露、诈骗与行为操纵风险显著，需要监管与知情同意。",
+   "tendency": "中立",
+   "chain": "企业以数据支撑免费服务与个性化体验 → 用户获得低成本便利 → 数据滥用与诈骗风险上升，需要监管平衡",
+   "task_types": [
+    "adv-disadv"
+   ],
+   "sources": [
+    {
+     "id": "B85-ADV-022",
+     "band": 8.5
+    },
+    {
+     "id": "B85-ADV-025",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "technology companies",
+    "personal data",
+    "digital services",
+    "personal information",
+    "data sharing"
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "collocation": "modern technology",
+   "gram": "modern-technology",
+   "function": "观点表达",
+   "gloss": "现代科技",
+   "sources": [
+    {
+     "id": "B9-DIS-017",
+     "band": 9.0
+    },
+    {
+     "id": "B85-DIS-007",
+     "band": 8.5
+    },
+    {
+     "id": "B85-DIS-008",
+     "band": 8.5
+    }
+   ],
+   "docs8": 16,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Furthermore, modern technology grants young learners access to an immense array of resources, thereby stimulating curiosity and broadening global awareness."
+  },
+  {
+   "collocation": "technological advancements",
+   "gram": "technological-advancements",
+   "function": "观点表达",
+   "gloss": "技术进步",
+   "sources": [
+    {
+     "id": "B9-OP-087",
+     "band": 9.0
+    },
+    {
+     "id": "B8-ADV-015",
+     "band": 8.0
+    },
+    {
+     "id": "B8-DIS-006",
+     "band": 8.0
+    }
+   ],
+   "docs8": 15,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "There are, however, some drawbacks to online communication, in particular the possibility that the lack of contact brought by technological advancements could potentially weaken human bonds."
+  },
+  {
+   "collocation": "artificial intelligence",
+   "gram": "artificial-intelligence",
+   "function": "观点表达",
+   "gloss": "人工智能",
+   "sources": [
+    {
+     "id": "B9-DIS-004",
+     "band": 9.0
+    },
+    {
+     "id": "B85-OP-037",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-081",
+     "band": 8.5
+    }
+   ],
+   "docs8": 11,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Sceptics contend that artificial intelligence poses a structural threat to employment, while historical optimists point to centuries of evidence that technological revolutions ultimately ..."
+  },
+  {
+   "collocation": "mobile phones",
+   "gram": "mobile-phones",
+   "function": "观点表达",
+   "gloss": "手机；移动电话",
+   "sources": [
+    {
+     "id": "B9-ADV-032",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-104",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-009",
+     "band": 8.5
+    }
+   ],
+   "docs8": 11,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Furthermore, the form and function of telephones have evolved exponentially as mobile phones nowadays are multifunctional with a wide range of activities accommodated, including internet ..."
+  },
+  {
+   "collocation": "new technologies",
+   "gram": "new-technologies",
+   "function": "观点表达",
+   "gloss": "新技术",
+   "sources": [
+    {
+     "id": "B85-ADV-024",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-048",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-090",
+     "band": 8.5
+    }
+   ],
+   "docs8": 9,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In my opinion, the primary source of this phenomenon is the financial condition of the community rather than the advent of new technologies."
+  },
+  {
+   "collocation": "digital devices",
+   "gram": "digital-devices",
+   "function": "观点表达",
+   "gloss": "数字设备",
+   "sources": [
+    {
+     "id": "B8-OP-055",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-057",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-087",
+     "band": 8.0
+    }
+   ],
+   "docs8": 8,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Parents and teachers in many countries are feeling increasingly concerned about the effect of digital devices on vital skills of school-aged children."
+  },
+  {
+   "collocation": "advanced technology",
+   "gram": "advanced-technology",
+   "function": "观点表达",
+   "gloss": "先进技术",
+   "sources": [
+    {
+     "id": "B65-ADV-028",
+     "band": 6.5
+    },
+    {
+     "id": "B65-ADV-054",
+     "band": 6.5
+    },
+    {
+     "id": "B9-DIS-016",
+     "band": 9.0
+    }
+   ],
+   "docs8": 8,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "This is perfectly exemplified in the case of putting advanced technology into practice so as to reduce wastes including unused wool and chemicals, and, use organic materials as a fuel ..."
+  },
+  {
+   "collocation": "advancements in technology",
+   "gram": "advancements-in-technology",
+   "function": "观点表达",
+   "gloss": "技术上的进步",
+   "sources": [
+    {
+     "id": "B9-OP-102",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-052",
+     "band": 9.0
+    },
+    {
+     "id": "B85-OP-040",
+     "band": 8.5
+    }
+   ],
+   "docs8": 8,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Without a ,doubt the majority of people argue that the corresponding courses are speeding up in the educational sectors since the cutting-edge exists.Due to advancements in technology many ..."
+  },
+  {
+   "collocation": "online platforms",
+   "gram": "online-platforms",
+   "function": "观点表达",
+   "gloss": "在线平台",
+   "sources": [
+    {
+     "id": "B9-ADV-031",
+     "band": 9.0
+    },
+    {
+     "id": "B8-ADV-036",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-063",
+     "band": 8.0
+    }
+   ],
+   "docs8": 8,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Nowadays, even though there are plenty of online platforms have been developed for medical education, most of the sites have not been written by professional healthcare providers."
+  },
+  {
+   "collocation": "digital communication",
+   "gram": "digital-communication",
+   "function": "观点表达",
+   "gloss": "数字通讯",
+   "sources": [
+    {
+     "id": "B75-ADV-043",
+     "band": 7.5
+    },
+    {
+     "id": "B9-OP-087",
+     "band": 9.0
+    },
+    {
+     "id": "B85-DIS-007",
+     "band": 8.5
+    }
+   ],
+   "docs8": 7,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In addition, excessive reliance on digital communication may reduce people’s ability to develop deeper emotional bonds through direct conversation, body language, and shared experiences."
+  },
+  {
+   "collocation": "screen time",
+   "gram": "screen-time",
+   "function": "观点表达",
+   "gloss": "屏幕使用时间",
+   "sources": [
+    {
+     "id": "B9-OP-084",
+     "band": 9.0
+    },
+    {
+     "id": "B75-DIS-023",
+     "band": 7.5
+    },
+    {
+     "id": "B75-OP-058",
+     "band": 7.5
+    }
+   ],
+   "docs8": 7,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "The case is almost always made in terms of protection — screen time, strangers, unsuitable material — as though a smartphone were a hazard to be kept away from small children until they ..."
+  },
+  {
+   "collocation": "digital tools",
+   "gram": "digital-tools",
+   "function": "观点表达",
+   "gloss": "数字工具",
+   "sources": [
+    {
+     "id": "B85-ADV-025",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-001",
+     "band": 8.5
+    },
+    {
+     "id": "B8-DIS-003",
+     "band": 8.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Those who use digital tools mindfully\u0014scheduling regular video calls with loved ones, sharing meaningful content, and setting boundaries on device usage\u0014can maintain deeply personal ..."
+  },
+  {
+   "collocation": "online shopping",
+   "gram": "online-shopping",
+   "function": "观点表达",
+   "gloss": "网络购物",
+   "sources": [
+    {
+     "id": "B85-OP-043",
+     "band": 8.5
+    },
+    {
+     "id": "B8-ADV-004",
+     "band": 8.0
+    },
+    {
+     "id": "B75-ADV-007",
+     "band": 7.5
+    }
+   ],
+   "docs8": 6,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "For instance, due to the increasing rate of traffic in Riyadh, Saudi Arabia, now around 90% of grocery stores offer an online shopping service that enables customers to shop for their ..."
+  },
+  {
+   "collocation": "technological developments",
+   "gram": "technological-developments",
+   "function": "观点表达",
+   "gloss": "技术发展",
+   "sources": [
+    {
+     "id": "B8-OP-002",
+     "band": 8.0
+    },
+    {
+     "id": "B7-OP-015",
+     "band": 7.0
+    },
+    {
+     "id": "B85-OP-090",
+     "band": 8.5
+    }
+   ],
+   "docs8": 6,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In conclusion, while technological developments can undoubtedly enhance the educational process, they are unlikely to make human teachers redundant."
+  },
+  {
+   "collocation": "use of computers",
+   "gram": "use-of-computers",
+   "function": "观点表达",
+   "gloss": "计算机的使用",
+   "sources": [
+    {
+     "id": "B65-OP-057",
+     "band": 6.5
+    },
+    {
+     "id": "B6-OP-054",
+     "band": 6.0
+    },
+    {
+     "id": "B8-OP-055",
+     "band": 8.0
+    }
+   ],
+   "docs8": 6,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In conclusion, although the increasing use of computers and mobile phones can provide children with valuable opportunities to develop their writing skills, excessive reliance on these ..."
+  },
+  {
+   "collocation": "digital technology",
+   "gram": "digital-technology",
+   "function": "观点表达",
+   "gloss": "数字技术",
+   "sources": [
+    {
+     "id": "B8-DIS-003",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-055",
+     "band": 8.0
+    },
+    {
+     "id": "B6-OP-054",
+     "band": 6.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "While excessive dependence on digital technology and AI can weaken independent literacy skills, responsible use of these devices can provide valuable opportunities to read widely, access ..."
+  },
+  {
+   "collocation": "electronic devices",
+   "gram": "electronic-devices",
+   "function": "观点表达",
+   "gloss": "电子设备",
+   "sources": [
+    {
+     "id": "B85-OP-083",
+     "band": 8.5
+    },
+    {
+     "id": "B75-OP-045",
+     "band": 7.5
+    },
+    {
+     "id": "B7-OP-056",
+     "band": 7.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "For example, spending excessive amounts of time watching television or using electronic devices can discourage children from participating in physical activities."
+  },
+  {
+   "collocation": "digital platforms",
+   "gram": "digital-platforms",
+   "function": "观点表达",
+   "gloss": "数字平台",
+   "sources": [
+    {
+     "id": "B75-ADV-058",
+     "band": 7.5
+    },
+    {
+     "id": "B75-OP-011",
+     "band": 7.5
+    },
+    {
+     "id": "B7-ADV-037",
+     "band": 7.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Furthermore, excessive reliance on social media and digital platforms has contributed to sedentary lifestyles, reduced face-to-face social interactions, and a noticeable rise in mental ..."
+  },
+  {
+   "collocation": "science and technology",
+   "gram": "science-and-technology",
+   "function": "观点表达",
+   "gloss": "科学与技术",
+   "sources": [
+    {
+     "id": "B85-OP-083",
+     "band": 8.5
+    },
+    {
+     "id": "B9-OP-096",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-015",
+     "band": 8.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "However, decades ago, the Taiwanese government implemented regulations that maintained financial support only for science and technology subjects."
+  },
+  {
+   "collocation": "technological devices",
+   "gram": "technological-devices",
+   "function": "观点表达",
+   "gloss": "科技设备",
+   "sources": [
+    {
+     "id": "B9-ADV-035",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-016",
+     "band": 8.5
+    },
+    {
+     "id": "B7-OP-056",
+     "band": 7.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In this modern world, many adolescents have become overly reliant on technological devices, which they use for educational purposes, entertainment, and communicating with their friends."
+  },
+  {
+   "collocation": "online courses",
+   "gram": "online-courses",
+   "function": "观点表达",
+   "gloss": "在线课程",
+   "sources": [
+    {
+     "id": "B75-ADV-045",
+     "band": 7.5
+    },
+    {
+     "id": "B75-ADV-051",
+     "band": 7.5
+    },
+    {
+     "id": "B7-OP-077",
+     "band": 7.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Furthermore, many countries now provide free online courses, making high-quality education more accessible to students and young people regardless of their location."
+  },
+  {
+   "collocation": "technology allows",
+   "gram": "technology-allows",
+   "function": "观点表达",
+   "gloss": "技术使……成为可能",
+   "sources": [
+    {
+     "id": "B75-OP-064",
+     "band": 7.5
+    },
+    {
+     "id": "B9-OP-104",
+     "band": 9.0
+    },
+    {
+     "id": "B75-ADV-045",
+     "band": 7.5
+    }
+   ],
+   "docs8": 4,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Telephones invented by Alexander Graham Bell, for instance, have altered the way pupils communicate as the technology allows them to have two-way immediate conversations despite distance."
+  },
+  {
+   "collocation": "technology companies",
+   "gram": "technology-companies",
+   "function": "观点表达",
+   "gloss": "科技公司",
+   "sources": [
+    {
+     "id": "B85-ADV-022",
+     "band": 8.5
+    },
+    {
+     "id": "B9-ADV-035",
+     "band": 9.0
+    },
+    {
+     "id": "B8-REP-029",
+     "band": 8.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "With a comparison between the way of communication by the last generations and nowadays, virtual communication is becoming more and more popular every day, as people tend to show more ..."
+  },
+  {
+   "collocation": "through the internet",
+   "gram": "through-the-internet",
+   "function": "观点表达",
+   "gloss": "通过互联网",
+   "sources": [
+    {
+     "id": "B8-ADV-015",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-069",
+     "band": 9.0
+    },
+    {
+     "id": "B9-TQ-007",
+     "band": 9.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Distance learning, as opposed to physical classes, is operated through the Internet, resulting in students and teachers not having face-to-face conversations, which deprives students of ..."
+  },
+  {
+   "collocation": "computers and mobile phones",
+   "gram": "computers-and-mobile-phones",
+   "function": "观点表达",
+   "gloss": "电脑与手机",
+   "sources": [
+    {
+     "id": "B8-OP-055",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-057",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-087",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "The increasing use of computers and mobile phones among young people for communication has raised concerns regarding its impact on their reading and writing skills."
+  },
+  {
+   "collocation": "mobile devices",
+   "gram": "mobile-devices",
+   "function": "观点表达",
+   "gloss": "移动设备",
+   "sources": [
+    {
+     "id": "B7-ADV-024",
+     "band": 7.0
+    },
+    {
+     "id": "B9-ADV-032",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-057",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In addition, spending excessive durations on mobile devices reduces opportunities for face-to-face interactions, making children feel lonely and isolated."
+  },
+  {
+   "collocation": "access to the internet",
+   "gram": "access-to-the-internet",
+   "function": "观点表达",
+   "gloss": "互联网接入",
+   "sources": [
+    {
+     "id": "B9-OP-024",
+     "band": 9.0
+    },
+    {
+     "id": "B65-DIS-031",
+     "band": 6.5
+    },
+    {
+     "id": "B8-ADV-015",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "These technologies have made it possible for those with access to the Internet to get in touch and send and receive audiovisual content by pushing just a few buttons."
+  },
+  {
+   "collocation": "advances in technology",
+   "gram": "advances-in-technology",
+   "function": "观点表达",
+   "gloss": "技术的进步",
+   "sources": [
+    {
+     "id": "B8-ADV-011",
+     "band": 8.0
+    },
+    {
+     "id": "B8-TQ-009",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Due to the rapid advances in technology, scientists and engineers have been able to develop several alternatives to fossil fuel, such as cars powered by electricity or naturally produced ..."
+  },
+  {
+   "collocation": "digital age",
+   "gram": "digital-age",
+   "function": "观点表达",
+   "gloss": "数字时代",
+   "sources": [
+    {
+     "id": "B85-OP-001",
+     "band": 8.5
+    },
+    {
+     "id": "B9-OP-007",
+     "band": 9.0
+    },
+    {
+     "id": "B85-OP-022",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In the digital age, the shift towards online content is trending, raising questions about the future of printed newspapers and books."
+  },
+  {
+   "collocation": "information online",
+   "gram": "information-online",
+   "function": "观点表达",
+   "gloss": "线上信息；在线存储的信息",
+   "sources": [
+    {
+     "id": "B85-OP-069",
+     "band": 8.5
+    },
+    {
+     "id": "B85-ADV-016",
+     "band": 8.5
+    },
+    {
+     "id": "B8-ADV-036",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In other words, the availability of medical information online has empowered individuals to take control of their health, making medical advice more accessible and convenient."
+  },
+  {
+   "collocation": "messaging applications",
+   "gram": "messaging-applications",
+   "function": "观点表达",
+   "gloss": "即时通讯应用",
+   "sources": [
+    {
+     "id": "B8-DIS-003",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-063",
+     "band": 8.0
+    },
+    {
+     "id": "B75-ADV-043",
+     "band": 7.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Although some people argue that messaging applications make staying in touch effortless, I believe that this convenience destroys offline communities because individuals prefer virtual ..."
+  },
+  {
+   "collocation": "online entertainment",
+   "gram": "online-entertainment",
+   "function": "观点表达",
+   "gloss": "在线娱乐",
+   "sources": [
+    {
+     "id": "B7-DIS-030",
+     "band": 7.0
+    },
+    {
+     "id": "B6-DIS-022",
+     "band": 6.0
+    },
+    {
+     "id": "B8-OP-063",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "While it is commonly held that online entertainment is free at any time, there is also an argument that physical attendance at cinemas and theatres is crucially important for the government."
+  },
+  {
+   "collocation": "online libraries",
+   "gram": "online-libraries",
+   "function": "观点表达",
+   "gloss": "在线图书馆",
+   "sources": [
+    {
+     "id": "B9-OP-102",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-016",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Now that many breakthrough inventions accomplished in this era, readers can now have access to the rarest readings and books in the world through numerous websites and online libraries."
+  },
+  {
+   "collocation": "online stores",
+   "gram": "online-stores",
+   "function": "观点表达",
+   "gloss": "在线商店；网店",
+   "sources": [
+    {
+     "id": "B85-OP-080",
+     "band": 8.5
+    },
+    {
+     "id": "B8-DIS-019",
+     "band": 8.0
+    },
+    {
+     "id": "B8-ADV-004",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "For instance, the Saudi website Salla enables small businesses to create online stores and sell their products or services from home, reducing the costs associated with opening a physical ..."
+  },
+  {
+   "collocation": "technological progress",
+   "gram": "technological-progress",
+   "function": "观点表达",
+   "gloss": "技术进步",
+   "sources": [
+    {
+     "id": "B75-DIS-005",
+     "band": 7.5
+    },
+    {
+     "id": "B85-OP-069",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-090",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Pessimists predict widespread job losses and social dislocation, while optimists draw on historical precedent to argue that technological progress consistently generates more opportunities ..."
+  },
+  {
+   "collocation": "technology itself",
+   "gram": "technology-itself",
+   "function": "观点表达",
+   "gloss": "技术本身",
+   "sources": [
+    {
+     "id": "B7-OP-032",
+     "band": 7.0
+    },
+    {
+     "id": "B85-OP-001",
+     "band": 8.5
+    },
+    {
+     "id": "B8-DIS-003",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 2,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In my view, the isolating effects of technology are real but contingent — they are a consequence of how technology is used, not an inherent property of the technology itself."
+  },
+  {
+   "collocation": "use of smartphones",
+   "gram": "use-of-smartphones",
+   "function": "观点表达",
+   "gloss": "智能手机的使用",
+   "sources": [
+    {
+     "id": "B9-ADV-031",
+     "band": 9.0
+    },
+    {
+     "id": "B85-OP-069",
+     "band": 8.5
+    },
+    {
+     "id": "B7-ADV-024",
+     "band": 7.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Moreover, many aspects point to the use of smartphones and other digital devices being detrimental to a child’s upbringing, particularly considering the exposure to online content and ..."
+  },
+  {
+   "collocation": "use of technology",
+   "gram": "use-of-technology",
+   "function": "观点表达",
+   "gloss": "技术的使用",
+   "sources": [
+    {
+     "id": "B6-OP-073",
+     "band": 6.0
+    },
+    {
+     "id": "B9-OP-087",
+     "band": 9.0
+    },
+    {
+     "id": "B85-OP-069",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Responsible and mindful use of technology can enhance our social lives without diminishing the quality of our personal connections."
+  },
+  {
+   "collocation": "offering online courses",
+   "gram": "offering-online-courses",
+   "function": "观点表达",
+   "gloss": "提供在线课程",
+   "sources": [
+    {
+     "id": "B85-ADV-030",
+     "band": 8.5
+    },
+    {
+     "id": "B9-TQ-007",
+     "band": 9.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In the era of technology, institutes, universities, colleges and schools are offering online courses for many people."
+  },
+  {
+   "collocation": "technology is used",
+   "gram": "technology-is-used",
+   "function": "观点表达",
+   "gloss": "技术被使用",
+   "sources": [
+    {
+     "id": "B8-DIS-003",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-051",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In my view, the isolating effects of technology are real but contingent — they are a consequence of how technology is used, not an inherent property of the technology itself."
+  },
+  {
+   "collocation": "era of technology",
+   "gram": "era-of-technology",
+   "function": "观点表达",
+   "gloss": "技术时代",
+   "sources": [
+    {
+     "id": "B8-TQ-011",
+     "band": 8.0
+    },
+    {
+     "id": "B85-ADV-030",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Living in the era of technology, the wide availability and variety of online entertainment are compelling young people to spend a lot of their free time indoors, using their gadgets."
+  },
+  {
+   "collocation": "excessive screen",
+   "gram": "excessive-screen",
+   "function": "观点表达",
+   "gloss": "过度的屏幕使用",
+   "sources": [
+    {
+     "id": "B9-ADV-032",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-063",
+     "band": 8.0
+    },
+    {
+     "id": "B7-ADV-037",
+     "band": 7.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "This is mainly because digital connections lack authentic emotional depth , and excessive screen exposure displaces healthy real-world engagement."
+  },
+  {
+   "collocation": "free online",
+   "gram": "free-online",
+   "function": "观点表达",
+   "gloss": "免费在线",
+   "sources": [
+    {
+     "id": "B9-OP-054",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-024",
+     "band": 8.5
+    },
+    {
+     "id": "B75-ADV-051",
+     "band": 7.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 1,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "While there are some people who have the money to spend 30 dollars on an album, there are also individuals who cannot afford that book so, for them, a free online PDF version is the best ..."
+  },
+  {
+   "collocation": "software engineering",
+   "gram": "software-engineering",
+   "function": "观点表达",
+   "gloss": "软件工程",
+   "sources": [
+    {
+     "id": "B8-OP-009",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-066",
+     "band": 8.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 0,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "More recently, the demonstrated capabilities of artificial intelligence and large language models have begun challenging workers in fields previously considered resistant to automation ..."
+  }
+ ]
+}

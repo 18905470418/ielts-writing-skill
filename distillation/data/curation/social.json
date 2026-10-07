@@ -1,0 +1,1584 @@
+{
+ "topic": "social",
+ "viewpoints": [
+  {
+   "claim": "大量农村人口迁入城市虽出于就业与收入动机，却同时削弱农村的服务与农业，并推高城市的住房与基础设施压力。",
+   "tendency": "条件性",
+   "chain": "城市集中了就业、教育与医疗 → 年轻人持续外流使农村税基与劳动力流失 → 城市住房、交通与公共服务承压，形成互相强化的恶性循环",
+   "task_types": [
+    "two-part",
+    "adv-disadv",
+    "report"
+   ],
+   "sources": [
+    {
+     "id": "B8-ADV-001",
+     "band": 8.0
+    },
+    {
+     "id": "B85-ADV-006",
+     "band": 8.5
+    },
+    {
+     "id": "B9-ADV-014",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "rural areas",
+    "urban areas",
+    "rural communities",
+    "job opportunities"
+   ]
+  },
+  {
+   "claim": "城市人口过快增长会挤压住房、交通与公共设施，使居民的生活条件与空气质量同步恶化。",
+   "tendency": "反对",
+   "chain": "人口短时间集中涌入 → 住房与公共设施供给跟不上 → 居住条件下降、通勤与污染问题加剧",
+   "task_types": [
+    "report",
+    "adv-disadv",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-REP-023",
+     "band": 9.0
+    },
+    {
+     "id": "B85-REP-012",
+     "band": 8.5
+    },
+    {
+     "id": "B9-ADV-030",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "urban areas",
+    "big cities",
+    "residents",
+    "living conditions",
+    "public services"
+   ]
+  },
+  {
+   "claim": "老龄化同时抬高医疗与养老金支出并缩小纳税的就业人口比例，公共财政因此需要重新分配资源。",
+   "tendency": "中立",
+   "chain": "老年人口增加带来更多医疗与照护需求 → 养老金与医保支出上升而劳动人口比例下降 → 税负加重，政府须调整退休年龄或预算结构",
+   "task_types": [
+    "report",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-004",
+     "band": 9.0
+    },
+    {
+     "id": "B8-REP-009",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-062",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "ageing population",
+    "elderly people",
+    "retirement age",
+    "health care systems",
+    "working adults"
+   ]
+  },
+  {
+   "claim": "老年人仍是可用的劳动力与经验来源，继续聘用或再聘用他们有助于缓解用工短缺并传承经验。",
+   "tendency": "支持",
+   "chain": "年长员工积累了行业经验与历史记忆 → 再聘用填补紧缺岗位并带教年轻人 → 企业获得经验传承，社会减轻养老负担",
+   "task_types": [
+    "opinion",
+    "adv-disadv"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-033",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-010",
+     "band": 8.5
+    },
+    {
+     "id": "B8-OP-033",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "older workers",
+    "younger generations",
+    "working life",
+    "workplace"
+   ]
+  },
+  {
+   "claim": "发展公共交通与减少私家车依赖能同时缓解拥堵、改善空气质量并提升国民健康。",
+   "tendency": "支持",
+   "chain": "公交与轨道网络分担出行需求 → 道路车辆与尾气排放下降 → 空气质量与公共健康改善，通勤效率提高",
+   "task_types": [
+    "opinion",
+    "adv-disadv"
+   ],
+   "sources": [
+    {
+     "id": "B9-ADV-017",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-017",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-042",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "public transport",
+    "public transportation",
+    "air quality",
+    "private cars",
+    "public health"
+   ]
+  },
+  {
+   "claim": "把市中心空间从私家车转向步行、骑行与公共交通，通常使街区更繁荣，但须照顾行动不便者的需要。",
+   "tendency": "条件性",
+   "chain": "市中心土地稀缺而车道占用大量空间 → 改作步行街、自行车道与公交后人流与商业回升 → 但轮椅使用者与货运、夜班人群需要例外的通行安排",
+   "task_types": [
+    "opinion",
+    "adv-disadv",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-078",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-065",
+     "band": 9.0
+    },
+    {
+     "id": "B85-DIS-009",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "city centre",
+    "public transport",
+    "public transportation",
+    "congestion"
+   ]
+  },
+  {
+   "claim": "年轻人进入稳定就业的门槛在升高，高校偏重学术、企业要求经验与自动化替代共同压缩了机会。",
+   "tendency": "反对",
+   "chain": "学校重理论而轻实践 → 企业不愿为缺乏经验的新人投入培训 → 自动化进一步替代初级岗位，青年求职更难",
+   "task_types": [
+    "report",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B8-REP-010",
+     "band": 8.0
+    },
+    {
+     "id": "B85-DIS-002",
+     "band": 8.5
+    },
+    {
+     "id": "B85-TQ-002",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "job market",
+    "labour market",
+    "employment opportunities"
+   ]
+  },
+  {
+   "claim": "青少年的社交与成长深受同龄人和数字媒介影响，既能获得技能与认同，也可能陷入风险行为与孤独。",
+   "tendency": "中立",
+   "chain": "青少年高度在意同伴认可 → 正面同伴推动学业与健康习惯，负面压力诱导冒险行为 → 社交媒介放大影响并可能侵蚀真实交往与家庭时间",
+   "task_types": [
+    "adv-disadv",
+    "discussion",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B85-ADV-043",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-035",
+     "band": 8.5
+    },
+    {
+     "id": "B85-DIS-032",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "young people",
+    "youngsters",
+    "teenagers",
+    "social life"
+   ]
+  },
+  {
+   "claim": "义务社区服务能培养责任感与同理心，并让年轻人在课堂之外获得可迁移的生活技能。",
+   "tendency": "支持",
+   "chain": "学生在服务中直面他人的需要 → 抽象的道德教育转化为真实体验 → 责任感、同理心与生活技能内化，并让升学申请更具辨识度",
+   "task_types": [
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-088",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-064",
+     "band": 8.0
+    },
+    {
+     "id": "B85-OP-056",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "community service",
+    "life skills",
+    "sense of responsibility",
+    "character development"
+   ]
+  },
+  {
+   "claim": "富裕国家接收难民并提供基本援助，既缓解人道危机，也能为接收国补充劳动力并扩大经济产出。",
+   "tendency": "支持",
+   "chain": "富国具备住房、教育与就业资源 → 难民安置后创业、就业并带来多元技能 → 本地社区获益，经济总量上升",
+   "task_types": [
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B85-OP-100",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-101",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-102",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "refugees",
+    "local community",
+    "labour force",
+    "productivity level"
+   ]
+  },
+  {
+   "claim": "贫困与失业互为因果，缺少基本生活必需品会使家庭难以积累人力资本，从而固化代际劣势。",
+   "tendency": "反对",
+   "chain": "失业使家庭收入中断 → 基本生活必需品与教育投入受限 → 下一代就业能力下降，贫困在代际间延续",
+   "task_types": [
+    "report",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-DIS-005",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-026",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-046",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "poverty",
+    "unemployment"
+   ]
+  },
+  {
+   "claim": "现代职场竞争与随时在线的工作文化拉长工时，使人们与家人相处和共同活动的时间被压缩。",
+   "tendency": "反对",
+   "chain": "工作要求更长工时且技术使工作随时可达 → 工作与私人生活边界模糊，异地求学就业增多 → 与家人相处时间减少，情感联结弱化",
+   "task_types": [
+    "report",
+    "discussion"
+   ],
+   "sources": [
+    {
+     "id": "B8-REP-027",
+     "band": 8.0
+    },
+    {
+     "id": "B8-ADV-007",
+     "band": 8.0
+    },
+    {
+     "id": "B85-OP-091",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "family members",
+    "higher education",
+    "workplace"
+   ]
+  },
+  {
+   "claim": "大城市住房短缺源于人口持续流入与土地供给有限，高层住宅能提高土地效率但也会带来居住品质问题。",
+   "tendency": "中立",
+   "chain": "人口流入推高需求而城市土地稀缺 → 向上建造提高人口密度并增加可负担住房 → 但密集居住也带来消防、采光与社区感薄弱等问题",
+   "task_types": [
+    "report",
+    "opinion",
+    "adv-disadv"
+   ],
+   "sources": [
+    {
+     "id": "B85-REP-013",
+     "band": 8.5
+    },
+    {
+     "id": "B8-OP-061",
+     "band": 8.0
+    },
+    {
+     "id": "B9-ADV-030",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "housing shortage",
+    "apartment blocks",
+    "high rise",
+    "population density"
+   ]
+  },
+  {
+   "claim": "个人储蓄与养老理财能带来退休后的财务安全，并减轻公共养老金对财政的挤压。",
+   "tendency": "支持",
+   "chain": "在职时定期储蓄与投资 → 退休后拥有更强的自主与财务安全 → 国家养老金压力下降，公共资源可投向其他领域",
+   "task_types": [
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B9-OP-046",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-030",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-026",
+     "band": 8.0
+    }
+   ],
+   "collocations": [
+    "financial stability",
+    "financial security",
+    "personal savings",
+    "financial independence"
+   ]
+  },
+  {
+   "claim": "经济发展提高了收入与预期寿命，但其收益未必能保护传统生活方式与本地社区价值。",
+   "tendency": "条件性",
+   "chain": "工业化与增长带来就业、收入和更好的医疗 → 生活水平与寿命提升 → 传统饮食、地方认同等难以定价的价值可能同时流失",
+   "task_types": [
+    "adv-disadv",
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B85-ADV-028",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-101",
+     "band": 8.5
+    },
+    {
+     "id": "B9-REP-025",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "economic development",
+    "living standards",
+    "life expectancy",
+    "economic growth"
+   ]
+  },
+  {
+   "claim": "税收为医疗、教育、交通等公共服务提供资金，并通过再分配为低收入者提供基本保障。",
+   "tendency": "支持",
+   "chain": "个人收入税构成公共财政的主要来源 → 政府以此建设基础设施与福利项目 → 累进税制补贴弱势群体，社会更公平",
+   "task_types": [
+    "opinion"
+   ],
+   "sources": [
+    {
+     "id": "B85-OP-058",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-047",
+     "band": 8.5
+    },
+    {
+     "id": "B9-DIS-009",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "public services",
+    "income tax",
+    "basic facilities",
+    "essential services"
+   ]
+  },
+  {
+   "claim": "道路安全不能只靠降低限速或年龄限制，还需罚款、反酒驾技术与驾驶教育等配套措施共同发力。",
+   "tendency": "条件性",
+   "chain": "事故成因包含超速、酒驾与驾驶习惯等多重因素 → 单一限制手段覆盖不足 → 罚款、点火锁与安全宣传需协同作用",
+   "task_types": [
+    "opinion",
+    "adv-disadv"
+   ],
+   "sources": [
+    {
+     "id": "B8-TQ-010",
+     "band": 8.0
+    },
+    {
+     "id": "B8-ADV-020",
+     "band": 8.0
+    },
+    {
+     "id": "B85-TQ-008",
+     "band": 8.5
+    }
+   ],
+   "collocations": [
+    "road safety",
+    "speed limits",
+    "heavy fines",
+    "road rules"
+   ]
+  },
+  {
+   "claim": "把家务与照看孩子外包给专业人士，既为家庭换回时间，也为低技能劳动者创造就业与收入。",
+   "tendency": "支持",
+   "chain": "双职工家庭时间紧张 → 付费外包家务与育儿使家庭专注事业与休息 → 清洁、照护等行业新增岗位，受雇者获得经济独立",
+   "task_types": [
+    "two-part"
+   ],
+   "sources": [
+    {
+     "id": "B85-TQ-002",
+     "band": 8.5
+    },
+    {
+     "id": "B85-TQ-004",
+     "band": 8.5
+    },
+    {
+     "id": "B9-OP-046",
+     "band": 9.0
+    }
+   ],
+   "collocations": [
+    "household chores",
+    "childcare",
+    "employment opportunities",
+    "financial independence"
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "collocation": "young people",
+   "function": "观点表达",
+   "gloss": "年轻人",
+   "sources": [
+    {
+     "id": "B9-OP-048",
+     "band": 9.0
+    },
+    {
+     "id": "B85-TQ-008",
+     "band": 8.5
+    },
+    {
+     "id": "B8-DIS-012",
+     "band": 8.0
+    }
+   ],
+   "docs8": 17,
+   "docs75": 24,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "On one hand, by selecting the most intelligent students and reshuffling classes, these young people can get the best resources, the best materials, and more opportunities, boosting ..."
+  },
+  {
+   "collocation": "residents",
+   "function": "观点表达",
+   "gloss": "居民",
+   "sources": [
+    {
+     "id": "B9-ADV-010",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-071",
+     "band": 9.0
+    },
+    {
+     "id": "B85-DIS-015",
+     "band": 8.5
+    }
+   ],
+   "docs8": 15,
+   "docs75": 23,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "A majority of government agencies opt for letters as an official way to notify residents and other governing powers."
+  },
+  {
+   "collocation": "poverty",
+   "function": "观点表达",
+   "gloss": "贫困",
+   "sources": [
+    {
+     "id": "B9-OP-009",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-037",
+     "band": 9.0
+    },
+    {
+     "id": "B9-DIS-005",
+     "band": 9.0
+    }
+   ],
+   "docs8": 11,
+   "docs75": 14,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Homelessness and poverty is a terrible but topical issue in both more economically advanced and less industrialised countries."
+  },
+  {
+   "collocation": "healthcare",
+   "function": "观点表达",
+   "gloss": "医疗保健",
+   "sources": [
+    {
+     "id": "B85-REP-024",
+     "band": 8.5
+    },
+    {
+     "id": "B8-OP-026",
+     "band": 8.0
+    },
+    {
+     "id": "B9-ADV-006",
+     "band": 9.0
+    }
+   ],
+   "docs8": 11,
+   "docs75": 17,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "For example, Denmark and Finland are two of the developed countries that can ensure pensions and healthcare effectively thanks to long-term tax payments from younger workers."
+  },
+  {
+   "collocation": "youngsters",
+   "function": "观点表达",
+   "gloss": "年轻人",
+   "sources": [
+    {
+     "id": "B85-OP-070",
+     "band": 8.5
+    },
+    {
+     "id": "B8-DIS-007",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-002",
+     "band": 9.0
+    }
+   ],
+   "docs8": 10,
+   "docs75": 11,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Despite the disadvantages associated with students' hectic schedules, I believe that this approach is a good way to discover young musical talents and provide healthy pastimes for ..."
+  },
+  {
+   "collocation": "young adults",
+   "function": "观点表达",
+   "gloss": "年轻成年人",
+   "sources": [
+    {
+     "id": "B85-ADV-043",
+     "band": 8.5
+    },
+    {
+     "id": "B8-REP-010",
+     "band": 8.0
+    },
+    {
+     "id": "B9-ADV-006",
+     "band": 9.0
+    }
+   ],
+   "docs8": 9,
+   "docs75": 10,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In recent years, there has been a demographic trend that shows a larger proportion of young adults than that of older people."
+  },
+  {
+   "collocation": "rural areas",
+   "function": "观点表达",
+   "gloss": "农村地区",
+   "sources": [
+    {
+     "id": "B85-REP-013",
+     "band": 8.5
+    },
+    {
+     "id": "B9-ADV-014",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-022",
+     "band": 9.0
+    }
+   ],
+   "docs8": 9,
+   "docs75": 11,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In fact, it not only poses a significant threat to the quality of air and individuals' mentality but also to the nation's food supplies and economy; therefore, improving rural areas to ..."
+  },
+  {
+   "collocation": "teenagers",
+   "function": "观点表达",
+   "gloss": "青少年",
+   "sources": [
+    {
+     "id": "B85-ADV-011",
+     "band": 8.5
+    },
+    {
+     "id": "B85-DIS-014",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-035",
+     "band": 8.5
+    }
+   ],
+   "docs8": 9,
+   "docs75": 9,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "For example, teenagers who engage in skateboarding and are often taught to get up after they fall show stronger perseverance than their peers."
+  },
+  {
+   "collocation": "urban areas",
+   "function": "观点表达",
+   "gloss": "城市地区",
+   "sources": [
+    {
+     "id": "B9-ADV-014",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-022",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-023",
+     "band": 9.0
+    }
+   ],
+   "docs8": 8,
+   "docs75": 11,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "The debate over the implications of the migration of people from rural to urban areas has sparked considerable controversy."
+  },
+  {
+   "collocation": "workplace",
+   "function": "观点表达",
+   "gloss": "职场",
+   "sources": [
+    {
+     "id": "B85-REP-012",
+     "band": 8.5
+    },
+    {
+     "id": "B9-OP-033",
+     "band": 9.0
+    },
+    {
+     "id": "B85-OP-091",
+     "band": 8.5
+    }
+   ],
+   "docs8": 7,
+   "docs75": 8,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Their presence in various sectors brings a balance of skills and perspectives, often leading to more innovative and empathetic workplace cultures."
+  },
+  {
+   "collocation": "senior citizens",
+   "function": "观点表达",
+   "gloss": "老年公民",
+   "sources": [
+    {
+     "id": "B85-ADV-007",
+     "band": 8.5
+    },
+    {
+     "id": "B9-OP-033",
+     "band": 9.0
+    },
+    {
+     "id": "B85-REP-024",
+     "band": 8.5
+    }
+   ],
+   "docs8": 6,
+   "docs75": 6,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Firstly, senior citizens are invaluable repositories of wisdom and experience, which they impart to younger generations."
+  },
+  {
+   "collocation": "standard of living",
+   "function": "观点表达",
+   "gloss": "生活水平",
+   "sources": [
+    {
+     "id": "B9-OP-017",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-046",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-006",
+     "band": 8.5
+    }
+   ],
+   "docs8": 5,
+   "docs75": 7,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "A rise in prices in all these areas would seriously affect the standard of living of families with limited income and would mean the poorer parts of society would become even poorer."
+  },
+  {
+   "collocation": "workforce",
+   "function": "观点表达",
+   "gloss": "劳动力",
+   "sources": [
+    {
+     "id": "B85-OP-098",
+     "band": 8.5
+    },
+    {
+     "id": "B9-ADV-006",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-033",
+     "band": 9.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 7,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "The essay will first demonstrate that this shift comes with a more competitive workforce and that it brings added benefits to social welfare, followed by an analysis of how the primary ..."
+  },
+  {
+   "collocation": "financial burden",
+   "function": "原因结果",
+   "gloss": "财务负担",
+   "sources": [
+    {
+     "id": "B85-OP-096",
+     "band": 8.5
+    },
+    {
+     "id": "B8-DIS-008",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-007",
+     "band": 8.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 6,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In fact, according to some surveys, about 40% of employees do not have any savings, which makes them have to lend or sell their properties to handle unexpected situations which often ..."
+  },
+  {
+   "collocation": "congestion",
+   "function": "原因结果",
+   "gloss": "拥堵",
+   "sources": [
+    {
+     "id": "B85-OP-066",
+     "band": 8.5
+    },
+    {
+     "id": "B9-ADV-014",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-078",
+     "band": 9.0
+    }
+   ],
+   "docs8": 5,
+   "docs75": 8,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "The repercussions of this migration extend beyond the exacerbated air quality and street congestions, and impact the countries' food supplies."
+  },
+  {
+   "collocation": "younger generation",
+   "function": "观点表达",
+   "gloss": "年轻一代",
+   "sources": [
+    {
+     "id": "B9-OP-033",
+     "band": 9.0
+    },
+    {
+     "id": "B8-ADV-006",
+     "band": 8.0
+    },
+    {
+     "id": "B9-ADV-006",
+     "band": 9.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 7,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Firstly, senior citizens are invaluable repositories of wisdom and experience, which they impart to younger generations."
+  },
+  {
+   "collocation": "ageing population",
+   "function": "原因结果",
+   "gloss": "人口老龄化",
+   "sources": [
+    {
+     "id": "B85-ADV-010",
+     "band": 8.5
+    },
+    {
+     "id": "B9-ADV-006",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-033",
+     "band": 9.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 5,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Furthermore, the younger generation helps ease the burden of welfare dependency that has resulted from an ageing population, as they can support the government through their tax liability."
+  },
+  {
+   "collocation": "family members",
+   "function": "观点表达",
+   "gloss": "家庭成员",
+   "sources": [
+    {
+     "id": "B9-OP-006",
+     "band": 9.0
+    },
+    {
+     "id": "B8-REP-027",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-030",
+     "band": 8.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 5,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "When deciding which university to attend and what subject to study, I completely ignored all the advice and instructions given by my family members and teachers, and I ended up ..."
+  },
+  {
+   "collocation": "family and friends",
+   "function": "观点表达",
+   "gloss": "家人和朋友",
+   "sources": [
+    {
+     "id": "B85-OP-026",
+     "band": 8.5
+    },
+    {
+     "id": "B85-DIS-032",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-096",
+     "band": 8.5
+    }
+   ],
+   "docs8": 4,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "First of all, having an emergency fund is very helpful in urgent cases like being sacked, being sick or helping family and friends."
+  },
+  {
+   "collocation": "community service",
+   "function": "措施建议",
+   "gloss": "社区服务",
+   "sources": [
+    {
+     "id": "B9-OP-088",
+     "band": 9.0
+    },
+    {
+     "id": "B85-OP-056",
+     "band": 8.5
+    },
+    {
+     "id": "B8-OP-064",
+     "band": 8.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 5,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In the current era, some individuals firmly believe that high school students must participate in voluntary community service."
+  },
+  {
+   "collocation": "financial stability",
+   "function": "评价判断",
+   "gloss": "财务稳定",
+   "sources": [
+    {
+     "id": "B85-ADV-035",
+     "band": 8.5
+    },
+    {
+     "id": "B8-DIS-039",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-046",
+     "band": 9.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "The most effective approach is one that combines personal responsibility with a publicly funded safety net, thereby ensuring financial stability and a dignified standard of living for ..."
+  },
+  {
+   "collocation": "high rise",
+   "function": "观点表达",
+   "gloss": "高层",
+   "sources": [
+    {
+     "id": "B8-OP-053",
+     "band": 8.0
+    },
+    {
+     "id": "B9-ADV-030",
+     "band": 9.0
+    },
+    {
+     "id": "B85-DIS-009",
+     "band": 8.5
+    }
+   ],
+   "docs8": 4,
+   "docs75": 5,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "High-rise apartment blocks are a common sight in cities around the world."
+  },
+  {
+   "collocation": "big cities",
+   "function": "观点表达",
+   "gloss": "大城市",
+   "sources": [
+    {
+     "id": "B9-OP-065",
+     "band": 9.0
+    },
+    {
+     "id": "B9-ADV-030",
+     "band": 9.0
+    },
+    {
+     "id": "B85-REP-013",
+     "band": 8.5
+    }
+   ],
+   "docs8": 4,
+   "docs75": 5,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "It is agreed that the metro is the best way to get around big cities."
+  },
+  {
+   "collocation": "city centre",
+   "function": "观点表达",
+   "gloss": "市中心",
+   "sources": [
+    {
+     "id": "B9-OP-078",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-022",
+     "band": 9.0
+    },
+    {
+     "id": "B85-REP-012",
+     "band": 8.5
+    }
+   ],
+   "docs8": 4,
+   "docs75": 8,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "A city centre is a fixed quantity of land."
+  },
+  {
+   "collocation": "society as a whole",
+   "function": "观点表达",
+   "gloss": "整个社会",
+   "sources": [
+    {
+     "id": "B85-TQ-002",
+     "band": 8.5
+    },
+    {
+     "id": "B8-ADV-025",
+     "band": 8.0
+    },
+    {
+     "id": "B9-ADV-017",
+     "band": 9.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "It has had various positive effects for both individuals and for society as a whole."
+  },
+  {
+   "collocation": "basic necessities",
+   "function": "评价判断",
+   "gloss": "基本生活必需品",
+   "sources": [
+    {
+     "id": "B85-OP-047",
+     "band": 8.5
+    },
+    {
+     "id": "B9-OP-074",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-023",
+     "band": 9.0
+    }
+   ],
+   "docs8": 4,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Opposing this is the view that each country is in charge of their own inhabitants and that therefore they need to provide health, education and basic necessities for themselves."
+  },
+  {
+   "collocation": "essential services",
+   "function": "评价判断",
+   "gloss": "基本服务",
+   "sources": [
+    {
+     "id": "B85-DIS-018",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-047",
+     "band": 8.5
+    },
+    {
+     "id": "B85-TQ-002",
+     "band": 8.5
+    }
+   ],
+   "docs8": 4,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Moreover, citizens easily have access to essential services, healthcare, public transportation and educational institutions."
+  },
+  {
+   "collocation": "overpopulation",
+   "function": "原因结果",
+   "gloss": "人口过剩",
+   "sources": [
+    {
+     "id": "B9-OP-099",
+     "band": 9.0
+    },
+    {
+     "id": "B8-ADV-001",
+     "band": 8.0
+    },
+    {
+     "id": "B85-OP-066",
+     "band": 8.5
+    }
+   ],
+   "docs8": 4,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "The foremost is the ramifications related to overpopulation, leading to a lack of housing and forcing many people to live in ghettos or deteriorating old buildings."
+  },
+  {
+   "collocation": "living standards",
+   "function": "评价判断",
+   "gloss": "生活水平",
+   "sources": [
+    {
+     "id": "B9-ADV-014",
+     "band": 9.0
+    },
+    {
+     "id": "B85-OP-102",
+     "band": 8.5
+    },
+    {
+     "id": "B85-ADV-028",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Additionally, the crowdedness negatively affects the residents' mental well-being and living standards."
+  },
+  {
+   "collocation": "living conditions",
+   "function": "评价判断",
+   "gloss": "居住条件",
+   "sources": [
+    {
+     "id": "B9-ADV-030",
+     "band": 9.0
+    },
+    {
+     "id": "B9-REP-025",
+     "band": 9.0
+    },
+    {
+     "id": "B85-ADV-028",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "In some city neighbourhoods, these living spaces can often be associated with poor living conditions and undesirable social elements."
+  },
+  {
+   "collocation": "private cars",
+   "function": "观点表达",
+   "gloss": "私家车",
+   "sources": [
+    {
+     "id": "B85-ADV-042",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-066",
+     "band": 8.5
+    },
+    {
+     "id": "B8-OP-061",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "For example, a prominent scientist once stated that people will travel more by public transport instead of private cars when public shipping becomes less expensive, and this reduces air ..."
+  },
+  {
+   "collocation": "tall buildings",
+   "function": "观点表达",
+   "gloss": "高楼",
+   "sources": [
+    {
+     "id": "B85-DIS-009",
+     "band": 8.5
+    },
+    {
+     "id": "B9-ADV-030",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-053",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "For example, in the case of fire, tall buildings are difficult or impossible to evacuate safely."
+  },
+  {
+   "collocation": "major cities",
+   "function": "观点表达",
+   "gloss": "主要城市",
+   "sources": [
+    {
+     "id": "B9-REP-022",
+     "band": 9.0
+    },
+    {
+     "id": "B8-ADV-026",
+     "band": 8.0
+    },
+    {
+     "id": "B8-OP-061",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "To begin with the cause, major cities attract people by providing a high-quality  education and lots of job opportunities."
+  },
+  {
+   "collocation": "developing countries",
+   "function": "观点表达",
+   "gloss": "发展中国家",
+   "sources": [
+    {
+     "id": "B9-REP-023",
+     "band": 9.0
+    },
+    {
+     "id": "B85-TQ-004",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-003",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Firstly, the burgeoning population in developing countries exacerbates existing issues of poverty, inadequate healthcare, and insufficient educational opportunities."
+  },
+  {
+   "collocation": "developed countries",
+   "function": "观点表达",
+   "gloss": "发达国家",
+   "sources": [
+    {
+     "id": "B9-ADV-006",
+     "band": 9.0
+    },
+    {
+     "id": "B8-REP-009",
+     "band": 8.0
+    },
+    {
+     "id": "B9-OP-074",
+     "band": 9.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "For example, Denmark and Finland are two of the developed countries that can ensure pensions and healthcare effectively thanks to long-term tax payments from younger workers."
+  },
+  {
+   "collocation": "children need",
+   "function": "措施建议",
+   "gloss": "儿童需要",
+   "sources": [
+    {
+     "id": "B9-DIS-010",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-042",
+     "band": 9.0
+    },
+    {
+     "id": "B85-DIS-032",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "A grandparent brings a relationship that predates the arrangement, an attention ratio of one to one, and a tolerance for the slow, repetitive company small children need and paid staff ..."
+  },
+  {
+   "collocation": "developing nations",
+   "function": "观点表达",
+   "gloss": "发展中国家",
+   "sources": [
+    {
+     "id": "B85-ADV-006",
+     "band": 8.5
+    },
+    {
+     "id": "B85-ADV-028",
+     "band": 8.5
+    },
+    {
+     "id": "B85-TQ-002",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 4,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "For instance, in many developing nations such as India, young individuals from villages often migrate to metropolitan areas like Mumbai or Delhi to secure jobs in the manufacturing or ..."
+  },
+  {
+   "collocation": "poorer countries",
+   "function": "观点表达",
+   "gloss": "较贫穷国家",
+   "sources": [
+    {
+     "id": "B9-OP-074",
+     "band": 9.0
+    },
+    {
+     "id": "B85-OP-003",
+     "band": 8.5
+    },
+    {
+     "id": "B85-TQ-004",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Due to this dependence on poorer countries and the influence that the richer countries have had on the imbalance, it can be concluded that richer countries are indeed morally obliged to ..."
+  },
+  {
+   "collocation": "financial independence",
+   "function": "评价判断",
+   "gloss": "经济独立",
+   "sources": [
+    {
+     "id": "B9-OP-046",
+     "band": 9.0
+    },
+    {
+     "id": "B8-ADV-007",
+     "band": 8.0
+    },
+    {
+     "id": "B85-TQ-002",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "I partially disagree with this view because personal retirement planning promotes financial independence, whereas state support is indispensable for protecting elderly citizens who are ..."
+  },
+  {
+   "collocation": "neighbourhoods",
+   "function": "评价判断",
+   "gloss": "社区",
+   "sources": [
+    {
+     "id": "B9-REP-009",
+     "band": 9.0
+    },
+    {
+     "id": "B9-ADV-030",
+     "band": 9.0
+    },
+    {
+     "id": "B8-OP-061",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 5,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Retirement removes the largest single source of this at once, and the redesign of neighbourhoods around driving has quietly removed most of the remainder."
+  },
+  {
+   "collocation": "childcare",
+   "function": "观点表达",
+   "gloss": "儿童照护",
+   "sources": [
+    {
+     "id": "B9-ADV-009",
+     "band": 9.0
+    },
+    {
+     "id": "B9-OP-083",
+     "band": 9.0
+    },
+    {
+     "id": "B85-TQ-002",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 5,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "If I had to place the weight anywhere, I would put it on the observation that most of the delay is a response to insecure housing, insecure work and unaffordable childcare — which ..."
+  },
+  {
+   "collocation": "refugees",
+   "function": "观点表达",
+   "gloss": "难民",
+   "sources": [
+    {
+     "id": "B85-OP-100",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-101",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-102",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "It is argued that countries with high incomes have to allow a larger number of refugees to cross their borders."
+  },
+  {
+   "collocation": "apartment blocks",
+   "function": "观点表达",
+   "gloss": "公寓楼",
+   "sources": [
+    {
+     "id": "B8-OP-061",
+     "band": 8.0
+    },
+    {
+     "id": "B9-ADV-030",
+     "band": 9.0
+    },
+    {
+     "id": "B85-DIS-009",
+     "band": 8.5
+    }
+   ],
+   "docs8": 3,
+   "docs75": 6,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "High-rise apartment blocks are a common sight in cities around the world."
+  },
+  {
+   "collocation": "cost of living",
+   "function": "评价判断",
+   "gloss": "生活成本",
+   "sources": [
+    {
+     "id": "B85-DIS-018",
+     "band": 8.5
+    },
+    {
+     "id": "B85-OP-079",
+     "band": 8.5
+    },
+    {
+     "id": "B8-OP-033",
+     "band": 8.0
+    }
+   ],
+   "docs8": 3,
+   "docs75": 3,
+   "tier": "A",
+   "supplement_75": false,
+   "example": "Second, salaries offered are often higher to compensate for the high cost of living and demand for specialized skills."
+  }
+ ]
+}
